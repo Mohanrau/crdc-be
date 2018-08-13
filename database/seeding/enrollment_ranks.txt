@@ -1,0 +1,50 @@
+[
+  {
+    "id"  : "1",
+    "code": "DIAMOND",
+    "name": "DIAMOND",
+    "CV": 480,
+    "entitlement_lvl": 5,
+    "sales_type" : { "key" : "sale_types","values" : ["Repurchase","Auto-maintenance"]}
+  },
+ {
+   "id"  : "2",
+   "code": "PLATINUM",
+   "name": "PLATINUM",
+   "CV": 300,
+   "entitlement_lvl": 4,
+   "sales_type" : { "key" : "sale_types","values" : ["BA Upgrade","Auto-maintenance","Repurchase"]}
+ },
+ {
+   "id"  : "3",
+   "code": "GOLD",
+   "name": "GOLD",
+   "CV": 120,
+   "entitlement_lvl": 3,
+   "sales_type" : { "key" : "sale_types","values" : ["BA Upgrade","Repurchase","Auto-maintenance"]}
+ },
+ {
+   "id"  : "4",
+   "code": "SILVER",
+   "name": "SILVER",
+   "CV": 60,
+   "entitlement_lvl": 2,
+   "sales_type" : { "key" : "sale_types","values" : ["BA Upgrade","Repurchase","Auto-maintenance"]}
+ },
+ {
+   "id"  : "5",
+   "code": "PREMIER",
+   "name": "PREMIER",
+   "CV": 30,
+   "entitlement_lvl": 1,
+   "sales_type" : { "key" : "sale_types","values" : ["Repurchase","Auto-maintenance"]}
+ },
+ {
+   "id"  : "6",
+   "code": "MEMBER",
+   "name": "NORMAL MEMBER",
+   "CV": 0,
+   "entitlement_lvl": 0,
+   "sales_type" : { "key" : "sale_types","values" : ["Repurchase"]}
+ }
+]

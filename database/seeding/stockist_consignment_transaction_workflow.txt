@@ -1,0 +1,1 @@
+{"consignment_deposit": "CONSIGNMENT_DEPOSIT","consignment_refund": "CONSIGNMENT_REFUND","consignment_order": "CONSIGNMENT_ORDER","consignment_return": "CONSIGNMENT_RETURN"}

@@ -1,0 +1,422 @@
+[
+ {
+   "country_code": "MY",
+   "name": "EK ONE IPOH",
+   "code": "IPEK01",
+   "auto_release": 1,
+   "active": 1
+ },
+ {
+   "country_code": "MY",
+   "name": "EK ONE JOHOR BAHRU",
+   "code": "JBEK01",
+   "auto_release": 1,
+   "active": 1
+ },
+ {
+   "country_code": "MY",
+   "name": "EK ONE KUCHING",
+   "code": "KGEK01",
+   "auto_release": 1,
+   "active": 1
+ },
+ {
+   "country_code": "MY",
+   "name": "EK ONE PENANG",
+   "code": "PGEK01",
+   "auto_release": 1,
+   "active": 1
+ },
+ {
+   "country_code": "MY",
+   "name": "EK ONE KUANTAN",
+   "code": "KNEK01",
+   "auto_release": 1,
+   "active": 1
+ },
+ {
+   "country_code": "MY",
+   "name": "EK ONE KOTA KINABALU",
+   "code": "KKEK01",
+   "auto_release": 1,
+   "active": 1
+ },
+ {
+   "country_code": "MY",
+   "name": "Johor Baru Warehouse",
+   "code": "JBWH01",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "MY",
+   "name": "Johor Baru Damage Location",
+   "code": "JBGRB1",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "MY",
+   "name": "Kuching Warehouse",
+   "code": "KGWH01",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "MY",
+   "name": "Kuching Damage Location",
+   "code": "KGGRB1",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "MY",
+   "name": "Kota Kinabalu Warehouse",
+   "code": "KKWH01",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "MY",
+   "name": "Kota Kinabalu Damage Location",
+   "code": "KKGRB1",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "MY",
+   "name": "Ipoh Warehouse",
+   "code": "IPWH01",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "MY",
+   "name": "Ipoh Damage Location",
+   "code": "IPGRB1",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "MY",
+   "name": "Kuantan Warehouse",
+   "code": "KNWH01",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "MY",
+   "name": "Kuantan Damage Location",
+   "code": "KNGRB1",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "MY",
+   "name": "Kota Bharu Warehouse",
+   "code": "KBWH01",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "MY",
+   "name": "Kota Bharu Damage Location",
+   "code": "KBGRB1",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "MY",
+   "name": "EK One - HQ",
+   "code": "HQEK01",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "MY",
+   "name": "EK One - WH",
+   "code": "HQWH01",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "MY",
+   "name": "Penang Warehouse",
+   "code": "PGWH01",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "MY",
+   "name": "Penang Damage Location",
+   "code": "PGGRB1",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "MY",
+   "name": "Seberang Jaya Warehouse",
+   "code": "SJWH01",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "MY",
+   "name": "Seberang Jaya Damage Location",
+   "code": "SJGRB1",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "MY",
+   "name": "EK ONE KOTA BHARU",
+   "code": "KBEK01",
+   "auto_release": 1,
+   "active": 1
+ },
+ {
+   "country_code": "MY",
+   "name": "EK ONE SEBERANG JAYA",
+   "code": "SJEK01",
+   "auto_release": 1,
+   "active": 1
+ },
+ {
+   "country_code": "MY",
+   "name": "EDC",
+   "code": "DCWH01",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "MY",
+   "name": "EDC",
+   "code": "DCGRB1",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "MY",
+   "name": "EDC",
+   "code": "DCWH02",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "MY",
+   "name": "EDC",
+   "code": "DCGRB2",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "TH",
+   "name": "Thailand Warehouse",
+   "code": "THWH01",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "TH",
+   "name": "Thailand Damage Location",
+   "code": "THGRB1",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "TH",
+   "name": "Thailand 3rd Party WH",
+   "code": "TH3PL1",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "BN",
+   "name": "Brunei Warehouse",
+   "code": "BNWH01",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "BN",
+   "name": "Brunei Damage Location",
+   "code": "BNGRB1",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "BN",
+   "name": "Brunei 3rd Party WH",
+   "code": "BN3PL1",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "SG",
+   "name": "Singapore Warehouse",
+   "code": "SGWH01",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "SG",
+   "name": "Singapore Damage Location",
+   "code": "SGGRB1",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "TW",
+   "name": "Tai Chung Warehouse",
+   "code": "TWWH01",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "TW",
+   "name": "Tai Chung Damage Location",
+   "code": "TWGRB1",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "TW",
+   "name": "Kao Hsiung Warehouse",
+   "code": "TWWH02",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "TW",
+   "name": "Kao Hsiung Damage Location",
+   "code": "TWGRB2",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "HK",
+   "name": "Hong Kong Warehouse",
+   "code": "HKWH01",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "HK",
+   "name": "Hong Kong Damage Location",
+   "code": "HKGRB1",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "KH",
+   "name": "Cambodia Warehouse",
+   "code": "KHWH01",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "KH",
+   "name": "Cambodia Damage Location",
+   "code": "KHGRB1",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "PH",
+   "name": "Philippines Warehouse",
+   "code": "PHWH01",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "PH",
+   "name": "Philippines Damage Location",
+   "code": "PHGRB1",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "ID",
+   "name": "Jakarta Dispensary",
+   "code": "IDWH01",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "ID",
+   "name": "Jakarta Damage Location",
+   "code": "IDGRB1",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "ID",
+   "name": "Jakarta Distribution",
+   "code": "IDWH02",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "ID",
+   "name": "Jakarta Distribution Damage Location",
+   "code": "IDGRB2",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "ID",
+   "name": "Medan Warehouse",
+   "code": "IDWH03",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "ID",
+   "name": "Medan Damage Location",
+   "code": "IDGRB3",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "VN",
+   "name": "Ho Chi Minh Warehouse",
+   "code": "VNWH01",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "VN",
+   "name": "Ho Chi Minh Damage Location",
+   "code": "VNGRB1",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "VN",
+   "name": "Hanoi Warehouse",
+   "code": "VNWH02",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "VN",
+   "name": "Hanoi Damage Location",
+   "code": "VNGRB2",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "VN",
+   "name": "Danang Warehouse",
+   "code": "VNWH03",
+   "auto_release": 0,
+   "active": 1
+ },
+ {
+   "country_code": "VN",
+   "name": "Danang Damage Location",
+   "code": "VNGRB3",
+   "auto_release": 0,
+   "active": 1
+ }
+]

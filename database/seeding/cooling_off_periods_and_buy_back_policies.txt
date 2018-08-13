@@ -1,0 +1,56 @@
+[
+    {
+        "country_code": "MY",
+        "cooling_off_day": 10,
+        "buy_back_day": 180,
+        "status": 1
+    },
+    {
+        "country_code": "SG",
+        "cooling_off_day": 7,
+        "buy_back_day": 60,
+        "status": 1
+    },
+    {
+        "country_code": "BN",
+        "cooling_off_day": 7,
+        "buy_back_day": 60,
+        "status": 1
+    },
+    {
+        "country_code": "HK",
+        "cooling_off_day": 7,
+        "buy_back_day": 90,
+        "status": 1
+    },
+    {
+        "country_code": "TW",
+        "cooling_off_day": 30,
+        "buy_back_day": 180,
+        "status": 1
+    },
+    {
+        "country_code": "TH",
+        "cooling_off_day": 7,
+        "buy_back_day": 90,
+        "status": 1
+    },
+    {
+        "country_code": "PH",
+        "cooling_off_day": 7,
+        "buy_back_day": 30,
+        "status": 1
+    },
+    {
+        "country_code": "ID",
+        "cooling_off_day": 10,
+        "buy_back_day": 90,
+        "status": 1
+    },
+    {
+        "country_code": "KH",
+        "cooling_off_day": 7,
+        "buy_back_day": 90,
+        "status": 1
+    }
+]

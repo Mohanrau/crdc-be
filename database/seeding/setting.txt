@@ -1,0 +1,245 @@
+[
+    "setting_keys" : [
+        {
+            "id" : 1,
+            "name" : "Sales Delivery Fees",
+            "key" : "sales_delivery_fees"
+        }
+    ],
+    "settings" : [
+        {
+            "setting_key_id" : 1,
+            "value" : {
+                [
+                    {
+                        "zone_id" : 1,
+                        "condition" : "<",
+                        "amount" : 300,
+                        "fee" : 10
+                    },
+                    {
+                        "zone_id" : 2,
+                        "condition" : "<",
+                        "amount" : 300,
+                        "fee" : 15
+                    },
+                    {
+                        "zone_id" : null,
+                        "condition" : ">=",
+                        "amount" : 300,
+                        "fee" : "FOC"
+                    },
+                ]
+            },
+            "mapping_id" : 1,
+            "mapping_model" : "Country::class"
+        },
+        {
+            "setting_key_id" : 1,
+            "value" : {
+                [
+                    {
+                       "zone_id" : null,
+                        "condition" : "<",
+                        "amount" : 5000,
+                        "fee" : 150
+                    },
+                    {
+                        "zone_id" : null,
+                        "condition" : ">=",
+                        "amount" : 5000,
+                        "fee" : "FOC"
+                    },
+                ]
+            },
+            "mapping_id" : 2,
+            "mapping_model" : "Country::class"
+        },
+         {
+            "setting_key_id" : 1,
+            "value" : {
+                [
+                    {
+                       "zone_id" : null,
+                        "condition" : "<",
+                        "amount" : 300,
+                        "fee" : 10
+                    },
+                    {
+                        "zone_id" : null,
+                        "condition" : ">=",
+                        "amount" : 300,
+                        "fee" : "FOC"
+                    },
+                ]
+            },
+            "mapping_id" : 4,
+            "mapping_model" : "Country::class"
+        },
+        {
+            "setting_key_id" : 1,
+            "value" : {
+                [
+                    {
+                       "zone_id" : null,
+                        "condition" : "<",
+                        "amount" : 300,
+                        "fee" : 10
+                    },
+                    {
+                        "zone_id" : null,
+                        "condition" : ">=",
+                        "amount" : 300,
+                        "fee" : "FOC"
+                    },
+                ]
+            },
+            "mapping_id" : 3,
+            "mapping_model" : "Country::class"
+        },
+         {
+            "setting_key_id" : 1,
+            "value" : {
+                [
+                    {
+                       "zone_id" : null,
+                        "condition" : "<",
+                        "amount" : 300000,
+                        "fee" : 200
+                    },
+                    {
+                        "zone_id" : null,
+                        "condition" : ">=",
+                        "amount" : 300,
+                        "fee" : "FOC"
+                    },
+                ]
+            },
+            "mapping_id" : 8,
+            "mapping_model" : "Country::class"
+        },
+        {
+            "setting_key_id" : 1,
+            "value" : {
+                [
+                    {
+                       "zone_id" : null,
+                        "condition" : "<",
+                        "amount" : 100,
+                        "fee" : 3
+                    },
+                    {
+                        "zone_id" : null,
+                        "condition" : ">=",
+                        "amount" : 100,
+                        "fee" : "FOC"
+                    },
+                ]
+            },
+            "mapping_id" : 7,
+            "mapping_model" : "Country::class"
+        },
+        {
+            "setting_key_id" : 1,
+            "value" : {
+                [
+                    {
+                       "zone_id" : null,
+                        "condition" : "<",
+                        "amount" : 100,
+                        "fee" : 3
+                    },
+                    {
+                        "zone_id" : null,
+                        "condition" : ">=",
+                        "amount" : 100,
+                        "fee" : "FOC"
+                    },
+                ]
+            },
+            "mapping_id" : 7,
+            "mapping_model" : "Country::class"
+        },
+        {
+            "setting_key_id" : 1,
+            "value" : {
+                [
+                    {
+                       "zone_id" : null,
+                        "condition" : "<",
+                        "amount" : 2000000,
+                        "fee" : 40000
+                    },
+                    {
+                        "zone_id" : null,
+                        "condition" : ">=",
+                        "amount" : 2000000,
+                        "fee" : "FOC"
+                    },
+                ]
+            },
+            "mapping_id" : 9,
+            "mapping_model" : "Country::class"
+        },
+        {
+            "setting_key_id" : 1,
+            "value" : {
+                [
+                    {
+                       "zone_id" : 3,
+                        "condition" : "<",
+                        "amount" : 3000,
+                        "fee" : 100
+                    },
+                    {
+                       "zone_id" : 4,
+                        "condition" : "<",
+                        "amount" : 3000,
+                        "fee" : 150
+                    },
+                    {
+                       "zone_id" : 5,
+                        "condition" : "<",
+                        "amount" : 3000,
+                        "fee" : 400
+                    },
+                    {
+                        "zone_id" : null,
+                        "condition" : ">=",
+                        "amount" : 2000000,
+                        "fee" : "FOC"
+                    },
+                ]
+            },
+            "mapping_id" : 6,
+            "mapping_model" : "Country::class"
+        },
+        {
+            "setting_key_id" : 1,
+            "value" : {
+                [
+                    {
+                       "zone_id" : 6,
+                        "condition" : "<",
+                        "amount" : 5000,
+                        "fee" : 200
+                    },
+                    {
+                       "zone_id" : 7,
+                        "condition" : "<",
+                        "amount" : 5000,
+                        "fee" : 300
+                    },
+                    {
+                        "zone_id" : null,
+                        "condition" : ">=",
+                        "amount" : 5000,
+                        "fee" : "FOC"
+                    },
+                ]
+            },
+            "mapping_id" : 5,
+            "mapping_model" : "Country::class"
+        },
+    ]
+]

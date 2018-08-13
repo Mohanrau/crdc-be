@@ -1,0 +1,1738 @@
+[
+ {
+   "f_company_name": "Malaysia",
+   "f_company_code": "MY",
+   "code_iso_3": "MYS",
+   "f_company_id": "1",
+   "call_code": "60"
+ },
+ {
+   "f_company_name": "Thailand",
+   "f_company_code": "TH",
+   "code_iso_3": "THA",
+   "f_company_id": "2",
+   "call_code": "66"
+ },
+ {
+   "f_company_name": "Brunei",
+   "f_company_code": "BN",
+   "code_iso_3": "BRN",
+   "f_company_id": "3",
+   "call_code": "673"
+ },
+ {
+   "f_company_name": "Singapore",
+   "f_company_code": "SG",
+   "code_iso_3": "SGP",
+   "f_company_id": "4",
+   "call_code": "65"
+ },
+ {
+   "f_company_name": "Taiwan",
+   "f_company_code": "TW",
+   "code_iso_3": "TWN",
+   "f_company_id": "5",
+   "call_code": "886"
+ },
+ {
+   "f_company_name": "Hong Kong",
+   "f_company_code": "HK",
+   "code_iso_3": "HKG",
+   "f_company_id": "6",
+   "call_code": "852"
+ },
+ {
+   "f_company_name": "Cambodia",
+   "f_company_code": "KH",
+   "code_iso_3": "KHM",
+   "f_company_id": "7",
+   "call_code": "855"
+ },
+ {
+   "f_company_name": "Philippines",
+   "f_company_code": "PH",
+   "code_iso_3": "PHL",
+   "f_company_id": "8",
+   "call_code": "63"
+ },
+ {
+   "f_company_name": "Indonesia",
+   "f_company_code": "ID",
+   "code_iso_3": "IDN",
+   "f_company_id": "9",
+   "call_code": "62"
+ },
+ {
+   "f_company_name": "China",
+   "f_company_code": "CN",
+   "code_iso_3": "CHN",
+   "f_company_id": "10",
+   "call_code": "86"
+ },
+ {
+   "f_company_name": "Afghanistan",
+   "f_company_code": "AF",
+   "code_iso_3": "AFG",
+   "f_company_id": "11",
+   "call_code": "93"
+ },
+ {
+   "f_company_name": "Aland Islands",
+   "f_company_code": "AX",
+   "code_iso_3": "ALA",
+   "f_company_id": "12",
+   "call_code": "0"
+ },
+ {
+   "f_company_name": "Albania",
+   "f_company_code": "AL",
+   "code_iso_3": "ALB",
+   "f_company_id": "13",
+   "call_code": "355"
+ },
+ {
+   "f_company_name": "Algeria",
+   "f_company_code": "DZ",
+   "code_iso_3": "DZA",
+   "f_company_id": "14",
+   "call_code": "213"
+ },
+ {
+   "f_company_name": "American Samoa",
+   "f_company_code": "AS",
+   "code_iso_3": "ASM",
+   "f_company_id": "15",
+   "call_code": "684"
+ },
+ {
+   "f_company_name": "Andorra",
+   "f_company_code": "AD",
+   "code_iso_3": "AND",
+   "f_company_id": "16",
+   "call_code": "376"
+ },
+ {
+   "f_company_name": "Angola",
+   "f_company_code": "AO",
+   "code_iso_3": "AGO",
+   "f_company_id": "17",
+   "call_code": "244"
+ },
+ {
+   "f_company_name": "Anguilla",
+   "f_company_code": "AI",
+   "code_iso_3": "AIA",
+   "f_company_id": "18",
+   "call_code": "264"
+ },
+ {
+   "f_company_name": "Antarctica",
+   "f_company_code": "AQ",
+   "code_iso_3": "ATA",
+   "f_company_id": "19",
+   "call_code": "0"
+ },
+ {
+   "f_company_name": "Antigua and Barbuda",
+   "f_company_code": "AG",
+   "code_iso_3": "ATG",
+   "f_company_id": "20",
+   "call_code": "268"
+ },
+ {
+   "f_company_name": "Argentina",
+   "f_company_code": "AR",
+   "code_iso_3": "ARG",
+   "f_company_id": "21",
+   "call_code": "54"
+ },
+ {
+   "f_company_name": "Armenia",
+   "f_company_code": "AM",
+   "code_iso_3": "ARM",
+   "f_company_id": "22",
+   "call_code": "374"
+ },
+ {
+   "f_company_name": "Aruba",
+   "f_company_code": "AW",
+   "code_iso_3": "ABW",
+   "f_company_id": "23",
+   "call_code": "297"
+ },
+ {
+   "f_company_name": "Australia",
+   "f_company_code": "AU",
+   "code_iso_3": "AUS",
+   "f_company_id": "24",
+   "call_code": "61"
+ },
+ {
+   "f_company_name": "Austria",
+   "f_company_code": "AT",
+   "code_iso_3": "AUT",
+   "f_company_id": "25",
+   "call_code": "43"
+ },
+ {
+   "f_company_name": "Azerbaijan",
+   "f_company_code": "AZ",
+   "code_iso_3": "AZE",
+   "f_company_id": "26",
+   "call_code": "994"
+ },
+ {
+   "f_company_name": "Bahamas",
+   "f_company_code": "BS",
+   "code_iso_3": "BHS",
+   "f_company_id": "27",
+   "call_code": "242"
+ },
+ {
+   "f_company_name": "Bahrain",
+   "f_company_code": "BH",
+   "code_iso_3": "BHR",
+   "f_company_id": "28",
+   "call_code": "973"
+ },
+ {
+   "f_company_name": "Bangladesh",
+   "f_company_code": "BD",
+   "code_iso_3": "BGD",
+   "f_company_id": "29",
+   "call_code": "880"
+ },
+ {
+   "f_company_name": "Barbados",
+   "f_company_code": "BB",
+   "code_iso_3": "BRB",
+   "f_company_id": "30",
+   "call_code": "246"
+ },
+ {
+   "f_company_name": "Belarus",
+   "f_company_code": "BY",
+   "code_iso_3": "BLR",
+   "f_company_id": "31",
+   "call_code": "375"
+ },
+ {
+   "f_company_name": "Belgium",
+   "f_company_code": "BE",
+   "code_iso_3": "BEL",
+   "f_company_id": "32",
+   "call_code": "32"
+ },
+ {
+   "f_company_name": "Belize",
+   "f_company_code": "BZ",
+   "code_iso_3": "BLZ",
+   "f_company_id": "33",
+   "call_code": "501"
+ },
+ {
+   "f_company_name": "Benin",
+   "f_company_code": "BJ",
+   "code_iso_3": "BEN",
+   "f_company_id": "34",
+   "call_code": "229"
+ },
+ {
+   "f_company_name": "Bermuda",
+   "f_company_code": "BM",
+   "code_iso_3": "BMU",
+   "f_company_id": "35",
+   "call_code": "441"
+ },
+ {
+   "f_company_name": "Bhutan",
+   "f_company_code": "BT",
+   "code_iso_3": "BTN",
+   "f_company_id": "36",
+   "call_code": "975"
+ },
+ {
+   "f_company_name": "Bolivia",
+   "f_company_code": "BO",
+   "code_iso_3": "BOL",
+   "f_company_id": "37",
+   "call_code": "591"
+ },
+ {
+   "f_company_name": "Bosnia and Herzegovina",
+   "f_company_code": "BA",
+   "code_iso_3": "BIH",
+   "f_company_id": "38",
+   "call_code": "387"
+ },
+ {
+   "f_company_name": "Botswana",
+   "f_company_code": "BW",
+   "code_iso_3": "BWA",
+   "f_company_id": "39",
+   "call_code": "267"
+ },
+ {
+   "f_company_name": "Bouvet Island",
+   "f_company_code": "BV",
+   "code_iso_3": "BVT",
+   "f_company_id": "40",
+   "call_code": "0"
+ },
+ {
+   "f_company_name": "Brazil",
+   "f_company_code": "BR",
+   "code_iso_3": "BRA",
+   "f_company_id": "41",
+   "call_code": "55"
+ },
+ {
+   "f_company_name": "British Virgin Islands",
+   "f_company_code": "VG",
+   "code_iso_3": "VGB",
+   "f_company_id": "42",
+   "call_code": "0"
+ },
+ {
+   "f_company_name": "British Indian Ocean Territory",
+   "f_company_code": "IO",
+   "code_iso_3": "IOT",
+   "f_company_id": "43",
+   "call_code": "0"
+ },
+ {
+   "f_company_name": "Bulgaria",
+   "f_company_code": "BG",
+   "code_iso_3": "BGR",
+   "f_company_id": "44",
+   "call_code": "359"
+ },
+ {
+   "f_company_name": "Burkina Faso",
+   "f_company_code": "BF",
+   "code_iso_3": "BFA",
+   "f_company_id": "45",
+   "call_code": "226"
+ },
+ {
+   "f_company_name": "Burundi",
+   "f_company_code": "BI",
+   "code_iso_3": "BDI",
+   "f_company_id": "46",
+   "call_code": "257"
+ },
+ {
+   "f_company_name": "Cameroon",
+   "f_company_code": "CM",
+   "code_iso_3": "CMR",
+   "f_company_id": "47",
+   "call_code": "237"
+ },
+ {
+   "f_company_name": "Canada",
+   "f_company_code": "CA",
+   "code_iso_3": "CAN",
+   "f_company_id": "48",
+   "call_code": "1"
+ },
+ {
+   "f_company_name": "Cape Verde",
+   "f_company_code": "CV",
+   "code_iso_3": "CPV",
+   "f_company_id": "49",
+   "call_code": "238"
+ },
+ {
+   "f_company_name": "Cayman Islands",
+   "f_company_code": "KY",
+   "code_iso_3": "CYM",
+   "f_company_id": "50",
+   "call_code": "345"
+ },
+ {
+   "f_company_name": "Central African Republic",
+   "f_company_code": "CF",
+   "code_iso_3": "CAF",
+   "f_company_id": "51",
+   "call_code": "236"
+ },
+ {
+   "f_company_name": "Chad",
+   "f_company_code": "TD",
+   "code_iso_3": "TCD",
+   "f_company_id": "52",
+   "call_code": "235"
+ },
+ {
+   "f_company_name": "Chile",
+   "f_company_code": "CL",
+   "code_iso_3": "CHL",
+   "f_company_id": "53",
+   "call_code": "56"
+ },
+ {
+   "f_company_name": "Macao, SAR China",
+   "f_company_code": "MO",
+   "code_iso_3": "MAC",
+   "f_company_id": "54",
+   "call_code": "0"
+ },
+ {
+   "f_company_name": "Christmas Island",
+   "f_company_code": "CX",
+   "code_iso_3": "CXR",
+   "f_company_id": "55",
+   "call_code": "61"
+ },
+ {
+   "f_company_name": "Cocos (Keeling) Islands",
+   "f_company_code": "CC",
+   "code_iso_3": "CCK",
+   "f_company_id": "56",
+   "call_code": "61"
+ },
+ {
+   "f_company_name": "Colombia",
+   "f_company_code": "CO",
+   "code_iso_3": "COL",
+   "f_company_id": "57",
+   "call_code": "57"
+ },
+ {
+   "f_company_name": "Comoros",
+   "f_company_code": "KM",
+   "code_iso_3": "COM",
+   "f_company_id": "58",
+   "call_code": "269"
+ },
+ {
+   "f_company_name": "Congo(Brazzaville)",
+   "f_company_code": "CG",
+   "code_iso_3": "COG",
+   "f_company_id": "59",
+   "call_code": "242"
+ },
+ {
+   "f_company_name": "Congo, (Kinshasa)",
+   "f_company_code": "CD",
+   "code_iso_3": "COD",
+   "f_company_id": "60",
+   "call_code": "0"
+ },
+ {
+   "f_company_name": "Cook Islands",
+   "f_company_code": "CK",
+   "code_iso_3": "COK",
+   "f_company_id": "61",
+   "call_code": "682"
+ },
+ {
+   "f_company_name": "Costa Rica",
+   "f_company_code": "CR",
+   "code_iso_3": "CRI",
+   "f_company_id": "62",
+   "call_code": "506"
+ },
+ {
+   "f_company_name": "Côte d'Ivoire",
+   "f_company_code": "CI",
+   "code_iso_3": "CIV",
+   "f_company_id": "63",
+   "call_code": "0"
+ },
+ {
+   "f_company_name": "Croatia",
+   "f_company_code": "HR",
+   "code_iso_3": "HRV",
+   "f_company_id": "64",
+   "call_code": "0"
+ },
+ {
+   "f_company_name": "Cuba",
+   "f_company_code": "CU",
+   "code_iso_3": "CUB",
+   "f_company_id": "65",
+   "call_code": "53"
+ },
+ {
+   "f_company_name": "Cyprus",
+   "f_company_code": "CY",
+   "code_iso_3": "CYP",
+   "f_company_id": "66",
+   "call_code": "357"
+ },
+ {
+   "f_company_name": "Czech Republic",
+   "f_company_code": "CZ",
+   "code_iso_3": "CZE",
+   "f_company_id": "67",
+   "call_code": "420"
+ },
+ {
+   "f_company_name": "Denmark",
+   "f_company_code": "DK",
+   "code_iso_3": "DNK",
+   "f_company_id": "68",
+   "call_code": "45"
+ },
+ {
+   "f_company_name": "Djibouti",
+   "f_company_code": "DJ",
+   "code_iso_3": "DJI",
+   "f_company_id": "69",
+   "call_code": "253"
+ },
+ {
+   "f_company_name": "Dominica",
+   "f_company_code": "DM",
+   "code_iso_3": "DMA",
+   "f_company_id": "70",
+   "call_code": "767"
+ },
+ {
+   "f_company_name": "Dominican Republic",
+   "f_company_code": "DO",
+   "code_iso_3": "DOM",
+   "f_company_id": "71",
+   "call_code": "809"
+ },
+ {
+   "f_company_name": "Ecuador",
+   "f_company_code": "EC",
+   "code_iso_3": "ECU",
+   "f_company_id": "72",
+   "call_code": "593"
+ },
+ {
+   "f_company_name": "Egypt",
+   "f_company_code": "EG",
+   "code_iso_3": "EGY",
+   "f_company_id": "73",
+   "call_code": "20"
+ },
+ {
+   "f_company_name": "El Salvador",
+   "f_company_code": "SV",
+   "code_iso_3": "SLV",
+   "f_company_id": "74",
+   "call_code": "503"
+ },
+ {
+   "f_company_name": "Equatorial Guinea",
+   "f_company_code": "GQ",
+   "code_iso_3": "GNQ",
+   "f_company_id": "75",
+   "call_code": "240"
+ },
+ {
+   "f_company_name": "Eritrea",
+   "f_company_code": "ER",
+   "code_iso_3": "ERI",
+   "f_company_id": "76",
+   "call_code": "291"
+ },
+ {
+   "f_company_name": "Estonia",
+   "f_company_code": "EE",
+   "code_iso_3": "EST",
+   "f_company_id": "77",
+   "call_code": "372"
+ },
+ {
+   "f_company_name": "Ethiopia",
+   "f_company_code": "ET",
+   "code_iso_3": "ETH",
+   "f_company_id": "78",
+   "call_code": "251"
+ },
+ {
+   "f_company_name": "Falkland Islands (Malvinas)",
+   "f_company_code": "FK",
+   "code_iso_3": "FLK",
+   "f_company_id": "79",
+   "call_code": "500"
+ },
+ {
+   "f_company_name": "Faroe Islands",
+   "f_company_code": "FO",
+   "code_iso_3": "FRO",
+   "f_company_id": "80",
+   "call_code": "298"
+ },
+ {
+   "f_company_name": "Fiji",
+   "f_company_code": "FJ",
+   "code_iso_3": "FJI",
+   "f_company_id": "81",
+   "call_code": "679"
+ },
+ {
+   "f_company_name": "Finland",
+   "f_company_code": "FI",
+   "code_iso_3": "FIN",
+   "f_company_id": "82",
+   "call_code": "358"
+ },
+ {
+   "f_company_name": "France",
+   "f_company_code": "FR",
+   "code_iso_3": "FRA",
+   "f_company_id": "83",
+   "call_code": "33"
+ },
+ {
+   "f_company_name": "French Guiana",
+   "f_company_code": "GF",
+   "code_iso_3": "GUF",
+   "f_company_id": "84",
+   "call_code": "594"
+ },
+ {
+   "f_company_name": "French Polynesia",
+   "f_company_code": "PF",
+   "code_iso_3": "PYF",
+   "f_company_id": "85",
+   "call_code": "689"
+ },
+ {
+   "f_company_name": "French Southern Territories",
+   "f_company_code": "TF",
+   "code_iso_3": "ATF",
+   "f_company_id": "86",
+   "call_code": "0"
+ },
+ {
+   "f_company_name": "Gabon",
+   "f_company_code": "GA",
+   "code_iso_3": "GAB",
+   "f_company_id": "87",
+   "call_code": "241"
+ },
+ {
+   "f_company_name": "Gambia",
+   "f_company_code": "GM",
+   "code_iso_3": "GMB",
+   "f_company_id": "88",
+   "call_code": "220"
+ },
+ {
+   "f_company_name": "Georgia",
+   "f_company_code": "GE",
+   "code_iso_3": "GEO",
+   "f_company_id": "89",
+   "call_code": "995"
+ },
+ {
+   "f_company_name": "Germany",
+   "f_company_code": "DE",
+   "code_iso_3": "DEU",
+   "f_company_id": "90",
+   "call_code": "49"
+ },
+ {
+   "f_company_name": "Ghana",
+   "f_company_code": "GH",
+   "code_iso_3": "GHA",
+   "f_company_id": "91",
+   "call_code": "233"
+ },
+ {
+   "f_company_name": "Gibraltar",
+   "f_company_code": "GI",
+   "code_iso_3": "GIB",
+   "f_company_id": "92",
+   "call_code": "350"
+ },
+ {
+   "f_company_name": "Greece",
+   "f_company_code": "GR",
+   "code_iso_3": "GRC",
+   "f_company_id": "93",
+   "call_code": "30"
+ },
+ {
+   "f_company_name": "Greenland",
+   "f_company_code": "GL",
+   "code_iso_3": "GRL",
+   "f_company_id": "94",
+   "call_code": "299"
+ },
+ {
+   "f_company_name": "Grenada",
+   "f_company_code": "GD",
+   "code_iso_3": "GRD",
+   "f_company_id": "95",
+   "call_code": "473"
+ },
+ {
+   "f_company_name": "Guadeloupe",
+   "f_company_code": "GP",
+   "code_iso_3": "GLP",
+   "f_company_id": "96",
+   "call_code": "590"
+ },
+ {
+   "f_company_name": "Guam",
+   "f_company_code": "GU",
+   "code_iso_3": "GUM",
+   "f_company_id": "97",
+   "call_code": "671"
+ },
+ {
+   "f_company_name": "Guatemala",
+   "f_company_code": "GT",
+   "code_iso_3": "GTM",
+   "f_company_id": "98",
+   "call_code": "502"
+ },
+ {
+   "f_company_name": "Guernsey",
+   "f_company_code": "GG",
+   "code_iso_3": "GGY",
+   "f_company_id": "99",
+   "call_code": "0"
+ },
+ {
+   "f_company_name": "Guinea",
+   "f_company_code": "GN",
+   "code_iso_3": "GIN",
+   "f_company_id": "100",
+   "call_code": "224"
+ },
+ {
+   "f_company_name": "Guinea-Bissau",
+   "f_company_code": "GW",
+   "code_iso_3": "GNB",
+   "f_company_id": "101",
+   "call_code": "245"
+ },
+ {
+   "f_company_name": "Guyana",
+   "f_company_code": "GY",
+   "code_iso_3": "GUY",
+   "f_company_id": "102",
+   "call_code": "592"
+ },
+ {
+   "f_company_name": "Haiti",
+   "f_company_code": "HT",
+   "code_iso_3": "HTI",
+   "f_company_id": "103",
+   "call_code": "509"
+ },
+ {
+   "f_company_name": "Heard and Mcdonald Islands",
+   "f_company_code": "HM",
+   "code_iso_3": "HMD",
+   "f_company_id": "104",
+   "call_code": "0"
+ },
+ {
+   "f_company_name": "Holy See(Vatican City State)",
+   "f_company_code": "VA",
+   "code_iso_3": "VAT",
+   "f_company_id": "105",
+   "call_code": "379"
+ },
+ {
+   "f_company_name": "Honduras",
+   "f_company_code": "HN",
+   "code_iso_3": "HND",
+   "f_company_id": "106",
+   "call_code": "504"
+ },
+ {
+   "f_company_name": "Hungary",
+   "f_company_code": "HU",
+   "code_iso_3": "HUN",
+   "f_company_id": "107",
+   "call_code": "36"
+ },
+ {
+   "f_company_name": "Iceland",
+   "f_company_code": "IS",
+   "code_iso_3": "ISL",
+   "f_company_id": "108",
+   "call_code": "354"
+ },
+ {
+   "f_company_name": "India",
+   "f_company_code": "IN",
+   "code_iso_3": "IND",
+   "f_company_id": "109",
+   "call_code": "91"
+ },
+ {
+   "f_company_name": "Iran, Islamic Republic of",
+   "f_company_code": "IR",
+   "code_iso_3": "IRN",
+   "f_company_id": "110",
+   "call_code": "98"
+ },
+ {
+   "f_company_name": "Iraq",
+   "f_company_code": "IQ",
+   "code_iso_3": "IRQ",
+   "f_company_id": "111",
+   "call_code": "964"
+ },
+ {
+   "f_company_name": "Ireland",
+   "f_company_code": "IE",
+   "code_iso_3": "IRL",
+   "f_company_id": "112",
+   "call_code": "353"
+ },
+ {
+   "f_company_name": "Isle of Man",
+   "f_company_code": "IM",
+   "code_iso_3": "IMN",
+   "f_company_id": "113",
+   "call_code": "0"
+ },
+ {
+   "f_company_name": "Israel",
+   "f_company_code": "IL",
+   "code_iso_3": "ISR",
+   "f_company_id": "114",
+   "call_code": "972"
+ },
+ {
+   "f_company_name": "Italy",
+   "f_company_code": "IT",
+   "code_iso_3": "ITA",
+   "f_company_id": "115",
+   "call_code": "39"
+ },
+ {
+   "f_company_name": "Jamaica",
+   "f_company_code": "JM",
+   "code_iso_3": "JAM",
+   "f_company_id": "116",
+   "call_code": "876"
+ },
+ {
+   "f_company_name": "Japan",
+   "f_company_code": "JP",
+   "code_iso_3": "JPN",
+   "f_company_id": "117",
+   "call_code": "81"
+ },
+ {
+   "f_company_name": "Jersey",
+   "f_company_code": "JE",
+   "code_iso_3": "JEY",
+   "f_company_id": "118",
+   "call_code": "0"
+ },
+ {
+   "f_company_name": "Jordan",
+   "f_company_code": "JO",
+   "code_iso_3": "JOR",
+   "f_company_id": "119",
+   "call_code": "962"
+ },
+ {
+   "f_company_name": "Kazakhstan",
+   "f_company_code": "KZ",
+   "code_iso_3": "KAZ",
+   "f_company_id": "120",
+   "call_code": "7"
+ },
+ {
+   "f_company_name": "Kenya",
+   "f_company_code": "KE",
+   "code_iso_3": "KEN",
+   "f_company_id": "121",
+   "call_code": "254"
+ },
+ {
+   "f_company_name": "Kiribati",
+   "f_company_code": "KI",
+   "code_iso_3": "KIR",
+   "f_company_id": "122",
+   "call_code": "686"
+ },
+ {
+   "f_company_name": "Korea(North)",
+   "f_company_code": "KP",
+   "code_iso_3": "PRK",
+   "f_company_id": "123",
+   "call_code": "0"
+ },
+ {
+   "f_company_name": "Korea(South)",
+   "f_company_code": "KR",
+   "code_iso_3": "KOR",
+   "f_company_id": "124",
+   "call_code": "0"
+ },
+ {
+   "f_company_name": "Kuwait",
+   "f_company_code": "KW",
+   "code_iso_3": "KWT",
+   "f_company_id": "125",
+   "call_code": "965"
+ },
+ {
+   "f_company_name": "Kyrgyzstan",
+   "f_company_code": "KG",
+   "code_iso_3": "KGZ",
+   "f_company_id": "126",
+   "call_code": "996"
+ },
+ {
+   "f_company_name": "Lao PDR",
+   "f_company_code": "LA",
+   "code_iso_3": "LAO",
+   "f_company_id": "127",
+   "call_code": "0"
+ },
+ {
+   "f_company_name": "Latvia",
+   "f_company_code": "LV",
+   "code_iso_3": "LVA",
+   "f_company_id": "128",
+   "call_code": "371"
+ },
+ {
+   "f_company_name": "Lebanon",
+   "f_company_code": "LB",
+   "code_iso_3": "LBN",
+   "f_company_id": "129",
+   "call_code": "961"
+ },
+ {
+   "f_company_name": "Lesotho",
+   "f_company_code": "LS",
+   "code_iso_3": "LSO",
+   "f_company_id": "130",
+   "call_code": "266"
+ },
+ {
+   "f_company_name": "Liberia",
+   "f_company_code": "LR",
+   "code_iso_3": "LBR",
+   "f_company_id": "131",
+   "call_code": "231"
+ },
+ {
+   "f_company_name": "Libya",
+   "f_company_code": "LY",
+   "code_iso_3": "LBY",
+   "f_company_id": "132",
+   "call_code": "218"
+ },
+ {
+   "f_company_name": "Liechtenstein",
+   "f_company_code": "LI",
+   "code_iso_3": "LIE",
+   "f_company_id": "133",
+   "call_code": "423"
+ },
+ {
+   "f_company_name": "Lithuania",
+   "f_company_code": "LT",
+   "code_iso_3": "LTU",
+   "f_company_id": "134",
+   "call_code": "370"
+ },
+ {
+   "f_company_name": "Luxembourg",
+   "f_company_code": "LU",
+   "code_iso_3": "LUX",
+   "f_company_id": "135",
+   "call_code": "352"
+ },
+ {
+   "f_company_name": "Macedonia, Republic of",
+   "f_company_code": "MK",
+   "code_iso_3": "MKD",
+   "f_company_id": "136",
+   "call_code": "389"
+ },
+ {
+   "f_company_name": "Madagascar",
+   "f_company_code": "MG",
+   "code_iso_3": "MDG",
+   "f_company_id": "137",
+   "call_code": "261"
+ },
+ {
+   "f_company_name": "Malawi",
+   "f_company_code": "MW",
+   "code_iso_3": "MWI",
+   "f_company_id": "138",
+   "call_code": "265"
+ },
+ {
+   "f_company_name": "Maldives",
+   "f_company_code": "MV",
+   "code_iso_3": "MDV",
+   "f_company_id": "139",
+   "call_code": "960"
+ },
+ {
+   "f_company_name": "Mali",
+   "f_company_code": "ML",
+   "code_iso_3": "MLI",
+   "f_company_id": "140",
+   "call_code": "223"
+ },
+ {
+   "f_company_name": "Malta",
+   "f_company_code": "MT",
+   "code_iso_3": "MLT",
+   "f_company_id": "141",
+   "call_code": "356"
+ },
+ {
+   "f_company_name": "Marshall Islands",
+   "f_company_code": "MH",
+   "code_iso_3": "MHL",
+   "f_company_id": "142",
+   "call_code": "692"
+ },
+ {
+   "f_company_name": "Martinique",
+   "f_company_code": "MQ",
+   "code_iso_3": "MTQ",
+   "f_company_id": "143",
+   "call_code": "596"
+ },
+ {
+   "f_company_name": "Mauritania",
+   "f_company_code": "MR",
+   "code_iso_3": "MRT",
+   "f_company_id": "144",
+   "call_code": "222"
+ },
+ {
+   "f_company_name": "Mauritius",
+   "f_company_code": "MU",
+   "code_iso_3": "MUS",
+   "f_company_id": "145",
+   "call_code": "230"
+ },
+ {
+   "f_company_name": "Mayotte",
+   "f_company_code": "YT",
+   "code_iso_3": "MYT",
+   "f_company_id": "146",
+   "call_code": "262"
+ },
+ {
+   "f_company_name": "Mexico",
+   "f_company_code": "MX",
+   "code_iso_3": "MEX",
+   "f_company_id": "147",
+   "call_code": "52"
+ },
+ {
+   "f_company_name": "Micronesia, Federated States of",
+   "f_company_code": "FM",
+   "code_iso_3": "FSM",
+   "f_company_id": "148",
+   "call_code": "691"
+ },
+ {
+   "f_company_name": "Moldova",
+   "f_company_code": "MD",
+   "code_iso_3": "MDA",
+   "f_company_id": "149",
+   "call_code": "373"
+ },
+ {
+   "f_company_name": "Monaco",
+   "f_company_code": "MC",
+   "code_iso_3": "MCO",
+   "f_company_id": "150",
+   "call_code": "377"
+ },
+ {
+   "f_company_name": "Mongolia",
+   "f_company_code": "MN",
+   "code_iso_3": "MNG",
+   "f_company_id": "151",
+   "call_code": "976"
+ },
+ {
+   "f_company_name": "Montenegro",
+   "f_company_code": "ME",
+   "code_iso_3": "MNE",
+   "f_company_id": "152",
+   "call_code": "382"
+ },
+ {
+   "f_company_name": "Montserrat",
+   "f_company_code": "MS",
+   "code_iso_3": "MSR",
+   "f_company_id": "153",
+   "call_code": "664"
+ },
+ {
+   "f_company_name": "Morocco",
+   "f_company_code": "MA",
+   "code_iso_3": "MAR",
+   "f_company_id": "154",
+   "call_code": "0"
+ },
+ {
+   "f_company_name": "Mozambique",
+   "f_company_code": "MZ",
+   "code_iso_3": "MOZ",
+   "f_company_id": "155",
+   "call_code": "258"
+ },
+ {
+   "f_company_name": "Myanmar",
+   "f_company_code": "MM",
+   "code_iso_3": "MMR",
+   "f_company_id": "156",
+   "call_code": "95"
+ },
+ {
+   "f_company_name": "Namibia",
+   "f_company_code": "NA",
+   "code_iso_3": "NAM",
+   "f_company_id": "157",
+   "call_code": "264"
+ },
+ {
+   "f_company_name": "Nauru",
+   "f_company_code": "NR",
+   "code_iso_3": "NRU",
+   "f_company_id": "158",
+   "call_code": "674"
+ },
+ {
+   "f_company_name": "Nepal",
+   "f_company_code": "NP",
+   "code_iso_3": "NPL",
+   "f_company_id": "159",
+   "call_code": "977"
+ },
+ {
+   "f_company_name": "Netherlands",
+   "f_company_code": "NL",
+   "code_iso_3": "NLD",
+   "f_company_id": "160",
+   "call_code": "31"
+ },
+ {
+   "f_company_name": "Netherlands Antilles",
+   "f_company_code": "AN",
+   "code_iso_3": "ANT",
+   "f_company_id": "161",
+   "call_code": "599"
+ },
+ {
+   "f_company_name": "New Caledonia",
+   "f_company_code": "NC",
+   "code_iso_3": "NCL",
+   "f_company_id": "162",
+   "call_code": "687"
+ },
+ {
+   "f_company_name": "New Zealand",
+   "f_company_code": "NZ",
+   "code_iso_3": "NZL",
+   "f_company_id": "163",
+   "call_code": "64"
+ },
+ {
+   "f_company_name": "Nicaragua",
+   "f_company_code": "NI",
+   "code_iso_3": "NIC",
+   "f_company_id": "164",
+   "call_code": "505"
+ },
+ {
+   "f_company_name": "Niger",
+   "f_company_code": "NE",
+   "code_iso_3": "NER",
+   "f_company_id": "165",
+   "call_code": "227"
+ },
+ {
+   "f_company_name": "Nigeria",
+   "f_company_code": "NG",
+   "code_iso_3": "NGA",
+   "f_company_id": "166",
+   "call_code": "234"
+ },
+ {
+   "f_company_name": "Niue",
+   "f_company_code": "NU",
+   "code_iso_3": "NIU",
+   "f_company_id": "167",
+   "call_code": "683"
+ },
+ {
+   "f_company_name": "Norfolk Island",
+   "f_company_code": "NF",
+   "code_iso_3": "NFK",
+   "f_company_id": "168",
+   "call_code": "672"
+ },
+ {
+   "f_company_name": "Northern Mariana Islands",
+   "f_company_code": "MP",
+   "code_iso_3": "MNP",
+   "f_company_id": "169",
+   "call_code": "670"
+ },
+ {
+   "f_company_name": "Norway",
+   "f_company_code": "NO",
+   "code_iso_3": "NOR",
+   "f_company_id": "170",
+   "call_code": "47"
+ },
+ {
+   "f_company_name": "Oman",
+   "f_company_code": "OM",
+   "code_iso_3": "OMN",
+   "f_company_id": "171",
+   "call_code": "968"
+ },
+ {
+   "f_company_name": "Pakistan",
+   "f_company_code": "PK",
+   "code_iso_3": "PAK",
+   "f_company_id": "172",
+   "call_code": "92"
+ },
+ {
+   "f_company_name": "Palau",
+   "f_company_code": "PW",
+   "code_iso_3": "PLW",
+   "f_company_id": "173",
+   "call_code": "680"
+ },
+ {
+   "f_company_name": "Palestinian Territory",
+   "f_company_code": "PS",
+   "code_iso_3": "PSE",
+   "f_company_id": "174",
+   "call_code": "0"
+ },
+ {
+   "f_company_name": "Panama",
+   "f_company_code": "PA",
+   "code_iso_3": "PAN",
+   "f_company_id": "175",
+   "call_code": "507"
+ },
+ {
+   "f_company_name": "Papua New Guinea",
+   "f_company_code": "PG",
+   "code_iso_3": "PNG",
+   "f_company_id": "176",
+   "call_code": "675"
+ },
+ {
+   "f_company_name": "Paraguay",
+   "f_company_code": "PY",
+   "code_iso_3": "PRY",
+   "f_company_id": "177",
+   "call_code": "595"
+ },
+ {
+   "f_company_name": "Peru",
+   "f_company_code": "PE",
+   "code_iso_3": "PER",
+   "f_company_id": "178",
+   "call_code": "51"
+ },
+ {
+   "f_company_name": "Pitcairn",
+   "f_company_code": "PN",
+   "code_iso_3": "PCN",
+   "f_company_id": "179",
+   "call_code": "870"
+ },
+ {
+   "f_company_name": "Poland",
+   "f_company_code": "PL",
+   "code_iso_3": "POL",
+   "f_company_id": "180",
+   "call_code": "48"
+ },
+ {
+   "f_company_name": "Portugal",
+   "f_company_code": "PT",
+   "code_iso_3": "PRT",
+   "f_company_id": "181",
+   "call_code": "351"
+ },
+ {
+   "f_company_name": "Puerto Rico",
+   "f_company_code": "PR",
+   "code_iso_3": "PRI",
+   "f_company_id": "182",
+   "call_code": "787"
+ },
+ {
+   "f_company_name": "Qatar",
+   "f_company_code": "QA",
+   "code_iso_3": "QAT",
+   "f_company_id": "183",
+   "call_code": "974"
+ },
+ {
+   "f_company_name": "Réunion",
+   "f_company_code": "RE",
+   "code_iso_3": "REU",
+   "f_company_id": "184",
+   "call_code": "0"
+ },
+ {
+   "f_company_name": "Romania",
+   "f_company_code": "RO",
+   "code_iso_3": "ROU",
+   "f_company_id": "185",
+   "call_code": "40"
+ },
+ {
+   "f_company_name": "Russian Federation",
+   "f_company_code": "RU",
+   "code_iso_3": "RUS",
+   "f_company_id": "186",
+   "call_code": "7"
+ },
+ {
+   "f_company_name": "Rwanda",
+   "f_company_code": "RW",
+   "code_iso_3": "RWA",
+   "f_company_id": "187",
+   "call_code": "250"
+ },
+ {
+   "f_company_name": "Saint-Barthélemy",
+   "f_company_code": "BL",
+   "code_iso_3": "BLM",
+   "f_company_id": "188",
+   "call_code": "0"
+ },
+ {
+   "f_company_name": "Saint Helena",
+   "f_company_code": "SH",
+   "code_iso_3": "SHN",
+   "f_company_id": "189",
+   "call_code": "0"
+ },
+ {
+   "f_company_name": "Saint Kitts and Nevis",
+   "f_company_code": "KN",
+   "code_iso_3": "KNA",
+   "f_company_id": "190",
+   "call_code": "869"
+ },
+ {
+   "f_company_name": "Saint Lucia",
+   "f_company_code": "LC",
+   "code_iso_3": "LCA",
+   "f_company_id": "191",
+   "call_code": "758"
+ },
+ {
+   "f_company_name": "Saint-Martin (French part)",
+   "f_company_code": "MF",
+   "code_iso_3": "MAF",
+   "f_company_id": "192",
+   "call_code": "0"
+ },
+ {
+   "f_company_name": "Saint Pierre and Miquelon",
+   "f_company_code": "PM",
+   "code_iso_3": "SPM",
+   "f_company_id": "193",
+   "call_code": "508"
+ },
+ {
+   "f_company_name": "Saint Vincent and Grenadines",
+   "f_company_code": "VC",
+   "code_iso_3": "VCT",
+   "f_company_id": "194",
+   "call_code": "0"
+ },
+ {
+   "f_company_name": "Samoa",
+   "f_company_code": "WS",
+   "code_iso_3": "WSM",
+   "f_company_id": "195",
+   "call_code": "685"
+ },
+ {
+   "f_company_name": "San Marino",
+   "f_company_code": "SM",
+   "code_iso_3": "SMR",
+   "f_company_id": "196",
+   "call_code": "378"
+ },
+ {
+   "f_company_name": "Sao Tome and Principe",
+   "f_company_code": "ST",
+   "code_iso_3": "STP",
+   "f_company_id": "197",
+   "call_code": "0"
+ },
+ {
+   "f_company_name": "Saudi Arabia",
+   "f_company_code": "SA",
+   "code_iso_3": "SAU",
+   "f_company_id": "198",
+   "call_code": "966"
+ },
+ {
+   "f_company_name": "Senegal",
+   "f_company_code": "SN",
+   "code_iso_3": "SEN",
+   "f_company_id": "199",
+   "call_code": "221"
+ },
+ {
+   "f_company_name": "Serbia",
+   "f_company_code": "RS",
+   "code_iso_3": "SRB",
+   "f_company_id": "200",
+   "call_code": "381"
+ },
+ {
+   "f_company_name": "Seychelles",
+   "f_company_code": "SC",
+   "code_iso_3": "SYC",
+   "f_company_id": "201",
+   "call_code": "248"
+ },
+ {
+   "f_company_name": "Sierra Leone",
+   "f_company_code": "SL",
+   "code_iso_3": "SLE",
+   "f_company_id": "202",
+   "call_code": "232"
+ },
+ {
+   "f_company_name": "Slovakia",
+   "f_company_code": "SK",
+   "code_iso_3": "SVK",
+   "f_company_id": "203",
+   "call_code": "421"
+ },
+ {
+   "f_company_name": "Slovenia",
+   "f_company_code": "SI",
+   "code_iso_3": "SVN",
+   "f_company_id": "204",
+   "call_code": "386"
+ },
+ {
+   "f_company_name": "Solomon Islands",
+   "f_company_code": "SB",
+   "code_iso_3": "SLB",
+   "f_company_id": "205",
+   "call_code": "677"
+ },
+ {
+   "f_company_name": "Somalia",
+   "f_company_code": "SO",
+   "code_iso_3": "SOM",
+   "f_company_id": "206",
+   "call_code": "252"
+ },
+ {
+   "f_company_name": "South Africa",
+   "f_company_code": "ZA",
+   "code_iso_3": "ZAF",
+   "f_company_id": "207",
+   "call_code": "27"
+ },
+ {
+   "f_company_name": "South Georgia and the South Sandwich Islands",
+   "f_company_code": "GS",
+   "code_iso_3": "SGS",
+   "f_company_id": "208",
+   "call_code": "0"
+ },
+ {
+   "f_company_name": "South Sudan",
+   "f_company_code": "SS",
+   "code_iso_3": "SSD",
+   "f_company_id": "209",
+   "call_code": "0"
+ },
+ {
+   "f_company_name": "Spain",
+   "f_company_code": "ES",
+   "code_iso_3": "ESP",
+   "f_company_id": "210",
+   "call_code": "34"
+ },
+ {
+   "f_company_name": "Sri Lanka",
+   "f_company_code": "LK",
+   "code_iso_3": "LKA",
+   "f_company_id": "211",
+   "call_code": "94"
+ },
+ {
+   "f_company_name": "Sudan",
+   "f_company_code": "SD",
+   "code_iso_3": "SDN",
+   "f_company_id": "212",
+   "call_code": "249"
+ },
+ {
+   "f_company_name": "Suriname",
+   "f_company_code": "SR",
+   "code_iso_3": "SUR",
+   "f_company_id": "213",
+   "call_code": "597"
+ },
+ {
+   "f_company_name": "Svalbard and Jan Mayen Islands",
+   "f_company_code": "SJ",
+   "code_iso_3": "SJM",
+   "f_company_id": "214",
+   "call_code": "47"
+ },
+ {
+   "f_company_name": "Swaziland",
+   "f_company_code": "SZ",
+   "code_iso_3": "SWZ",
+   "f_company_id": "215",
+   "call_code": "268"
+ },
+ {
+   "f_company_name": "Sweden",
+   "f_company_code": "SE",
+   "code_iso_3": "SWE",
+   "f_company_id": "216",
+   "call_code": "46"
+ },
+ {
+   "f_company_name": "Switzerland",
+   "f_company_code": "CH",
+   "code_iso_3": "CHE",
+   "f_company_id": "217",
+   "call_code": "41"
+ },
+ {
+   "f_company_name": "Syrian Arab Republic�(Syria)",
+   "f_company_code": "SY",
+   "code_iso_3": "SYR",
+   "f_company_id": "218",
+   "call_code": "963"
+ },
+ {
+   "f_company_name": "Tajikistan",
+   "f_company_code": "TJ",
+   "code_iso_3": "TJK",
+   "f_company_id": "219",
+   "call_code": "992"
+ },
+ {
+   "f_company_name": "Tanzania, United Republic of",
+   "f_company_code": "TZ",
+   "code_iso_3": "TZA",
+   "f_company_id": "220",
+   "call_code": "255"
+ },
+ {
+   "f_company_name": "Timor-Leste",
+   "f_company_code": "TL",
+   "code_iso_3": "TLS",
+   "f_company_id": "221",
+   "call_code": "670"
+ },
+ {
+   "f_company_name": "Togo",
+   "f_company_code": "TG",
+   "code_iso_3": "TGO",
+   "f_company_id": "222",
+   "call_code": "228"
+ },
+ {
+   "f_company_name": "Tokelau",
+   "f_company_code": "TK",
+   "code_iso_3": "TKL",
+   "f_company_id": "223",
+   "call_code": "690"
+ },
+ {
+   "f_company_name": "Tonga",
+   "f_company_code": "TO",
+   "code_iso_3": "TON",
+   "f_company_id": "224",
+   "call_code": "676"
+ },
+ {
+   "f_company_name": "Trinidad and Tobago",
+   "f_company_code": "TT",
+   "code_iso_3": "TTO",
+   "f_company_id": "225",
+   "call_code": "868"
+ },
+ {
+   "f_company_name": "Tunisia",
+   "f_company_code": "TN",
+   "code_iso_3": "TUN",
+   "f_company_id": "226",
+   "call_code": "216"
+ },
+ {
+   "f_company_name": "Turkey",
+   "f_company_code": "TR",
+   "code_iso_3": "TUR",
+   "f_company_id": "227",
+   "call_code": "90"
+ },
+ {
+   "f_company_name": "Turkmenistan",
+   "f_company_code": "TM",
+   "code_iso_3": "TKM",
+   "f_company_id": "228",
+   "call_code": "993"
+ },
+ {
+   "f_company_name": "Turks and Caicos Islands",
+   "f_company_code": "TC",
+   "code_iso_3": "TCA",
+   "f_company_id": "229",
+   "call_code": "649"
+ },
+ {
+   "f_company_name": "Tuvalu",
+   "f_company_code": "TV",
+   "code_iso_3": "TUV",
+   "f_company_id": "230",
+   "call_code": "688"
+ },
+ {
+   "f_company_name": "Uganda",
+   "f_company_code": "UG",
+   "code_iso_3": "UGA",
+   "f_company_id": "231",
+   "call_code": "256"
+ },
+ {
+   "f_company_name": "Ukraine",
+   "f_company_code": "UA",
+   "code_iso_3": "UKR",
+   "f_company_id": "232",
+   "call_code": "380"
+ },
+ {
+   "f_company_name": "United Arab Emirates",
+   "f_company_code": "AE",
+   "code_iso_3": "ARE",
+   "f_company_id": "233",
+   "call_code": "971"
+ },
+ {
+   "f_company_name": "United Kingdom",
+   "f_company_code": "GB",
+   "code_iso_3": "GBR",
+   "f_company_id": "234",
+   "call_code": "44"
+ },
+ {
+   "f_company_name": "United States of America",
+   "f_company_code": "US",
+   "code_iso_3": "USA",
+   "f_company_id": "235",
+   "call_code": "1"
+ },
+ {
+   "f_company_name": "US Minor Outlying Islands",
+   "f_company_code": "UM",
+   "code_iso_3": "UMI",
+   "f_company_id": "236",
+   "call_code": "0"
+ },
+ {
+   "f_company_name": "Uruguay",
+   "f_company_code": "UY",
+   "code_iso_3": "URY",
+   "f_company_id": "237",
+   "call_code": "598"
+ },
+ {
+   "f_company_name": "Uzbekistan",
+   "f_company_code": "UZ",
+   "code_iso_3": "UZB",
+   "f_company_id": "238",
+   "call_code": "998"
+ },
+ {
+   "f_company_name": "Vanuatu",
+   "f_company_code": "VU",
+   "code_iso_3": "VUT",
+   "f_company_id": "239",
+   "call_code": "678"
+ },
+ {
+   "f_company_name": "Venezuela(Bolivarian Republic)",
+   "f_company_code": "VE",
+   "code_iso_3": "VEN",
+   "f_company_id": "240",
+   "call_code": "0"
+ },
+ {
+   "f_company_name": "Viet Nam",
+   "f_company_code": "VN",
+   "code_iso_3": "VNM",
+   "f_company_id": "241",
+   "call_code": "84"
+ },
+ {
+   "f_company_name": "Virgin Islands, US",
+   "f_company_code": "VI",
+   "code_iso_3": "VIR",
+   "f_company_id": "242",
+   "call_code": "340"
+ },
+ {
+   "f_company_name": "Wallis and Futuna Islands",
+   "f_company_code": "WF",
+   "code_iso_3": "WLF",
+   "f_company_id": "243",
+   "call_code": "681"
+ },
+ {
+   "f_company_name": "Western Sahara",
+   "f_company_code": "EH",
+   "code_iso_3": "ESH",
+   "f_company_id": "244",
+   "call_code": "0"
+ },
+ {
+   "f_company_name": "Yemen",
+   "f_company_code": "YE",
+   "code_iso_3": "YEM",
+   "f_company_id": "245",
+   "call_code": "967"
+ },
+ {
+   "f_company_name": "Zambia",
+   "f_company_code": "ZM",
+   "code_iso_3": "ZMB",
+   "f_company_id": "246",
+   "call_code": "260"
+ },
+ {
+   "f_company_name": "Zimbabwe",
+   "f_company_code": "ZW",
+   "code_iso_3": "ZWE",
+   "f_company_id": "247",
+   "call_code": "263"
+ },
+ {
+    "f_company_name": "Others",
+    "f_company_code": "OT",
+    "code_iso_3": "OTH",
+    "f_company_id": "248",
+    "call_code": "0"
+  }
+]

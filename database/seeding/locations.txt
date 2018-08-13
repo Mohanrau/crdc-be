@@ -1,0 +1,723 @@
+[
+ {
+"entity": "MYEG",
+"name": "MALAYSIA ONLINE",
+"code": "0503",
+"location_types_code": "online  ",
+"active": 1
+ },
+ {
+"entity": "THET",
+"name": "THAILAND ONLINE",
+"code": "TH_ONLINE ",
+"location_types_code": "online  ",
+"active": 1
+ },
+ {
+"entity": "BNEK",
+"name": "BRUNEI ONLINE",
+"code": "1201",
+"location_types_code": "online  ",
+"active": 1
+ },
+ {
+"entity": "SGEK",
+"name": "SINGAPORE ONLINE",
+"code": "1101",
+"location_types_code": "online  ",
+"active": 1
+ },
+ {
+"entity": "CNET",
+"name": "TAIWAN ONLINE",
+"code": "TW_ONLINE ",
+"location_types_code": "online  ",
+"active": 1
+ },
+ {
+"entity": "CNEH",
+"name": "HONG KONG ONLINE",
+"code": "HK_ONLINE ",
+"location_types_code": "online  ",
+"active": 1
+ },
+ {
+"entity": "KHEI",
+"name": "CAMBODIA ONLINE",
+"code": "KH_ONLINE ",
+"location_types_code": "online  ",
+"active": 1
+ },
+ {
+"entity": "PHEI",
+"name": "PHILIPPINES ONLINE",
+"code": "PH_ONLINE ",
+"location_types_code": "online  ",
+"active": 1
+ },
+ {
+"entity": "INEG",
+"name": "INDONESIA ONLINE",
+"code": "ID_ONLINE ",
+"location_types_code": "online  ",
+"active": 1
+ },
+ {
+"entity": "CNEC",
+"name": "CHINA ONLINE",
+"code": "CN_ONLINE ",
+"location_types_code": "online  ",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "IPOH BRANCH",
+"code": "0601",
+"location_types_code": "branch  ",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "JOHOR BAHRU BRANCH",
+"code": "0602",
+"location_types_code": "branch  ",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "KOTA BHARU BRANCH",
+"code": "0603",
+"location_types_code": "branch  ",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "KOTA KINABALU BRANCH",
+"code": "0604",
+"location_types_code": "branch  ",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "KUANTAN BRANCH",
+"code": "0605",
+"location_types_code": "branch  ",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "KUCHING BRANCH",
+"code": "0606",
+"location_types_code": "branch  ",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "PENANG BRANCH",
+"code": "0607",
+"location_types_code": "branch  ",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "SEBERANG JAYA BRANCH",
+"code": "0608",
+"location_types_code": "branch  ",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "AHMAD RUSYDAN BIN SUHAIMI",
+"code": "8000001",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "ANG PHAIK KEE",
+"code": "8000002",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "CBP PLUS SDN BHD",
+"code": "8000003",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "CHAI CHIN ENTERPRISE",
+"code": "8000004",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "CHAN HIN SUN",
+"code": "8000005",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "CHAN LIM THAI",
+"code": "8000006",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "CHEAH SAW SIM",
+"code": "8000007",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "CHEW HON YEN",
+"code": "8000008",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "CHEW WAI SOON",
+"code": "8000009",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "CHIANG MINN YIONG",
+"code": "8000010",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "CHOO SHIANG KER",
+"code": "8000011",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "CHUAH CHUN KIT",
+"code": "8000012",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "CY LEE TRADING",
+"code": "8000013",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "ER KIM CHAI",
+"code": "8000014",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "EXCELLENT GOAL ENTERPRISE",
+"code": "8000015",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "EXCELLENTCARE GLOBAL SDN BHD",
+"code": "8000016",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "FATIMAH BINTI SALAM",
+"code": "8000017",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "H.K.H. & S.L.L SDN BHD",
+"code": "8000018",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "HIGH PEAK ENTERPRISE",
+"code": "8000019",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "HOI MEI LENG",
+"code": "8000020",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "HONG SEOK POH",
+"code": "8000021",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "JSCF MARKETING SDN BHD",
+"code": "8000022",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "KOK CHING KWONG",
+"code": "8000023",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "LAI CHII HING",
+"code": "8000024",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "LEE CHOO",
+"code": "8000025",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "LEE GUAT HUA",
+"code": "8000026",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "LEE LI CHIN",
+"code": "8000027",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "LEONG BOON YOON",
+"code": "8000028",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "LEONG LAI FONG (VIVIEN)",
+"code": "8000029",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "LEW SHEAU PENG",
+"code": "8000030",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "LIM BEE ENG",
+"code": "8000031",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "LIM CHEK MEE",
+"code": "8000032",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "LING KING HUA @ LIM KING HUA",
+"code": "8000033",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "NADIA BINTI JOHARI",
+"code": "8000034",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "NG CHIN WOO",
+"code": "8000035",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "NG KAM CHUAN",
+"code": "8000036",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "NORAZNI BINTI IZAM",
+"code": "8000037",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "POH POI POI",
+"code": "8000038",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "ROSELINA BT YAHAYA",
+"code": "8000039",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "S.K.CHOY ENTERPRISE",
+"code": "8000040",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "SAM YOKE KHENG",
+"code": "8000041",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "SRI WIDARI",
+"code": "8000042",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "SUPER CLASSIC ENTERPRISE",
+"code": "8000043",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "SWEE KWANG ENTERPRISE",
+"code": "8000044",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "TAN YONG CHOON (TONY)",
+"code": "8000045",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "VIVIAN ENTERPRISE",
+"code": "8000046",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "YFL FUTURE BUSINESS SDN. BHD.",
+"code": "8000047",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "YONG AI HOI",
+"code": "8000048",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "YSE RESOURCES SDN BHD",
+"code": "8000049",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "CHENG SOO KIAN /PHANG NYOK LIN",
+"code": "8000050",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "CHU HAU LING",
+"code": "8000051",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "CHUNG NAM FONG / TEO CHWEE WEE (DOREEN)",
+"code": "8000052",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "DASHUN ENTERPRISE SDN BHD/YAW AH BAK",
+"code": "8000053",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "EXPRESSWAY NETWORK",
+"code": "8000054",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "GAN CHOOI YEE",
+"code": "8000055",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "HII PICK LING/WONG JIUN HING",
+"code": "8000056",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "HONG CHENG YONG",
+"code": "8000057",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "KHOO SU YING",
+"code": "8000058",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "KIAN BEE ENTERPRISE",
+"code": "8000059",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "LEE FONG LENG",
+"code": "8000060",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "LIM AH HONG",
+"code": "8000061",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "RACHEL JUNAIDAH JAMLIN",
+"code": "8000062",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "RAHMAWATY RABA",
+"code": "8000063",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "SYED HAMAL BIN SYED MOHAMED",
+"code": "8000064",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "TAN SOON PANG",
+"code": "8000065",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "TAN SUN BI @ TAN SOON BEE",
+"code": "8000066",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "TEH TING CHAI",
+"code": "8000067",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "TEOH JOO HOW / SENG YOKE CHUN",
+"code": "8000068",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "WINNIE ENTERPRISE",
+"code": "8000069",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "YAP LIAN HAU",
+"code": "8000070",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "YUSNITA BINTI CHE MAMAT",
+"code": "8000071",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "ZAITON BINTI MAHAT",
+"code": "8000072",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "CHENG SOO KIAN",
+"code": "8000073",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "YAW AH BAK",
+"code": "8000074",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "HII PICK LING",
+"code": "8000075",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "KIAN BEE ENTERPRISE",
+"code": "8000076",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "NG YEE KIAN KELVIN",
+"code": "8000077",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "TAN KWEE PENG",
+"code": "8000078",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "TEO CHWEE WEE (DOREEN)",
+"code": "8000079",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "TEOH JOO HOW",
+"code": "8000080",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "ELKEN PUCHONG STOCKIST",
+"code": "8000081",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "SGEK",
+"name": "CHUA JUI HO",
+"code": "8000082",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "SGEK",
+"name": "KHOO THIAM HUAT",
+"code": "8000083",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "OVER THE COUTER SALES CONTROL (OTC)",
+"code": "8000084",
+"location_types_code": "stockist",
+"active": 1
+ },
+ {
+"entity": "MYEG",
+"name": "TEMS SALES CONTROL",
+"code": "8000085",
+"location_types_code": "stockist",
+"active": 1
+ }
+]

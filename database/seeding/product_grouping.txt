@@ -1,0 +1,3057 @@
+[
+ {
+   "country_code": "MY",
+   "dummy": "LCHA1",
+   "product_sku": "LAS100"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHA1",
+   "product_sku": "LAS105"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHA1",
+   "product_sku": "LAS70"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHA1",
+   "product_sku": "LAS75"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHA1",
+   "product_sku": "LAS80"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHA1",
+   "product_sku": "LAS85"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHA1",
+   "product_sku": "LAS90"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHA1",
+   "product_sku": "LAS95"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBA100"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBA65"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBA70"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBA75"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBA80"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBA85"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBA90"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBA95"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBB100"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBB65"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBB70"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBB75"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBB80"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBB85"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBB90"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBB95"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBC100"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBC65"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBC70"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBC75"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBC80"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBC85"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBC90"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBC95"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBD100"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBD65"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBD70"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBD75"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBD80"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBD85"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBD90"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBD95"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBE100"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBE65"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBE70"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBE75"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBE80"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBE85"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBE90"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBE95"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBF65"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBF70"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBF75"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBF80"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBF85"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBF90"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBG70"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBG75"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBG80"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBG85"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBH75"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBH80"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBH85"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHW1",
+   "product_sku": "LCHW106"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHW1",
+   "product_sku": "LCHW58"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHW1",
+   "product_sku": "LCHW64"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHW1",
+   "product_sku": "LCHW70"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHW1",
+   "product_sku": "LCHW76"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHW1",
+   "product_sku": "LCHW82"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHW1",
+   "product_sku": "LCHW90"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHW1",
+   "product_sku": "LCHW98"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHS1",
+   "product_sku": "LCHS106"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHS1",
+   "product_sku": "LCHS58"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHS1",
+   "product_sku": "LCHS64"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHS1",
+   "product_sku": "LCHS70"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHS1",
+   "product_sku": "LCHS76"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHS1",
+   "product_sku": "LCHS82"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHS1",
+   "product_sku": "LCHS90"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHS1",
+   "product_sku": "LCHS98"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHG1",
+   "product_sku": "LCHL106"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHG1",
+   "product_sku": "LCHL58"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHG1",
+   "product_sku": "LCHL64"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHG1",
+   "product_sku": "LCHL70"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHG1",
+   "product_sku": "LCHL76"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHG1",
+   "product_sku": "LCHL82"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHG1",
+   "product_sku": "LCHL90"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCHG1",
+   "product_sku": "LCHL98"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCDSCH1",
+   "product_sku": "LCHP2L-2"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCDSCH1",
+   "product_sku": "LCHP3L-2"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCDSCH1",
+   "product_sku": "LCHPL-2"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCDSCH1",
+   "product_sku": "LCHPM-2"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "FCDSCH1",
+   "product_sku": "LCHP2L-1"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "FCDSCH1",
+   "product_sku": "LCHP3L-1"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "FCDSCH1",
+   "product_sku": "LCHPL-1"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "FCDSCH1",
+   "product_sku": "LCHPM-1"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBA100"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBA65"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBA70"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBA75"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBA80"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBA85"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBA90"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBA95"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBB100"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBB65"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBB70"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBB75"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBB80"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBB85"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBB90"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBB95"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBC100"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBC65"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBC70"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBC75"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBC80"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBC85"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBC90"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBC95"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBD100"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBD65"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBD70"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBD75"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBD80"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBD85"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBD90"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBD95"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBE100"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBE65"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBE70"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBE75"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBE80"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBE85"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBE90"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBE95"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBF65"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBF70"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBF75"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBF80"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBF85"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBF90"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBG70"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBG75"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBG80"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBG85"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBH75"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBH80"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBH85"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBW1",
+   "product_sku": "LXIIBW106"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBW1",
+   "product_sku": "LXIIBW58"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBW1",
+   "product_sku": "LXIIBW64"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBW1",
+   "product_sku": "LXIIBW70"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBW1",
+   "product_sku": "LXIIBW76"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBW1",
+   "product_sku": "LXIIBW82"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBW1",
+   "product_sku": "LXIIBW90"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBW1",
+   "product_sku": "LXIIBW98"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBS1",
+   "product_sku": "LXIIBS106"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBS1",
+   "product_sku": "LXIIBS58"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBS1",
+   "product_sku": "LXIIBS64"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBS1",
+   "product_sku": "LXIIBS70"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBS1",
+   "product_sku": "LXIIBS76"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBS1",
+   "product_sku": "LXIIBS82"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBS1",
+   "product_sku": "LXIIBS90"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBS1",
+   "product_sku": "LXIIBS98"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBG1",
+   "product_sku": "LXIIBL106"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBG1",
+   "product_sku": "LXIIBL58"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBG1",
+   "product_sku": "LXIIBL64"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBG1",
+   "product_sku": "LXIIBL70"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBG1",
+   "product_sku": "LXIIBL76"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBG1",
+   "product_sku": "LXIIBL82"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBG1",
+   "product_sku": "LXIIBL90"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LXIIBG1",
+   "product_sku": "LXIIBL98"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCDSDXIIB",
+   "product_sku": "LXIIBP2L-2"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCDSDXIIB",
+   "product_sku": "LXIIBP3L-2"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCDSDXIIB",
+   "product_sku": "LXIIBPL-2"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCDSDXIIB",
+   "product_sku": "LXIIBPM-2"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "FCDSDXIIB",
+   "product_sku": "LXIIBP2L-1"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "FCDSDXIIB",
+   "product_sku": "LXIIBP3L-1"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "FCDSDXIIB",
+   "product_sku": "LXIIBPL-1"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "FCDSDXIIB",
+   "product_sku": "LXIIBPM-1"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBA100"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBA65"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBA70"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBA75"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBA80"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBA85"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBA90"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBA95"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBB100"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBB65"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBB70"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBB75"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBB80"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBB85"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBB90"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBB95"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBC100"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBC65"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBC70"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBC75"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBC80"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBC85"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBC90"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBC95"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBD100"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBD65"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBD70"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBD75"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBD80"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBD85"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBD90"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBD95"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBE100"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBE65"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBE70"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBE75"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBE80"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBE85"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBE90"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBE95"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBF65"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBF70"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBF75"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBF80"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBF85"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBF90"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBG70"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBG75"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBG80"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBG85"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBH75"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBH80"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBB1",
+   "product_sku": "LXBBH85"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBW1",
+   "product_sku": "LXBW106"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBW1",
+   "product_sku": "LXBW58"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBW1",
+   "product_sku": "LXBW64"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBW1",
+   "product_sku": "LXBW70"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBW1",
+   "product_sku": "LXBW76"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBW1",
+   "product_sku": "LXBW82"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBW1",
+   "product_sku": "LXBW90"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBW1",
+   "product_sku": "LXBW98"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBS1",
+   "product_sku": "LXBS106"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBS1",
+   "product_sku": "LXBS58"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBS1",
+   "product_sku": "LXBS64"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBS1",
+   "product_sku": "LXBS70"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBS1",
+   "product_sku": "LXBS76"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBS1",
+   "product_sku": "LXBS82"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBS1",
+   "product_sku": "LXBS90"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBS1",
+   "product_sku": "LXBS98"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBG1",
+   "product_sku": "LXBL106"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBG1",
+   "product_sku": "LXBL58"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBG1",
+   "product_sku": "LXBL64"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBG1",
+   "product_sku": "LXBL70"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBG1",
+   "product_sku": "LXBL76"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBG1",
+   "product_sku": "LXBL82"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBG1",
+   "product_sku": "LXBL90"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LDXBG1",
+   "product_sku": "LXBL98"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCDSDX2",
+   "product_sku": "LXBP2L-2"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCDSDX2",
+   "product_sku": "LXBP3L-2"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCDSDX2",
+   "product_sku": "LXBPL-2"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "LCDSDX2",
+   "product_sku": "LXBPM-2"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "FCDSDX2",
+   "product_sku": "LXBP2L-1"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "FCDSDX2",
+   "product_sku": "LXBP3L-1"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "FCDSDX2",
+   "product_sku": "LXBPL-1"
+ },
+ {
+   "country_code": "MY",
+   "dummy": "FCDSDX2",
+   "product_sku": "LXBPM-1"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHA1",
+   "product_sku": "LAS100"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHA1",
+   "product_sku": "LAS105"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHA1",
+   "product_sku": "LAS70"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHA1",
+   "product_sku": "LAS75"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHA1",
+   "product_sku": "LAS80"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHA1",
+   "product_sku": "LAS85"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHA1",
+   "product_sku": "LAS90"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHA1",
+   "product_sku": "LAS95"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBA100"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBA65"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBA70"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBA75"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBA80"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBA85"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBA90"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBA95"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBB100"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBB65"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBB70"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBB75"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBB80"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBB85"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBB90"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBB95"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBC100"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBC65"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBC70"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBC75"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBC80"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBC85"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBC90"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBC95"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBD100"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBD65"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBD70"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBD75"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBD80"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBD85"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBD90"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBD95"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBE100"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBE65"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBE70"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBE75"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBE80"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBE85"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBE90"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBE95"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBF65"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBF70"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBF75"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBF80"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBF85"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBF90"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBG70"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBG75"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBG80"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBG85"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBH75"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBH80"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBH85"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHW1",
+   "product_sku": "LCHW106"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHW1",
+   "product_sku": "LCHW58"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHW1",
+   "product_sku": "LCHW64"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHW1",
+   "product_sku": "LCHW70"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHW1",
+   "product_sku": "LCHW76"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHW1",
+   "product_sku": "LCHW82"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHW1",
+   "product_sku": "LCHW90"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHW1",
+   "product_sku": "LCHW98"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHS1",
+   "product_sku": "LCHS106"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHS1",
+   "product_sku": "LCHS58"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHS1",
+   "product_sku": "LCHS64"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHS1",
+   "product_sku": "LCHS70"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHS1",
+   "product_sku": "LCHS76"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHS1",
+   "product_sku": "LCHS82"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHS1",
+   "product_sku": "LCHS90"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHS1",
+   "product_sku": "LCHS98"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHG1",
+   "product_sku": "LCHL106"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHG1",
+   "product_sku": "LCHL58"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHG1",
+   "product_sku": "LCHL64"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHG1",
+   "product_sku": "LCHL70"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHG1",
+   "product_sku": "LCHL76"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHG1",
+   "product_sku": "LCHL82"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHG1",
+   "product_sku": "LCHL90"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCHG1",
+   "product_sku": "LCHL98"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCDSCH1",
+   "product_sku": "LCHP2L-2"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCDSCH1",
+   "product_sku": "LCHP3L-2"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCDSCH1",
+   "product_sku": "LCHPL-2"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCDSCH1",
+   "product_sku": "LCHPM-2"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "FCDSCH1",
+   "product_sku": "LCHP2L-1"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "FCDSCH1",
+   "product_sku": "LCHP3L-1"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "FCDSCH1",
+   "product_sku": "LCHPL-1"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "FCDSCH1",
+   "product_sku": "LCHPM-1"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBA100"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBA65"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBA70"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBA75"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBA80"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBA85"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBA90"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBA95"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBB100"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBB65"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBB70"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBB75"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBB80"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBB85"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBB90"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBB95"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBC100"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBC65"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBC70"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBC75"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBC80"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBC85"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBC90"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBC95"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBD100"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBD65"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBD70"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBD75"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBD80"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBD85"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBD90"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBD95"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBE100"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBE65"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBE70"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBE75"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBE80"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBE85"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBE90"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBE95"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBF65"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBF70"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBF75"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBF80"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBF85"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBF90"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBG70"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBG75"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBG80"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBG85"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBH75"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBH80"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBH85"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBW1",
+   "product_sku": "LXIIBW106"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBW1",
+   "product_sku": "LXIIBW58"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBW1",
+   "product_sku": "LXIIBW64"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBW1",
+   "product_sku": "LXIIBW70"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBW1",
+   "product_sku": "LXIIBW76"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBW1",
+   "product_sku": "LXIIBW82"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBW1",
+   "product_sku": "LXIIBW90"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBW1",
+   "product_sku": "LXIIBW98"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBS1",
+   "product_sku": "LXIIBS106"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBS1",
+   "product_sku": "LXIIBS58"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBS1",
+   "product_sku": "LXIIBS64"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBS1",
+   "product_sku": "LXIIBS70"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBS1",
+   "product_sku": "LXIIBS76"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBS1",
+   "product_sku": "LXIIBS82"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBS1",
+   "product_sku": "LXIIBS90"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBS1",
+   "product_sku": "LXIIBS98"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBG1",
+   "product_sku": "LXIIBL106"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBG1",
+   "product_sku": "LXIIBL58"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBG1",
+   "product_sku": "LXIIBL64"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBG1",
+   "product_sku": "LXIIBL70"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBG1",
+   "product_sku": "LXIIBL76"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBG1",
+   "product_sku": "LXIIBL82"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBG1",
+   "product_sku": "LXIIBL90"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LXIIBG1",
+   "product_sku": "LXIIBL98"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCDSDXIIB",
+   "product_sku": "LXIIBP2L-2"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCDSDXIIB",
+   "product_sku": "LXIIBP3L-2"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCDSDXIIB",
+   "product_sku": "LXIIBPL-2"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "LCDSDXIIB",
+   "product_sku": "LXIIBPM-2"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "FCDSDXIIB",
+   "product_sku": "LXIIBP2L-1"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "FCDSDXIIB",
+   "product_sku": "LXIIBP3L-1"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "FCDSDXIIB",
+   "product_sku": "LXIIBPL-1"
+ },
+ {
+   "country_code": "BN",
+   "dummy": "FCDSDXIIB",
+   "product_sku": "LXIIBPM-1"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBA100"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBA65"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBA70"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBA75"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBA80"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBA85"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBA90"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBA95"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBB100"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBB65"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBB70"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBB75"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBB80"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBB85"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBB90"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBB95"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBC100"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBC65"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBC70"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBC75"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBC80"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBC85"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBC90"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBC95"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBD100"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBD65"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBD70"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBD75"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBD80"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBD85"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBD90"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBD95"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBE100"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBE65"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBE70"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBE75"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBE80"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBE85"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBE90"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBE95"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBF65"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBF70"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBF75"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBF80"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBF85"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBF90"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBG70"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBG75"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBG80"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBG85"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBH75"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBH80"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHB1",
+   "product_sku": "LCHBH85"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHW1",
+   "product_sku": "LCHW106"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHW1",
+   "product_sku": "LCHW58"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHW1",
+   "product_sku": "LCHW64"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHW1",
+   "product_sku": "LCHW70"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHW1",
+   "product_sku": "LCHW76"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHW1",
+   "product_sku": "LCHW82"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHW1",
+   "product_sku": "LCHW90"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHW1",
+   "product_sku": "LCHW98"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHS1",
+   "product_sku": "LCHS106"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHS1",
+   "product_sku": "LCHS58"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHS1",
+   "product_sku": "LCHS64"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHS1",
+   "product_sku": "LCHS70"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHS1",
+   "product_sku": "LCHS76"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHS1",
+   "product_sku": "LCHS82"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHS1",
+   "product_sku": "LCHS90"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHS1",
+   "product_sku": "LCHS98"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHG1",
+   "product_sku": "LCHL106"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHG1",
+   "product_sku": "LCHL58"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHG1",
+   "product_sku": "LCHL64"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHG1",
+   "product_sku": "LCHL70"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHG1",
+   "product_sku": "LCHL76"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHG1",
+   "product_sku": "LCHL82"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHG1",
+   "product_sku": "LCHL90"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCHG1",
+   "product_sku": "LCHL98"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCDSCH1",
+   "product_sku": "LCHP2L-2"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCDSCH1",
+   "product_sku": "LCHP3L-2"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCDSCH1",
+   "product_sku": "LCHPL-2"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCDSCH1",
+   "product_sku": "LCHPM-2"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "FCDSCH1",
+   "product_sku": "LCHP2L-1"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "FCDSCH1",
+   "product_sku": "LCHP3L-1"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "FCDSCH1",
+   "product_sku": "LCHPL-1"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "FCDSCH1",
+   "product_sku": "LCHPM-1"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBA100"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBA65"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBA70"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBA75"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBA80"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBA85"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBA90"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBA95"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBB100"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBB65"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBB70"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBB75"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBB80"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBB85"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBB90"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBB95"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBC100"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBC65"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBC70"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBC75"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBC80"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBC85"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBC90"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBC95"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBD100"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBD65"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBD70"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBD75"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBD80"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBD85"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBD90"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBD95"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBE100"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBE65"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBE70"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBE75"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBE80"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBE85"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBE90"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBE95"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBF65"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBF70"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBF75"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBF80"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBF85"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBF90"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBG70"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBG75"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBG80"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBG85"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBH75"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBH80"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBB1",
+   "product_sku": "LXIIBBH85"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBW1",
+   "product_sku": "LXIIBW106"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBW1",
+   "product_sku": "LXIIBW58"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBW1",
+   "product_sku": "LXIIBW64"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBW1",
+   "product_sku": "LXIIBW70"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBW1",
+   "product_sku": "LXIIBW76"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBW1",
+   "product_sku": "LXIIBW82"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBW1",
+   "product_sku": "LXIIBW90"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBW1",
+   "product_sku": "LXIIBW98"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBS1",
+   "product_sku": "LXIIBS106"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBS1",
+   "product_sku": "LXIIBS58"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBS1",
+   "product_sku": "LXIIBS64"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBS1",
+   "product_sku": "LXIIBS70"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBS1",
+   "product_sku": "LXIIBS76"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBS1",
+   "product_sku": "LXIIBS82"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBS1",
+   "product_sku": "LXIIBS90"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBS1",
+   "product_sku": "LXIIBS98"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBG1",
+   "product_sku": "LXIIBL106"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBG1",
+   "product_sku": "LXIIBL58"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBG1",
+   "product_sku": "LXIIBL64"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBG1",
+   "product_sku": "LXIIBL70"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBG1",
+   "product_sku": "LXIIBL76"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBG1",
+   "product_sku": "LXIIBL82"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBG1",
+   "product_sku": "LXIIBL90"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LXIIBG1",
+   "product_sku": "LXIIBL98"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCDSDXIIB",
+   "product_sku": "LXIIBP2L-2"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCDSDXIIB",
+   "product_sku": "LXIIBP3L-2"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCDSDXIIB",
+   "product_sku": "LXIIBPL-2"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "LCDSDXIIB",
+   "product_sku": "LXIIBPM-2"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "FCDSDXIIB",
+   "product_sku": "LXIIBP2L-1"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "FCDSDXIIB",
+   "product_sku": "LXIIBP3L-1"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "FCDSDXIIB",
+   "product_sku": "LXIIBPL-1"
+ },
+ {
+   "country_code": "SG",
+   "dummy": "FCDSDXIIB",
+   "product_sku": "LXIIBPM-1"
+ }
+]

@@ -1,0 +1,3668 @@
+[
+ {
+   "country_code": "MY",
+   "product_sku": "LAS100",
+   "cv": 130,
+   "wp_cv": 60
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LAS105",
+   "cv": 130,
+   "wp_cv": 60
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LAS70",
+   "cv": 130,
+   "wp_cv": 60
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LAS75",
+   "cv": 130,
+   "wp_cv": 60
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LAS80",
+   "cv": 130,
+   "wp_cv": 60
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LAS85",
+   "cv": 130,
+   "wp_cv": 60
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LAS90",
+   "cv": 130,
+   "wp_cv": 60
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LAS95",
+   "cv": 130,
+   "wp_cv": 60
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBA100",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBA65",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBA70",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBA75",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBA80",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBA85",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBA90",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBA95",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBB100",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBB65",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBB70",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBB75",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBB80",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBB85",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBB90",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBB95",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBC100",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBC65",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBC70",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBC75",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBC80",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBC85",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBC90",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBC95",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBD100",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBD65",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBD70",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBD75",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBD80",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBD85",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBD90",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBD95",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBE100",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBE65",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBE70",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBE75",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBE80",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBE85",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBE90",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBE95",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBF65",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBF70",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBF75",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBF80",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBF85",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBF90",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBG70",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBG75",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBG80",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBG85",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBH75",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBH80",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHBH85",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHW106",
+   "cv": 145,
+   "wp_cv": 65
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHW58",
+   "cv": 145,
+   "wp_cv": 65
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHW64",
+   "cv": 145,
+   "wp_cv": 65
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHW70",
+   "cv": 145,
+   "wp_cv": 65
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHW76",
+   "cv": 145,
+   "wp_cv": 65
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHW82",
+   "cv": 145,
+   "wp_cv": 65
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHW90",
+   "cv": 145,
+   "wp_cv": 65
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHW98",
+   "cv": 145,
+   "wp_cv": 65
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHS106",
+   "cv": 179,
+   "wp_cv": 81
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHS58",
+   "cv": 179,
+   "wp_cv": 81
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHS64",
+   "cv": 179,
+   "wp_cv": 81
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHS70",
+   "cv": 179,
+   "wp_cv": 81
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHS76",
+   "cv": 179,
+   "wp_cv": 81
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHS82",
+   "cv": 179,
+   "wp_cv": 81
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHS90",
+   "cv": 179,
+   "wp_cv": 81
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHS98",
+   "cv": 179,
+   "wp_cv": 81
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHL106",
+   "cv": 157,
+   "wp_cv": 71
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHL58",
+   "cv": 157,
+   "wp_cv": 71
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHL64",
+   "cv": 157,
+   "wp_cv": 71
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHL70",
+   "cv": 157,
+   "wp_cv": 71
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHL76",
+   "cv": 157,
+   "wp_cv": 71
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHL82",
+   "cv": 157,
+   "wp_cv": 71
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHL90",
+   "cv": 157,
+   "wp_cv": 71
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHL98",
+   "cv": 157,
+   "wp_cv": 71
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHP2L-2",
+   "cv": 65,
+   "wp_cv": 33
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHP3L-2",
+   "cv": 65,
+   "wp_cv": 33
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHPL-2",
+   "cv": 65,
+   "wp_cv": 33
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHPM-2",
+   "cv": 65,
+   "wp_cv": 33
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHP2L-1",
+   "cv": 32,
+   "wp_cv": 14
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHP3L-1",
+   "cv": 32,
+   "wp_cv": 14
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHPL-1",
+   "cv": 32,
+   "wp_cv": 14
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LCHPM-1",
+   "cv": 32,
+   "wp_cv": 14
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LAS100",
+   "cv": 130,
+   "wp_cv": 60
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LAS105",
+   "cv": 130,
+   "wp_cv": 60
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LAS70",
+   "cv": 130,
+   "wp_cv": 60
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LAS75",
+   "cv": 130,
+   "wp_cv": 60
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LAS80",
+   "cv": 130,
+   "wp_cv": 60
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LAS85",
+   "cv": 130,
+   "wp_cv": 60
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LAS90",
+   "cv": 130,
+   "wp_cv": 60
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LAS95",
+   "cv": 130,
+   "wp_cv": 60
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBA100",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBA65",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBA70",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBA75",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBA80",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBA85",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBA90",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBA95",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBB100",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBB65",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBB70",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBB75",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBB80",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBB85",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBB90",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBB95",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBC100",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBC65",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBC70",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBC75",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBC80",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBC85",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBC90",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBC95",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBD100",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBD65",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBD70",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBD75",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBD80",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBD85",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBD90",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBD95",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBE100",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBE65",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBE70",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBE75",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBE80",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBE85",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBE90",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBE95",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBF65",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBF70",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBF75",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBF80",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBF85",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBF90",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBG70",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBG75",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBG80",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBG85",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBH75",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBH80",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHBH85",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHW106",
+   "cv": 145,
+   "wp_cv": 65
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHW58",
+   "cv": 145,
+   "wp_cv": 65
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHW64",
+   "cv": 145,
+   "wp_cv": 65
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHW70",
+   "cv": 145,
+   "wp_cv": 65
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHW76",
+   "cv": 145,
+   "wp_cv": 65
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHW82",
+   "cv": 145,
+   "wp_cv": 65
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHW90",
+   "cv": 145,
+   "wp_cv": 65
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHW98",
+   "cv": 145,
+   "wp_cv": 65
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHS106",
+   "cv": 179,
+   "wp_cv": 81
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHS58",
+   "cv": 179,
+   "wp_cv": 81
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHS64",
+   "cv": 179,
+   "wp_cv": 81
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHS70",
+   "cv": 179,
+   "wp_cv": 81
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHS76",
+   "cv": 179,
+   "wp_cv": 81
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHS82",
+   "cv": 179,
+   "wp_cv": 81
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHS90",
+   "cv": 179,
+   "wp_cv": 81
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHS98",
+   "cv": 179,
+   "wp_cv": 81
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHL106",
+   "cv": 157,
+   "wp_cv": 71
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHL58",
+   "cv": 157,
+   "wp_cv": 71
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHL64",
+   "cv": 157,
+   "wp_cv": 71
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHL70",
+   "cv": 157,
+   "wp_cv": 71
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHL76",
+   "cv": 157,
+   "wp_cv": 71
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHL82",
+   "cv": 157,
+   "wp_cv": 71
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHL90",
+   "cv": 157,
+   "wp_cv": 71
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHL98",
+   "cv": 157,
+   "wp_cv": 71
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHP2L-2",
+   "cv": 65,
+   "wp_cv": 33
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHP3L-2",
+   "cv": 65,
+   "wp_cv": 33
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHPL-2",
+   "cv": 65,
+   "wp_cv": 33
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHPM-2",
+   "cv": 65,
+   "wp_cv": 33
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHP2L-1",
+   "cv": 32,
+   "wp_cv": 14
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHP3L-1",
+   "cv": 32,
+   "wp_cv": 14
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHPL-1",
+   "cv": 32,
+   "wp_cv": 14
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LCHPM-1",
+   "cv": 32,
+   "wp_cv": 14
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBA100",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBA65",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBA70",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBA75",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBA80",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBA85",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBA90",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBA95",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBB100",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBB65",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBB70",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBB75",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBB80",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBB85",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBB90",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBB95",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBC100",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBC65",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBC70",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBC75",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBC80",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBC85",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBC90",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBC95",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBD100",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBD65",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBD70",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBD75",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBD80",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBD85",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBD90",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBD95",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBE100",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBE65",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBE70",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBE75",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBE80",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBE85",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBE90",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBE95",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBF65",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBF70",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBF75",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBF80",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBF85",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBF90",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBG70",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBG75",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBG80",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBG85",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBH75",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBH80",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHBH85",
+   "cv": 115,
+   "wp_cv": 52
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHW106",
+   "cv": 145,
+   "wp_cv": 65
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHW58",
+   "cv": 145,
+   "wp_cv": 65
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHW64",
+   "cv": 145,
+   "wp_cv": 65
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHW70",
+   "cv": 145,
+   "wp_cv": 65
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHW76",
+   "cv": 145,
+   "wp_cv": 65
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHW82",
+   "cv": 145,
+   "wp_cv": 65
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHW90",
+   "cv": 145,
+   "wp_cv": 65
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHW98",
+   "cv": 145,
+   "wp_cv": 65
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHS106",
+   "cv": 179,
+   "wp_cv": 81
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHS58",
+   "cv": 179,
+   "wp_cv": 81
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHS64",
+   "cv": 179,
+   "wp_cv": 81
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHS70",
+   "cv": 179,
+   "wp_cv": 81
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHS76",
+   "cv": 179,
+   "wp_cv": 81
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHS82",
+   "cv": 179,
+   "wp_cv": 81
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHS90",
+   "cv": 179,
+   "wp_cv": 81
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHS98",
+   "cv": 179,
+   "wp_cv": 81
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHL106",
+   "cv": 157,
+   "wp_cv": 71
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHL58",
+   "cv": 157,
+   "wp_cv": 71
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHL64",
+   "cv": 157,
+   "wp_cv": 71
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHL70",
+   "cv": 157,
+   "wp_cv": 71
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHL76",
+   "cv": 157,
+   "wp_cv": 71
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHL82",
+   "cv": 157,
+   "wp_cv": 71
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHL90",
+   "cv": 157,
+   "wp_cv": 71
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHL98",
+   "cv": 157,
+   "wp_cv": 71
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHP2L-2",
+   "cv": 65,
+   "wp_cv": 33
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHP3L-2",
+   "cv": 65,
+   "wp_cv": 33
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHPL-2",
+   "cv": 65,
+   "wp_cv": 33
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHPM-2",
+   "cv": 65,
+   "wp_cv": 33
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHP2L-1",
+   "cv": 32,
+   "wp_cv": 14
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHP3L-1",
+   "cv": 32,
+   "wp_cv": 14
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHPL-1",
+   "cv": 32,
+   "wp_cv": 14
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LCHPM-1",
+   "cv": 32,
+   "wp_cv": 14
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBA100",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBA65",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBA70",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBA75",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBA80",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBA85",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBA90",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBA95",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBB100",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBB65",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBB70",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBB75",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBB80",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBB85",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBB90",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBB95",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBC100",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBC65",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBC70",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBC75",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBC80",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBC85",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBC90",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBC95",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBD100",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBD65",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBD70",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBD75",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBD80",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBD85",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBD90",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBD95",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBE100",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBE65",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBE70",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBE75",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBE80",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBE85",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBE90",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBE95",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBF65",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBF70",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBF75",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBF80",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBF85",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBF90",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBG70",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBG75",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBG80",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBG85",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBH75",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBH80",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBBH85",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBW106",
+   "cv": 130,
+   "wp_cv": 59
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBW58",
+   "cv": 130,
+   "wp_cv": 59
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBW64",
+   "cv": 130,
+   "wp_cv": 59
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBW70",
+   "cv": 130,
+   "wp_cv": 59
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBW76",
+   "cv": 130,
+   "wp_cv": 59
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBW82",
+   "cv": 130,
+   "wp_cv": 59
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBW90",
+   "cv": 130,
+   "wp_cv": 59
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBW98",
+   "cv": 130,
+   "wp_cv": 59
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBS106",
+   "cv": 159,
+   "wp_cv": 72
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBS58",
+   "cv": 159,
+   "wp_cv": 72
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBS64",
+   "cv": 159,
+   "wp_cv": 72
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBS70",
+   "cv": 159,
+   "wp_cv": 72
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBS76",
+   "cv": 159,
+   "wp_cv": 72
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBS82",
+   "cv": 159,
+   "wp_cv": 72
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBS90",
+   "cv": 159,
+   "wp_cv": 72
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBS98",
+   "cv": 159,
+   "wp_cv": 72
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBL106",
+   "cv": 140,
+   "wp_cv": 63
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBL58",
+   "cv": 140,
+   "wp_cv": 63
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBL64",
+   "cv": 140,
+   "wp_cv": 63
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBL70",
+   "cv": 140,
+   "wp_cv": 63
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBL76",
+   "cv": 140,
+   "wp_cv": 63
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBL82",
+   "cv": 140,
+   "wp_cv": 63
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBL90",
+   "cv": 140,
+   "wp_cv": 63
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBL98",
+   "cv": 140,
+   "wp_cv": 63
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBP2L-2",
+   "cv": 60,
+   "wp_cv": 30
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBP3L-2",
+   "cv": 60,
+   "wp_cv": 30
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBPL-2",
+   "cv": 60,
+   "wp_cv": 30
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBPM-2",
+   "cv": 60,
+   "wp_cv": 30
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBP2L-1",
+   "cv": 30,
+   "wp_cv": 14
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBP3L-1",
+   "cv": 30,
+   "wp_cv": 14
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBPL-1",
+   "cv": 30,
+   "wp_cv": 14
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXIIBPM-1",
+   "cv": 30,
+   "wp_cv": 14
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBA100",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBA65",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBA70",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBA75",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBA80",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBA85",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBA90",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBA95",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBB100",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBB65",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBB70",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBB75",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBB80",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBB85",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBB90",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBB95",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBC100",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBC65",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBC70",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBC75",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBC80",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBC85",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBC90",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBC95",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBD100",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBD65",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBD70",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBD75",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBD80",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBD85",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBD90",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBD95",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBE100",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBE65",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBE70",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBE75",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBE80",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBE85",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBE90",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBE95",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBF65",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBF70",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBF75",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBF80",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBF85",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBF90",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBG70",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBG75",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBG80",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBG85",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBH75",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBH80",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBBH85",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBW106",
+   "cv": 130,
+   "wp_cv": 59
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBW58",
+   "cv": 130,
+   "wp_cv": 59
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBW64",
+   "cv": 130,
+   "wp_cv": 59
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBW70",
+   "cv": 130,
+   "wp_cv": 59
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBW76",
+   "cv": 130,
+   "wp_cv": 59
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBW82",
+   "cv": 130,
+   "wp_cv": 59
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBW90",
+   "cv": 130,
+   "wp_cv": 59
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBW98",
+   "cv": 130,
+   "wp_cv": 59
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBS106",
+   "cv": 159,
+   "wp_cv": 72
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBS58",
+   "cv": 159,
+   "wp_cv": 72
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBS64",
+   "cv": 159,
+   "wp_cv": 72
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBS70",
+   "cv": 159,
+   "wp_cv": 72
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBS76",
+   "cv": 159,
+   "wp_cv": 72
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBS82",
+   "cv": 159,
+   "wp_cv": 72
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBS90",
+   "cv": 159,
+   "wp_cv": 72
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBS98",
+   "cv": 159,
+   "wp_cv": 72
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBL106",
+   "cv": 140,
+   "wp_cv": 63
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBL58",
+   "cv": 140,
+   "wp_cv": 63
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBL64",
+   "cv": 140,
+   "wp_cv": 63
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBL70",
+   "cv": 140,
+   "wp_cv": 63
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBL76",
+   "cv": 140,
+   "wp_cv": 63
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBL82",
+   "cv": 140,
+   "wp_cv": 63
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBL90",
+   "cv": 140,
+   "wp_cv": 63
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBL98",
+   "cv": 140,
+   "wp_cv": 63
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBP2L-2",
+   "cv": 60,
+   "wp_cv": 30
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBP3L-2",
+   "cv": 60,
+   "wp_cv": 30
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBPL-2",
+   "cv": 60,
+   "wp_cv": 30
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBPM-2",
+   "cv": 60,
+   "wp_cv": 30
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBP2L-1",
+   "cv": 30,
+   "wp_cv": 14
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBP3L-1",
+   "cv": 30,
+   "wp_cv": 14
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBPL-1",
+   "cv": 30,
+   "wp_cv": 14
+ },
+ {
+   "country_code": "BN",
+   "product_sku": "LXIIBPM-1",
+   "cv": 30,
+   "wp_cv": 14
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBA100",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBA65",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBA70",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBA75",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBA80",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBA85",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBA90",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBA95",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBB100",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBB65",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBB70",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBB75",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBB80",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBB85",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBB90",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBB95",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBC100",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBC65",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBC70",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBC75",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBC80",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBC85",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBC90",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBC95",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBD100",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBD65",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBD70",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBD75",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBD80",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBD85",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBD90",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBD95",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBE100",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBE65",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBE70",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBE75",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBE80",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBE85",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBE90",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBE95",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBF65",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBF70",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBF75",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBF80",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBF85",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBF90",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBG70",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBG75",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBG80",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBG85",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBH75",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBH80",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBBH85",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBW106",
+   "cv": 130,
+   "wp_cv": 59
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBW58",
+   "cv": 130,
+   "wp_cv": 59
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBW64",
+   "cv": 130,
+   "wp_cv": 59
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBW70",
+   "cv": 130,
+   "wp_cv": 59
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBW76",
+   "cv": 130,
+   "wp_cv": 59
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBW82",
+   "cv": 130,
+   "wp_cv": 59
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBW90",
+   "cv": 130,
+   "wp_cv": 59
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBW98",
+   "cv": 130,
+   "wp_cv": 59
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBS106",
+   "cv": 159,
+   "wp_cv": 72
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBS58",
+   "cv": 159,
+   "wp_cv": 72
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBS64",
+   "cv": 159,
+   "wp_cv": 72
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBS70",
+   "cv": 159,
+   "wp_cv": 72
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBS76",
+   "cv": 159,
+   "wp_cv": 72
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBS82",
+   "cv": 159,
+   "wp_cv": 72
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBS90",
+   "cv": 159,
+   "wp_cv": 72
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBS98",
+   "cv": 159,
+   "wp_cv": 72
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBL106",
+   "cv": 140,
+   "wp_cv": 63
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBL58",
+   "cv": 140,
+   "wp_cv": 63
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBL64",
+   "cv": 140,
+   "wp_cv": 63
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBL70",
+   "cv": 140,
+   "wp_cv": 63
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBL76",
+   "cv": 140,
+   "wp_cv": 63
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBL82",
+   "cv": 140,
+   "wp_cv": 63
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBL90",
+   "cv": 140,
+   "wp_cv": 63
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBL98",
+   "cv": 140,
+   "wp_cv": 63
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBP2L-2",
+   "cv": 60,
+   "wp_cv": 30
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBP3L-2",
+   "cv": 60,
+   "wp_cv": 30
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBPL-2",
+   "cv": 60,
+   "wp_cv": 30
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBPM-2",
+   "cv": 60,
+   "wp_cv": 30
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBP2L-1",
+   "cv": 30,
+   "wp_cv": 14
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBP3L-1",
+   "cv": 30,
+   "wp_cv": 14
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBPL-1",
+   "cv": 30,
+   "wp_cv": 14
+ },
+ {
+   "country_code": "SG",
+   "product_sku": "LXIIBPM-1",
+   "cv": 30,
+   "wp_cv": 14
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBA100",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBA65",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBA70",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBA75",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBA80",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBA85",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBA90",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBA95",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBB100",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBB65",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBB70",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBB75",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBB80",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBB85",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBB90",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBB95",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBC100",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBC65",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBC70",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBC75",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBC80",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBC85",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBC90",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBC95",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBD100",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBD65",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBD70",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBD75",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBD80",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBD85",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBD90",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBD95",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBE100",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBE65",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBE70",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBE75",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBE80",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBE85",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBE90",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBE95",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBF65",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBF70",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBF75",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBF80",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBF85",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBF90",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBG70",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBG75",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBG80",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBG85",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBH75",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBH80",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBBH85",
+   "cv": 103,
+   "wp_cv": 46
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBW106",
+   "cv": 130,
+   "wp_cv": 59
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBW58",
+   "cv": 130,
+   "wp_cv": 59
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBW64",
+   "cv": 130,
+   "wp_cv": 59
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBW70",
+   "cv": 130,
+   "wp_cv": 59
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBW76",
+   "cv": 130,
+   "wp_cv": 59
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBW82",
+   "cv": 130,
+   "wp_cv": 59
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBW90",
+   "cv": 130,
+   "wp_cv": 59
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBW98",
+   "cv": 130,
+   "wp_cv": 59
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBS106",
+   "cv": 159,
+   "wp_cv": 72
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBS58",
+   "cv": 159,
+   "wp_cv": 72
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBS64",
+   "cv": 159,
+   "wp_cv": 72
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBS70",
+   "cv": 159,
+   "wp_cv": 72
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBS76",
+   "cv": 159,
+   "wp_cv": 72
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBS82",
+   "cv": 159,
+   "wp_cv": 72
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBS90",
+   "cv": 159,
+   "wp_cv": 72
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBS98",
+   "cv": 159,
+   "wp_cv": 72
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBL106",
+   "cv": 140,
+   "wp_cv": 63
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBL58",
+   "cv": 140,
+   "wp_cv": 63
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBL64",
+   "cv": 140,
+   "wp_cv": 63
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBL70",
+   "cv": 140,
+   "wp_cv": 63
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBL76",
+   "cv": 140,
+   "wp_cv": 63
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBL82",
+   "cv": 140,
+   "wp_cv": 63
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBL90",
+   "cv": 140,
+   "wp_cv": 63
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBL98",
+   "cv": 140,
+   "wp_cv": 63
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBP2L-2",
+   "cv": 60,
+   "wp_cv": 30
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBP3L-2",
+   "cv": 60,
+   "wp_cv": 30
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBPL-2",
+   "cv": 60,
+   "wp_cv": 30
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBPM-2",
+   "cv": 60,
+   "wp_cv": 30
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBP2L-1",
+   "cv": 30,
+   "wp_cv": 14
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBP3L-1",
+   "cv": 30,
+   "wp_cv": 14
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBPL-1",
+   "cv": 30,
+   "wp_cv": 14
+ },
+ {
+   "country_code": "MY",
+   "product_sku": "LXBPM-1",
+   "cv": 30,
+   "wp_cv": 14
+ }
+]

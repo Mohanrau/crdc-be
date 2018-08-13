@@ -1,0 +1,4937 @@
+[
+ {
+   "f_company_code": "MY",
+   "bankName": "Citibank (MY)",
+   "swiftCode": "my_citibank"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "Citibank (MY)",
+   "swiftCode": "my_citibank"
+ },
+ {
+   "f_company_code": "TH",
+   "bankName": "Citibank (MY)",
+   "swiftCode": "my_citibank"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "BAIDURI BANK BERHAD",
+   "swiftCode": "BBB"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "BANK ISLAM BRUNEI DARUSSALAM BERHAD",
+   "swiftCode": "BIBD"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
+   "swiftCode": "HSBC"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "PERBADANAN TABUNG AMANAH ISLAM BRUNEI",
+   "swiftCode": "TAIB"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "STANDARD CHARTERED BANK - BRUNEI",
+   "swiftCode": "SCB"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "CITIBANK NA",
+   "swiftCode": "CITISGSG-7214-001"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "THE ROYAL BANK OF SCOTLAND BHD",
+   "swiftCode": "ABNAMYKL"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "ASIAN FINANCE BANK BHD",
+   "swiftCode": "AFBQMYKL"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "BANK PERTANIAN MALAYSIA BHD SPI",
+   "swiftCode": "AGOB9999"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "BANK PERTANIAN MALAYSIA BHD- AGROBANK",
+   "swiftCode": "AGOBMYK1"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "AFFIN ISLAMIC BANK BHD",
+   "swiftCode": "AIBBMYKL"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "AMISLAMIC BANK BHD",
+   "swiftCode": "AISLMYKL"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "ALLIANCE ISLAMIC BANK BHD",
+   "swiftCode": "ALSRMYK1"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "AMINVESTMENT BANK BHD SPI",
+   "swiftCode": "AMMB9999"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "AMINVESTMENT BANK BHD",
+   "swiftCode": "AMMBMYKL"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "AMBANK BHD",
+   "swiftCode": "ARBKMYKL"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "ECM LIBRA INVESTMENT BANK BHD",
+   "swiftCode": "AVSSMYK1"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "BANK ISLAM BHD",
+   "swiftCode": "BIMBMYKL"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "BANK OF CHINA MALAYSIA BHD",
+   "swiftCode": "BKCHMYKL"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "BANGKOK BANK BHD",
+   "swiftCode": "BKKBMYKL"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "BANK KERJASAMA RAKYAT",
+   "swiftCode": "BKRMMYK1"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "BANK KERJASAMA RAKYAT - NEW",
+   "swiftCode": "BKRMMYKL"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "BANK MUAMALAT MALAYSIA BHD",
+   "swiftCode": "BMMBMYKL"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "BANK NEGARA MALAYSIA",
+   "swiftCode": "BNMAMYKL"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "BNP PARIBAS MALAYSIA BHD",
+   "swiftCode": "BNPAMYKL"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "BANK OF AMERICA BHD",
+   "swiftCode": "BOFAMY2X"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "BANK OF TOKYO-MITSUBISHI BHD SPI",
+   "swiftCode": "BOTK9999"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "BANK OF TOKYO-MITSUBISHI BHD",
+   "swiftCode": "BOTKMYKX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "BANK SIMPANAN NASIONAL SPI",
+   "swiftCode": "BSNA9999"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "BANK SIMPANAN NASIONAL",
+   "swiftCode": "BSNAMYK1"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "CAGAMAS BHD SPI",
+   "swiftCode": "CAGA9999"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "CAGAMAS BHD",
+   "swiftCode": "CAGAMYK1"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "J P MORGAN CHASE BANK BHD",
+   "swiftCode": "CHASMYKX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "CIMB BANK BHD",
+   "swiftCode": "CIBBMYKL"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "CITIBANK BHD SPI",
+   "swiftCode": "CITI9999"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "CITIBANK BHD",
+   "swiftCode": "CITIMYKL"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "CIMB INVESTMENT BANK BHD SPI",
+   "swiftCode": "COIM9999"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "CIMB INVESTMENT BANK BHD",
+   "swiftCode": "COIMMYK1"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "CIMB ISLAMIC BANK BHD",
+   "swiftCode": "CTBBMYKL"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "DEUTSCHE BANK MALAYSIA BHD SPI",
+   "swiftCode": "DEUT9999"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "DEUTSCHE BANK MALAYSIA BHD",
+   "swiftCode": "DEUTMYKL"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "EXPORT IMPORT BANK BHD SPI",
+   "swiftCode": "EXMB9999"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "EXPORT IMPORT BANK BHD",
+   "swiftCode": "EXMBMYKL"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "HSBC BANK MALAYSIA BERHAD",
+   "swiftCode": "HBMBMYKL"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "AFFIN HWANG INVESTMENT BANK BERHAD",
+   "swiftCode": "HDSBMY2P"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "HONG LEONG BANK BHD",
+   "swiftCode": "HLBBMYKL"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "HONG LEONG ISLAMIC BANK BHD",
+   "swiftCode": "HLIBMYKL"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "HSBC AMANAH MALAYSIA BHD",
+   "swiftCode": "HMABMYKL"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "INDUSTRIAL AND COMM BANK OF CHINA MALAYS",
+   "swiftCode": "ICBKMYKL"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "INDIA INTERNATIONAL BANK MALAYSIA BHD",
+   "swiftCode": "IIMBMYKL"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "ABRAR DISCOUNTS BHD SPI",
+   "swiftCode": "ISCA9999"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "ABRAR DISCOUNTS BHD",
+   "swiftCode": "ISCAMYK1"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "KAF INVESTMENT BANK BHD SPI",
+   "swiftCode": "KAFD9999"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "KAF INVESTMENT BANK BHD",
+   "swiftCode": "KAFDMYK1"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "KUWAIT FINANCE HOUSE",
+   "swiftCode": "KFHOMYKL"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "KENANGA INVESTMENT BANK BHD",
+   "swiftCode": "KKENMYK1"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "KUMPULAN WANG PERSARAAN",
+   "swiftCode": "KWAPMYK1"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "KUMPULAN WANG SIMPANAN PEKERJA",
+   "swiftCode": "KWSPMYK1"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "ALLIANCE INVESTMENT BANK BHD SPI",
+   "swiftCode": "MBAM9999"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "ALLIANCE INVESTMENT BANK BHD",
+   "swiftCode": "MBAMMYK1"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "MALAYAN BANKING BHD",
+   "swiftCode": "MBBEMYKL"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "MAYBANK INVESTMENT BANK BHD SPI",
+   "swiftCode": "MBEA9999"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "MAYBANK INVESTMENT BANK BHD",
+   "swiftCode": "MBEAMYK1"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "MAYBANK ISLAMIC BHD",
+   "swiftCode": "MBISMYKL"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "MIZUHO BANK MALAYSIA BERHAD",
+   "swiftCode": "MCBM"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "Malaysian Electronic System Sdn Bhd",
+   "swiftCode": "MEPSMYK1"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "ALLIANCE BANK MALAYSIA BHD",
+   "swiftCode": "MFBBMYKL"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "MIZUHO CORPORATE BANK MALAYSIA BHD",
+   "swiftCode": "MHCBMYKA"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "MIMB INVESTMENT BANK BHD",
+   "swiftCode": "MIMBMYKL"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "SME BANK MALAYSIA BHD SPI",
+   "swiftCode": "MSME9999"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "SME BANK MALAYSIA BHD",
+   "swiftCode": "MSMEMYKL"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "NATIONAL BANK OF ABU DHABI MALAYSIA BHD",
+   "swiftCode": "NBADMYKL"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "THE BANK OF NOVA SCOTIA BHD",
+   "swiftCode": "NOSCMYKL"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "OCBC AL-AMIN BANK BHD",
+   "swiftCode": "OABBMYKL"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "OCBC BANK MALAYSIA BHD",
+   "swiftCode": "OCBCMYKL"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "OSK INVESTMENT BANK BHD SPI",
+   "swiftCode": "OSKI9999"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "RHB INVESTMENT BANK BERHAD",
+   "swiftCode": "OSKIMYKL"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "AFFIN INVESTMENT BANK BHD",
+   "swiftCode": "PAMBMYK1"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "PUBLIC BANK BHD",
+   "swiftCode": "PBBEMYKL"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "BANK PEMBANGUNAN MALAYSIA BHD SPI",
+   "swiftCode": "PEMB9999"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "BANK PEMBANGUNAN MALAYSIA BHD",
+   "swiftCode": "PEMBMYKL"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "AFFIN BANK BHD",
+   "swiftCode": "PHBMMYKL"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "PUBLIC ISLAMIC BANK BHD",
+   "swiftCode": "PIBEMYK1"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "RHB ISLAMIC BANK BERHAD",
+   "swiftCode": "RHBAMYKL"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "RHB BANK BHD",
+   "swiftCode": "RHBBMYKL"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "AL-RAJHI BANK MALAYSIA BHD",
+   "swiftCode": "RJHIMYKL"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "STANDARD CHARTERED BANK BHD",
+   "swiftCode": "SCBLMYKX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "STANDARD CHARTERED SAADIQ BHD",
+   "swiftCode": "SCSRMYK1"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "PUBLIC INVESTMENT BANK BHD",
+   "swiftCode": "SMBBMYK1"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "SUMITOMO MITSUI BANK BHD",
+   "swiftCode": "SMBCMYKL"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "MIDF AMANAH INVESTMENT BANK BHD SPI",
+   "swiftCode": "UMBB9999"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "MIDF AMANAH INVESTMENT BANK BHD",
+   "swiftCode": "UMBBMYK1"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "UNITED OVERSEAS BANK MALAYSIA BHD",
+   "swiftCode": "UOVBMYKL"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "ABN AMRO BANK N.V.",
+   "swiftCode": "ANBAHKAAXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "AGRICULTURAL BANK OF CHINA LIMITED",
+   "swiftCode": "ABOCHKHKXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "AUSTRALIA & NEW ZEALAND BANKING GROUP LTD",
+   "swiftCode": "ANZBHKHXXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "BANGKOK BANK PUBLIC COMPANY LIMITED",
+   "swiftCode": "BKKBHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "BANK OF AMERICANATIONAL ASSOCIATION",
+   "swiftCode": "BOFAHKHXXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "BANK OF CHINA (HONG KONG) LIMITED",
+   "swiftCode": "BKCHHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "BANK OF MONTREAL",
+   "swiftCode": "BOFMHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "BANK OF TAIWAN",
+   "swiftCode": "BKTWHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "BANK SINOPAC",
+   "swiftCode": "SINOHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "BANKOF COMMUNICTIONS (HONG KONG) LIMITED",
+   "swiftCode": "COMMHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "BARCLAYS BANK PLC",
+   "swiftCode": "BARCHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "BNP PARIBAS",
+   "swiftCode": "BNPAHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "CANADIAN IMPERIAL BANK OF COMMERCE",
+   "swiftCode": "CIBCHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "CHANG HWA COMMERCIAL BANK LTD",
+   "swiftCode": "CCBCHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "CHINA CONSTRUCTION BANK CORPORATION",
+   "swiftCode": "PCBCHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "CHIYU BANKING CORPORATION LTD",
+   "swiftCode": "CIYUHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "CITIBANK N.A.",
+   "swiftCode": "CITIHKHXXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "CITIC KA WAH BANK LIMITED",
+   "swiftCode": "KWHKHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "COMMONWEALTH BANK OF AUSTRALIA",
+   "swiftCode": "CTBAHKHKXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK",
+   "swiftCode": "CRLYHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "CREDIT SUISSE AG",
+   "swiftCode": "CSHKHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "DAH SING BANK LTD",
+   "swiftCode": "DSBAHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "DBS BANK (HONG KONG) LIMITED",
+   "swiftCode": "DHBKHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "DEUTSCHE BANK AG",
+   "swiftCode": "DEUTHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "E. SUN COMMERCIAL BANK",
+   "swiftCode": "ESUNHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "FIRST COMMERCIAL BANK LTD",
+   "swiftCode": "FCBKHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "FUBON BANK (HONG KONG) LIMITED",
+   "swiftCode": "IBALHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "HANA BANK",
+   "swiftCode": "HNBNHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "HANG SENG BANK LTD",
+   "swiftCode": "HASEHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "HONG LEONG BANK BERHAD",
+   "swiftCode": "HLBBHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "HUA NAN COMMERCIAL BANK LTD",
+   "swiftCode": "HNBKHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "INDIAN OVERSEAS BANK",
+   "swiftCode": "IOBAHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (ASIA) LIM",
+   "swiftCode": "UBHKHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA LIMITED",
+   "swiftCode": "ICBKHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "ING BANK N.V.",
+   "swiftCode": "INGBHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "JPMORGAN CHASE BANK NATIONAL ASSICIATION",
+   "swiftCode": "CHASHKHPXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "KBC BANK N.V.",
+   "swiftCode": "KREDHKHXXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "MALAYAN BANKING BERHAD (MAYBANK)",
+   "swiftCode": "MBBEHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "MEVAS BANK LIMITED",
+   "swiftCode": "MEVBHKKWXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "MITSUBISHI UFJ TRUST AND BANKING CORPORATION",
+   "swiftCode": "MTBCHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "MIZUHO CORPORATE BANK LTD. HONG KONG BRANCH",
+   "swiftCode": "MHCBHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "NANYANG COMMERCIAL BANK LTD",
+   "swiftCode": "NYCBHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "NATIONAL AUSTRALIA BANK LIMITED",
+   "swiftCode": "NATAHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "NATIONAL BANK OF PAKISTAN",
+   "swiftCode": "NBPAHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "PHILIPPINE NATIONAL BANK",
+   "swiftCode": "PNBMHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "PUBLIC BANK (HONG KONG) LIMITED",
+   "swiftCode": "CBHKHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "ROYAL BANK OF CANADA",
+   "swiftCode": "ROYCHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "SHANGHAI COMMERCIAL BANK LTD",
+   "swiftCode": "SCBKHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "SOCIETE GENERALE",
+   "swiftCode": "SOGEHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "STATE BANK OF INDIA",
+   "swiftCode": "SBINHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "STATE STREET BANK AND TRUST COMPANY",
+   "swiftCode": "SBOSHKHXXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "SUMITOMO MITSUI BANKING CORPORATION",
+   "swiftCode": "SMBCHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "SVENSKA HANDELSBANKEN AB (PUBL)",
+   "swiftCode": "HANDHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "TAI SANG BANK LIMITED",
+   "swiftCode": "TSBLHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "TAI YAU BANK LTD",
+   "swiftCode": "TYBLHKKWXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "TAIWAN BUSINESS BANK",
+   "swiftCode": "MBBTHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "THE BANK OF EAST ASIA LIMITED",
+   "swiftCode": "BEASHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "THE BANK OF NOVA SCOTIA",
+   "swiftCode": "NOSCHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "THE BANK OF TOKYO-MITSUBISHI UFJ LTD",
+   "swiftCode": "BOTKHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "THE CHIBA BANK LTD",
+   "swiftCode": "CHBAHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "THE CHUGOKU BANK LIMITED",
+   "swiftCode": "CHGKHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMI",
+   "swiftCode": "HSBCHKHHHKH"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "THE ROYAL BANKOF SCOTLAND PLC",
+   "swiftCode": "ABNAHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "TORONTO-DOMINION BANK",
+   "swiftCode": "TDOMHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "UCO BANK",
+   "swiftCode": "UCBAHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "WESTPAC BANKING CORPORATION",
+   "swiftCode": "WPACHKHXXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "WING LUNG BANK LTD",
+   "swiftCode": "WUBAHKHHXXX"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "WOORI BANK",
+   "swiftCode": "HVBKHKHHXXX"
+ },
+ {
+   "f_company_code": "TH",
+   "bankName": "BANGKOK BANK PUBLIC COMPANY LIMITED - ธ. กรุงเทพ จำกัด (มหาชน)",
+   "swiftCode": "BKKBTHBK-002"
+ },
+ {
+   "f_company_code": "TH",
+   "bankName": "BANK FOR AGRICULTURE AND AGRICULTURAL COOPERATIVES - ธ. เพื่อการเกษตรและสหกรณ์การเกษตร",
+   "swiftCode": "BAABTHBK-034"
+ },
+ {
+   "f_company_code": "TH",
+   "bankName": "BANK OF AMERICA N.A. BANGKOK - ธ. แห่งอเมริกาเนชั่นแนลแอสโซซิเอชั่น",
+   "swiftCode": "BOFATH2X-027"
+ },
+ {
+   "f_company_code": "TH",
+   "bankName": "BANK OF AYUDHYA PUBLIC COMPANY LIMITED (KRUNGSRI) - ธ. กรุงศรีอยุธยา จำกัด (มหาชน)",
+   "swiftCode": "AYUDTHBK-025"
+ },
+ {
+   "f_company_code": "TH",
+   "bankName": "BANK OF CHINA BANGKOK BRANCH - ธ. แห่งประเทศจีน (ไทย) จำกัด (มหาชน)",
+   "swiftCode": "BKCHTHBK-052"
+ },
+ {
+   "f_company_code": "TH",
+   "bankName": "BANK OF THAILAND - ธ. แห่งประเทศไทย",
+   "swiftCode": "BOTHTHBK-001"
+ },
+ {
+   "f_company_code": "TH",
+   "bankName": "BANK OF TOKYO MITSUBISHI UFJ LTD. THE - ธ. แห่งโตเกียว-มิตซูบิชิ ยูเอฟเจ จำกัด",
+   "swiftCode": "BOTKTHBX"
+ },
+ {
+   "f_company_code": "TH",
+   "bankName": "BNP PARIBAS BANGKOK BRANCH - ธ. บีเอ็นพี พารีบาส์",
+   "swiftCode": "BNPATHBK-045"
+ },
+ {
+   "f_company_code": "TH",
+   "bankName": "CIMB THAI BANK PUBLIC COMPANY LIMITED(FORMERLY BAN - ธ. ซีไอเอ็มบี ไทย จำกัด (มหาชน)",
+   "swiftCode": "UBOBTHBK-022"
+ },
+ {
+   "f_company_code": "TH",
+   "bankName": "CITIBANK N.A. - ธ. ซิตี้แบงก์ เอ็น.เอ.",
+   "swiftCode": "CITITHBX-017"
+ },
+ {
+   "f_company_code": "TH",
+   "bankName": "DEUTSCHE BANK AG BANGKOK BRANCH - ธ. ดอยซ์แบงก์",
+   "swiftCode": "DEUTTHBK-032"
+ },
+ {
+   "f_company_code": "TH",
+   "bankName": "EXPORT IMPORT BANK OF THAILAND - ธ. เพื่อการส่งออกและนำเข้าแห่งประเทศไทย",
+   "swiftCode": "EXTHTHBK-035"
+ },
+ {
+   "f_company_code": "TH",
+   "bankName": "GOVERNMENT SAVINGS BANK - ธ. ออมสิน",
+   "swiftCode": "GSBATHBK-030"
+ },
+ {
+   "f_company_code": "TH",
+   "bankName": "HONGKONG AND SHANGHAIBANKING CORPORATION LIMITED T - ธ. ฮ่องกงและเซี่ยงไฮ้แบงกิ้งคอร์ปอเรชั่น จำกัด",
+   "swiftCode": "HSBCTHBK-031"
+ },
+ {
+   "f_company_code": "TH",
+   "bankName": "INDIAN OVERSEAS BANK(FORMERLY BHARAT OVERSEAS BANK - ธ. อินเดียนโอเวอร์ซีส์",
+   "swiftCode": "BHOBTHBK-029"
+ },
+ {
+   "f_company_code": "TH",
+   "bankName": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA (THAI) PUBL - ธ. ไอซีบีซี (ไทย) จำกัด (มหาชน)",
+   "swiftCode": "ICBKTHBK-070"
+ },
+ {
+   "f_company_code": "TH",
+   "bankName": "ISLAMIC BANK OF THAILAND - ธ. อิสลามแห่งประเทศไทย",
+   "swiftCode": "TIBTTHBK-066"
+ },
+ {
+   "f_company_code": "TH",
+   "bankName": "JPMORGAN CHASE BANK N.A. BANGKOK BRANCH - ธ. เจพีมอร์แกน เชส",
+   "swiftCode": "CHASTHBX-008"
+ },
+ {
+   "f_company_code": "TH",
+   "bankName": "KASIKORNBANK PUBLIC COMPANY LIMITED - ธ. กสิกรไทย จำกัด (มหาชน)",
+   "swiftCode": "KASITHBK-004"
+ },
+ {
+   "f_company_code": "TH",
+   "bankName": "KRUNG THAI BANK PUBLIC COMPANY LIMITED - ธ. กรุงไทย จำกัด (มหาชน)",
+   "swiftCode": "KRTHTHBK-006"
+ },
+ {
+   "f_company_code": "TH",
+   "bankName": "MEGA INTERNATIONAL COMMERCIAL BANKPUBLIC COMPANY L - ธ. เมกะ สากลพาณิชย์ จำกัด (มหาชน)",
+   "swiftCode": "ICBCTHBK-026"
+ },
+ {
+   "f_company_code": "TH",
+   "bankName": "MIZUHO BANK LTD. BANGKOK BRANCH - ธ. มิซูโฮ จำกัด สาขากรุงเทพฯ",
+   "swiftCode": "MHCBTHBK-039"
+ },
+ {
+   "f_company_code": "TH",
+   "bankName": "OVERSEA CHINESE BANKING CORPORATION LIMITEDBANGKOK - ธ. โอเวอร์ซี-ไชนีสแบงกิ้งคอร์ปอเรชั่น จำกัด",
+   "swiftCode": "OCBCTHBK-009"
+ },
+ {
+   "f_company_code": "TH",
+   "bankName": "RHB BANK BERHAD - ธ. อาร์ เอช บี จำกัด",
+   "swiftCode": "DCBBTHBK-023"
+ },
+ {
+   "f_company_code": "TH",
+   "bankName": "SIAM COMMERCIAL BANK PCL. THE - ธ. ไทยพาณิชย์ จำกัด (มหาชน)",
+   "swiftCode": "SICOTHBK-014"
+ },
+ {
+   "f_company_code": "TH",
+   "bankName": "SMALL AND MEDIUM ENTREPRISEDEVELOPMENT BANK OF THA - ธ.พัฒนาวิสาหกิจขนาดกลางและขนาดย่อม ฯ.",
+   "swiftCode": "SMEBTHBK-098"
+ },
+ {
+   "f_company_code": "TH",
+   "bankName": "STANDARD CHARTERED BANK (THAI) PCL - ธ. สแตนดาร์ดชาร์เตอร์ด (ไทย) จำกัด (มหาชน)",
+   "swiftCode": "SCBLTHBX-020"
+ },
+ {
+   "f_company_code": "TH",
+   "bankName": "SUMITOMO MITSUI BANKING CORPORATION - ธ. ซูมิโตโม มิตซุย แบงกิ้ง คอร์ปอเรชั่น",
+   "swiftCode": "SMBCTHBK-018"
+ },
+ {
+   "f_company_code": "TH",
+   "bankName": "THANACHART BANK PUBLIC COMPANY LIMITED - ธ. ธนชาต จำกัด (มหาชน)",
+   "swiftCode": "THBKTHBK-065"
+ },
+ {
+   "f_company_code": "TH",
+   "bankName": "THE ROYAL BANK OF SCOTLAND N.V.BANGKOK BRANCH (FOR - ธ. เดอะรอยัลแบงก์อ๊อฟสกอตแลนด์ พีแอลซี",
+   "swiftCode": "ABNATHBK-005"
+ },
+ {
+   "f_company_code": "TH",
+   "bankName": "TMB BANK PUBLIC COMPANY LIMITED - ธ. ทหารไทย จำกัด (มหาชน)",
+   "swiftCode": "TMBKTHBK-011"
+ },
+ {
+   "f_company_code": "TH",
+   "bankName": "UNITED OVERSEAS BANK (THAI) PUBLIC COMPANY LIMITED - ธ. ยูโอบี จำกัด (มหาชน)",
+   "swiftCode": "UOVBTHBK-024"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "POST OFFICE SAVINGS BANK",
+   "swiftCode": "DBSSSGSG-7171-081"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "MALAYAN BANKING BERHAD",
+   "swiftCode": "MBBESGSG-7302-001"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "STANDARD CHARTERED BANK",
+   "swiftCode": "SCBLSGSG-7144-099"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "UNITED OVERSEAS BANK LTD",
+   "swiftCode": "UOVBSGSG-7375-651"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "THE HONGKONG & SHANGHAI BANKING CORPORATION LTD",
+   "swiftCode": "HSBCSGSG-7232-873"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "RHB BANK BERHAD",
+   "swiftCode": "RHBBSGSG-7366-001"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "DBS BANK LTD",
+   "swiftCode": "DBSSSGSG-7171-391"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "CIMB BANK BERHAD",
+   "swiftCode": "CIBBSGSG-7986-001"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "OVERSEA-CHINESE BANKING CORPORATION LTD",
+   "swiftCode": "OCBCSGSG-7339-707"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "CTBC BANK CO LTD",
+   "swiftCode": "CTCBSGSG-9353-001"
+ },
+ {
+   "f_company_code": "BN",
+   "bankName": "BAIDURI BANK BERHAD",
+   "swiftCode": "BBB"
+ },
+ {
+   "f_company_code": "BN",
+   "bankName": "BANK ISLAM BRUNEI DARUSSALAM BERHAD",
+   "swiftCode": "BIBD"
+ },
+ {
+   "f_company_code": "BN",
+   "bankName": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
+   "swiftCode": "HSBC"
+ },
+ {
+   "f_company_code": "BN",
+   "bankName": "MALAYAN BANKING BERHAD",
+   "swiftCode": "MBB"
+ },
+ {
+   "f_company_code": "BN",
+   "bankName": "PERBADANAN TABUNG AMANAH ISLAM BRUNEI",
+   "swiftCode": "TAIB"
+ },
+ {
+   "f_company_code": "BN",
+   "bankName": "STANDARD CHARTERED BANK - BRUNEI",
+   "swiftCode": "SCB"
+ },
+ {
+   "f_company_code": "SG",
+   "bankName": "UNITED OVERSEAS BANK LTD",
+   "swiftCode": "UOVBSGSG-7375-651"
+ },
+ {
+   "f_company_code": "SG",
+   "bankName": "DBS BANK LTD",
+   "swiftCode": "DBSSSGSG-7171-391"
+ },
+ {
+   "f_company_code": "SG",
+   "bankName": "OVERSEA-CHINESE BANKING CORPORATION LTD",
+   "swiftCode": "OCBCSGSG-7339-802"
+ },
+ {
+   "f_company_code": "SG",
+   "bankName": "POST OFFICE SAVINGS BANK",
+   "swiftCode": "DBSSSGSG-7171-081"
+ },
+ {
+   "f_company_code": "SG",
+   "bankName": "STANDARD CHARTERED BANK",
+   "swiftCode": "SCBLSGSG-7144-099"
+ },
+ {
+   "f_company_code": "SG",
+   "bankName": "THE HONGKONG & SHANGHAI BANKING CORPORATION LTD",
+   "swiftCode": "HSBCSGSG-7232-873"
+ },
+ {
+   "f_company_code": "SG",
+   "bankName": "MALAYAN BANKING BERHAD",
+   "swiftCode": "MBBESGSG-7302-080"
+ },
+ {
+   "f_company_code": "SG",
+   "bankName": "CITIBANK NA",
+   "swiftCode": "CITISGSG-7214-001"
+ },
+ {
+   "f_company_code": "SG",
+   "bankName": "RHB BANK BERHAD",
+   "swiftCode": "RHBBSGSG-7366-001"
+ },
+ {
+   "f_company_code": "SG",
+   "bankName": "CIMB BANK BERHAD",
+   "swiftCode": "CIBBSGSG-7986-001"
+ },
+ {
+   "f_company_code": "SG",
+   "bankName": "CTBC BANK CO LTD",
+   "swiftCode": "CTCBSGSG-9353-001"
+ },
+ {
+   "f_company_code": "MY",
+   "bankName": "BANK PERTANIAN MALAYSIA BHD- AGROBANK",
+   "swiftCode": "AGOBMYK1"
+ },
+ {
+   "f_company_code": "MY",
+   "bankName": "AFFIN ISLAMIC BANK BHD",
+   "swiftCode": "AIBBMYKL"
+ },
+ {
+   "f_company_code": "MY",
+   "bankName": "AMISLAMIC BANK BHD",
+   "swiftCode": "AISLMYKL"
+ },
+ {
+   "f_company_code": "MY",
+   "bankName": "ALLIANCE ISLAMIC BANK BHD",
+   "swiftCode": "ALSRMYK1"
+ },
+ {
+   "f_company_code": "MY",
+   "bankName": "BANK ISLAM BHD",
+   "swiftCode": "BIMBMYKL"
+ },
+ {
+   "f_company_code": "MY",
+   "bankName": "BANK OF CHINA MALAYSIA BHD",
+   "swiftCode": "BKCHMYKL"
+ },
+ {
+   "f_company_code": "MY",
+   "bankName": "BANGKOK BANK BHD",
+   "swiftCode": "BKKBMYKL"
+ },
+ {
+   "f_company_code": "MY",
+   "bankName": "BANK KERJASAMA RAKYAT",
+   "swiftCode": "BKRMMYK1"
+ },
+ {
+   "f_company_code": "MY",
+   "bankName": "BANK KERJASAMA RAKYAT - NEW",
+   "swiftCode": "BKRMMYKL"
+ },
+ {
+   "f_company_code": "MY",
+   "bankName": "BANK MUAMALAT MALAYSIA BHD",
+   "swiftCode": "BMMBMYKL"
+ },
+ {
+   "f_company_code": "MY",
+   "bankName": "BANK SIMPANAN NASIONAL",
+   "swiftCode": "BSNAMYK1"
+ },
+ {
+   "f_company_code": "MY",
+   "bankName": "CIMB ISLAMIC BANK BHD",
+   "swiftCode": "CTBBMYKL"
+ },
+ {
+   "f_company_code": "MY",
+   "bankName": "HONG LEONG ISLAMIC BANK BHD",
+   "swiftCode": "HLIBMYKL"
+ },
+ {
+   "f_company_code": "MY",
+   "bankName": "HSBC AMANAH MALAYSIA BHD",
+   "swiftCode": "HMABMYKL"
+ },
+ {
+   "f_company_code": "MY",
+   "bankName": "MALAYAN BANKING BHD",
+   "swiftCode": "MBBEMYKL"
+ },
+ {
+   "f_company_code": "MY",
+   "bankName": "MAYBANK ISLAMIC BHD",
+   "swiftCode": "MBISMYKL"
+ },
+ {
+   "f_company_code": "MY",
+   "bankName": "OCBC AL-AMIN BANK BHD",
+   "swiftCode": "OABBMYKL"
+ },
+ {
+   "f_company_code": "MY",
+   "bankName": "OCBC BANK MALAYSIA BHD",
+   "swiftCode": "OCBCMYKL"
+ },
+ {
+   "f_company_code": "MY",
+   "bankName": "BANK PEMBANGUNAN MALAYSIA BHD",
+   "swiftCode": "PEMBMYKL"
+ },
+ {
+   "f_company_code": "MY",
+   "bankName": "AFFIN BANK BHD",
+   "swiftCode": "PHBMMYKL"
+ },
+ {
+   "f_company_code": "MY",
+   "bankName": "PUBLIC ISLAMIC BANK BHD",
+   "swiftCode": "PIBEMYK1"
+ },
+ {
+   "f_company_code": "MY",
+   "bankName": "RHB ISLAMIC BANK BERHAD",
+   "swiftCode": "RHBAMYKL"
+ },
+ {
+   "f_company_code": "MY",
+   "bankName": "AL-RAJHI BANK MALAYSIA BHD",
+   "swiftCode": "RJHIMYKL"
+ },
+ {
+   "f_company_code": "MY",
+   "bankName": "STANDARD CHARTERED SAADIQ BHD",
+   "swiftCode": "SCSRMYK1"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "臺灣銀行",
+   "swiftCode": "004-2721"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "臺灣土地銀行",
+   "swiftCode": "005-1611"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "第一商業銀行",
+   "swiftCode": "007-8210"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "華南商業銀行",
+   "swiftCode": "008-8303"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "彰化商業銀行",
+   "swiftCode": "009-9849"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "上海商業儲蓄銀行",
+   "swiftCode": "011-0705"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "台北富邦商業銀行",
+   "swiftCode": "012-7521"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "國泰世華商業銀行",
+   "swiftCode": "013-2778"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "高雄銀行",
+   "swiftCode": "016-2450"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "兆豐國際商業銀行",
+   "swiftCode": "017-2428"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "全國農業金庫",
+   "swiftCode": "018-0012"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "日商瑞穗實業銀行台北分行",
+   "swiftCode": "020-0040"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "花旗（台灣）商業銀行",
+   "swiftCode": "021-0672"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "美國銀行台北分行",
+   "swiftCode": "022-0019"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "泰國盤谷銀行台北分行",
+   "swiftCode": "023-0043"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "菲律賓首都銀行台北分行",
+   "swiftCode": "025-0012"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "法國興業銀行台北分行",
+   "swiftCode": "037-0017"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "澳商澳盛銀行－原荷蘭銀行",
+   "swiftCode": "039-0411"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "中華開發工業銀行",
+   "swiftCode": "040-0080"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "台灣工業銀行",
+   "swiftCode": "048-0055"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "臺灣中小企業銀行",
+   "swiftCode": "050-8920"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "渣打國際商業銀行",
+   "swiftCode": "052-1185"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "台中商業銀行",
+   "swiftCode": "053-1005"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "京城商業銀行",
+   "swiftCode": "054-0847"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "兆豐票券金融股份有限公司",
+   "swiftCode": "060-0019"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "中華票券金融股份有限公司",
+   "swiftCode": "061-0065"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "國際票券金融股份有限公司",
+   "swiftCode": "062-0099"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "萬通票券金融股份有限公司",
+   "swiftCode": "066-0015"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "德商德意志銀行台北分行",
+   "swiftCode": "072-0014"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "香港商東亞銀行台北分行",
+   "swiftCode": "075-0028"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "美商摩根大通銀行台北分公司",
+   "swiftCode": "076-0018"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "新加坡商星展銀行台北分行",
+   "swiftCode": "078-0010"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "匯豐（台灣）商業銀行",
+   "swiftCode": "081-0360"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "法國巴黎銀行台北分行",
+   "swiftCode": "082-0039"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "法商東方匯理銀行台北分行",
+   "swiftCode": "086-0011"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "瑞士商瑞士銀行台北分行",
+   "swiftCode": "092-0043"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "荷商安智銀行台北分行",
+   "swiftCode": "093-0011"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "澳商澳盛銀行",
+   "swiftCode": "096-0014"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "日商三菱東京日聯銀行台北分行",
+   "swiftCode": "098-0016"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "比利時商比利時聯合銀行台北分行",
+   "swiftCode": "099-0039"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "瑞興商業銀行",
+   "swiftCode": "101-0224"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "華泰商業銀行",
+   "swiftCode": "102-0366"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "臺灣新光商業銀行",
+   "swiftCode": "103-1100"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "台北市第五信用合作社",
+   "swiftCode": "104-0133"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "台北市第九信用合作社",
+   "swiftCode": "106-0186"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "陽信商業銀行",
+   "swiftCode": "108-1080"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "基隆第一信用合作社",
+   "swiftCode": "114-0121"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "基隆市第二信用合作社",
+   "swiftCode": "115-0157"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "淡水第一信用合作社",
+   "swiftCode": "119-0117"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "台北縣淡水信用合作社（南資會員）",
+   "swiftCode": "120-0098"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "宜蘭信用合作社（南資會員）",
+   "swiftCode": "124-0067"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "桃園縣桃園信用合作社",
+   "swiftCode": "127-0116"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "新竹第一信用合作社",
+   "swiftCode": "130-0138"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "新竹第三信用合作社",
+   "swiftCode": "132-0145"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "竹南信用合作社",
+   "swiftCode": "139-0111"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "台中市第二信用合作社",
+   "swiftCode": "146-0157"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "三信商業銀行",
+   "swiftCode": "147-0314"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "彰化第一信用合作社",
+   "swiftCode": "158-0082"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "彰化第五信用合作社",
+   "swiftCode": "161-0068"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "彰化第六信用合作社",
+   "swiftCode": "162-0100"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "彰化第十信用合作社",
+   "swiftCode": "163-0109"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "彰化縣鹿港信用合作社",
+   "swiftCode": "165-0091"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "嘉義市第三信用合作社",
+   "swiftCode": "178-0110"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "嘉義市第四信用合作社",
+   "swiftCode": "179-0049"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "台南第三信用合作社",
+   "swiftCode": "188-0135"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "高雄第二信用合作社",
+   "swiftCode": "203-0164"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "高雄市第三信用合作社",
+   "swiftCode": "204-0206"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "花蓮第一信用合作社",
+   "swiftCode": "215-0150"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "花蓮第二信用合作社",
+   "swiftCode": "216-0140"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "澎湖縣第一信用合作社",
+   "swiftCode": "222-0105"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "澎湖第二信用合作社",
+   "swiftCode": "223-0098"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "金門縣信用合作社",
+   "swiftCode": "224-0042"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "日商三井住友銀行台北分行",
+   "swiftCode": "321-0019"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "大慶票券金融股份有限公司",
+   "swiftCode": "372-0015"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "台新票券金融股份有限公司",
+   "swiftCode": "374-0006"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "桃園區漁會",
+   "swiftCode": "506-0012"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "新竹區漁會（聯資會員）",
+   "swiftCode": "507-0013"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "雲林區漁會",
+   "swiftCode": "512-0055"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "嘉義區漁會",
+   "swiftCode": "515-0081"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "南市區漁會",
+   "swiftCode": "517-0038"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "南縣區漁會",
+   "swiftCode": "518-0073"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "小港區漁會、高雄區漁會",
+   "swiftCode": "520-0056"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "彌陀區漁會；永安區漁會；興達港區漁會；",
+   "swiftCode": "521-0149"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "枋寮區漁會；東港區漁會；林邊區漁會",
+   "swiftCode": "523-0129"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "新港區漁會",
+   "swiftCode": "524-0016"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "澎湖區漁會",
+   "swiftCode": "525-0039"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "高雄市農會",
+   "swiftCode": "605-0133"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "桃園農八德農大園農大溪農平鎮農新屋農楊梅",
+   "swiftCode": "608-0859"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "神岡",
+   "swiftCode": "612-1118"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "名間本會",
+   "swiftCode": "613-0466"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "永靖農員林農秀水農二林農",
+   "swiftCode": "614-1338"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "莿桐；褒忠；崙背；古坑；二崙；四湖；西螺",
+   "swiftCode": "616-0757"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "布袋鎮農會-617",
+   "swiftCode": "617-1490"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "永康西港六甲善化鹽水北門佳里將軍新營歸仁",
+   "swiftCode": "618-1402"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "高雄市大寮區農會-619",
+   "swiftCode": "619-1115"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "屏東縣農會銀行",
+   "swiftCode": "620-0927"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "壽豐本會；吉安本會；新秀本會；富里本會",
+   "swiftCode": "621-0331"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "池上成功長濱關山鹿野東河太麻里台東地區",
+   "swiftCode": "622-0284"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "北農中心所屬會員",
+   "swiftCode": "623-0274"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "澎湖縣農會",
+   "swiftCode": "624-0068"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "台中市農會",
+   "swiftCode": "625-0140"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "連江縣農會",
+   "swiftCode": "627-0016"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "中華郵政股份有限公司",
+   "swiftCode": "700-0021"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "聯邦商業銀行",
+   "swiftCode": "803-0906"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "遠東國際商業銀行",
+   "swiftCode": "805-0609"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "元大商業銀行",
+   "swiftCode": "806-1250"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "永豐商業銀行",
+   "swiftCode": "807-1963"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "凱基商業銀行",
+   "swiftCode": "809-0669"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "星展銀行－原寶華銀行",
+   "swiftCode": "810-0423"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "台新國際商業銀行",
+   "swiftCode": "812-1097"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "大眾商業銀行",
+   "swiftCode": "814-0737"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "日盛國際商業銀行",
+   "swiftCode": "815-0439"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "安泰商業銀行",
+   "swiftCode": "816-0555"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "大里市農會",
+   "swiftCode": "901-0118"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "臺北縣汐止市農會",
+   "swiftCode": "903-0187"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "臺北縣新莊市農會",
+   "swiftCode": "904-0122"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "財團法人農漁會聯合資訊中心",
+   "swiftCode": "910-0000"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "冬山鄉農會",
+   "swiftCode": "912-0488"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "草屯鎮農會",
+   "swiftCode": "916-0758"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "台南市農會",
+   "swiftCode": "922-0089"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "板橋市農會電腦共用中心",
+   "swiftCode": "928-0122"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "財金資訊股份有限公司",
+   "swiftCode": "950-0000"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "台北縣農會附設北區農會電腦共同利用中心",
+   "swiftCode": "951-0000"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "財團法人農漁會南區資訊中心",
+   "swiftCode": "952-0103"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "內埔地區農會-954",
+   "swiftCode": "954-9902"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "國防部主計局同袍儲蓄會",
+   "swiftCode": "961-0000"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "永旺銀行",
+   "swiftCode": "978-0000"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "關貿網路股份有限公司",
+   "swiftCode": "995-0016"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "財政部台北區支付處",
+   "swiftCode": "996-0028"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "中華民國信合社聯合社南區聯合資訊處理中心南資中心",
+   "swiftCode": "997-0000"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "財團法人金融聯合徵信中心",
+   "swiftCode": "998-0000"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "台北市票據交換所",
+   "swiftCode": "999-0000"
+ },
+ {
+   "f_company_code": "MY",
+   "bankName": "CIMB BANK BHD",
+   "swiftCode": "CIBBMYKL"
+ },
+ {
+   "f_company_code": "MY",
+   "bankName": "MAYBANK",
+   "swiftCode": "MBBEMYKL"
+ },
+ {
+   "f_company_code": "MY",
+   "bankName": "STANDARD CHARTERED BANK BHD",
+   "swiftCode": "SCBLMYKX"
+ },
+ {
+   "f_company_code": "MY",
+   "bankName": "AMBANK BHD",
+   "swiftCode": "ARBKMYKL"
+ },
+ {
+   "f_company_code": "MY",
+   "bankName": "RHB BANK BHD",
+   "swiftCode": "RHBBMYKL"
+ },
+ {
+   "f_company_code": "MY",
+   "bankName": "ALLIANCE BANK MALAYSIA BHD",
+   "swiftCode": "MFBBMYKL"
+ },
+ {
+   "f_company_code": "MY",
+   "bankName": "AMERICAN EXPRESS",
+   "swiftCode": "BOFAMY2X"
+ },
+ {
+   "f_company_code": "MY",
+   "bankName": "UNITED OVERSEAS BANK MALAYSIA BHD",
+   "swiftCode": "UOVBMYKL"
+ },
+ {
+   "f_company_code": "MY",
+   "bankName": "CITIBANK BHD",
+   "swiftCode": "CITIMYKL"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "中央銀行國庫局",
+   "swiftCode": "000-0022"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "Advanced Bank of Asia",
+   "swiftCode": "ABAAKHPPXXX-ABA-036100"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "Angkor Capital Specialized Bank",
+   "swiftCode": "ACSBKHPPXXX-ACB-063010"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "ACLEDA Bank Plc",
+   "swiftCode": "ACLBKHPPXXX-ACLED-041001"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "Vietnam Bank For Agriculture and Rural Development",
+   "swiftCode": "VBAAKHPPXXX-AGRI-070333"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "AMRET Bank",
+   "swiftCode": "NULL-AMRET-AMRET"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "ANZ Royal Bank HQ",
+   "swiftCode": "ANZBKHPPXXX-ANZ-044011"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "ANCO Specialized Bank",
+   "swiftCode": "NULL-ASB-ASB"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "Bank for Investment and Development of Cambodia",
+   "swiftCode": "IDBCKHPPXXX-BIDC-068001"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "Booyoung Khmer Bank",
+   "swiftCode": "BKBCKHPPXXX-BKB-061111"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "Bank of India",
+   "swiftCode": "BKIDSGSGXXX-BOI-065091"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "BRASAC Bank",
+   "swiftCode": "NULL-BRASA-BRASAC"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "Best Specialized Bank",
+   "swiftCode": "NULL-BSB-BSB"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "Cambodia Asia Bank",
+   "swiftCode": "CABCKHPPXXX-CAB-016010"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "Cambodian Public Bank Ltd",
+   "swiftCode": "CPBLKHPPXXX-CAMPU-004010"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "Cambodian Commercial Bank Ltd",
+   "swiftCode": "SICOKHPPXXX-CCB-003001"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "Cambodia Development Specialized Bk",
+   "swiftCode": "NULL-CDB-CDB"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "CIMB Bank Cambodia Plc",
+   "swiftCode": "CIBBKHPPXXX-CIMB-072121"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "Camko Bank Ltd",
+   "swiftCode": "CASBKHPPXXX-CKB-052001"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "Cambodia Mekong Bank Public Limited",
+   "swiftCode": "MKGBKHPPXXX-CMB-032101"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "Canadia Bank Plc",
+   "swiftCode": "CADIKHPPXXX-CNB-005001"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "First Commercial Bank",
+   "swiftCode": "FCBKKHPPXXX-FCB-040001"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "First Investment Specialized Bank",
+   "swiftCode": "FISBKHPPXXX-FISB-047001"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "Foreign Trade Bank of Cambodia",
+   "swiftCode": "FTCCKHPPXXX-FTB-001010"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "Hwang DBS Commercial Bank Plc",
+   "swiftCode": "HDSBKHPPXXX-HDBSC-067001"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "Kookmin Bank Cambodia Plc",
+   "swiftCode": "CZNBKHPPXXX-KBC-066001"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "Krung Thai Bank Public Co Ltd",
+   "swiftCode": "KRTHTHBKXXX-KTB-009999"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "KHMER UNION BANK",
+   "swiftCode": "NULL-KUB-KUB"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "May Bank Phnom Penh Branch Plc",
+   "swiftCode": "MBBEKHPPXXX-MBB-020001"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "Maruhan Japan Bank Plc",
+   "swiftCode": "MJBKKHPPXXX-MJB-056111"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "National Bank of Cambodia",
+   "swiftCode": "NCAMKHPPXXX-NBC-100001"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "RHB Indochina Bank Limited",
+   "swiftCode": "OSKIKHPPXXX-OSK-078002"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "Peng Heng SME Bank",
+   "swiftCode": "NULL-PHSB-PHSB"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "PHSME Specialized Bank Ltd",
+   "swiftCode": "PHSMKHPPXXX-PHSME-042001"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "Prosperity Investment Bank PLC",
+   "swiftCode": "NULL-PIB-PIB"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "Phnom Penh Commercial Bank",
+   "swiftCode": "PPCBKHPPXXX-PPCB-058111"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "Rural Development Bank",
+   "swiftCode": "RUDBKHPPXXX-RDB-038001"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "Saigon Thuong Tin Commercial Joint Stock Bank",
+   "swiftCode": "SGTTVNVXXXX-SACOM-064001"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "Singapore Banking Corporation Ltd",
+   "swiftCode": "NULL-SBC-SBC"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "Shinhan Khmer Bank Plc",
+   "swiftCode": "SHBKKHPPXXX-SKB-053001"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "Union Commercial Bank Plc",
+   "swiftCode": "UCBPKHPPXXX-UCB-026100"
+ },
+ {
+   "f_company_code": "HK",
+   "bankName": "Vattanac Bank HQ",
+   "swiftCode": "VBLCKHPPXXX-VATTA-043010"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "1ST MACRO BANK INC. (A RURAL BANK)",
+   "swiftCode": "MCRUPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "A AND A SECURITIES INC.",
+   "swiftCode": "SEUUPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "A.T. DE CASTRO SECURITIES CORPORATION",
+   "swiftCode": "CASUPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "AAA SOUTHEAST EQUITIES INC.",
+   "swiftCode": "AASQPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "AB CAPITAL AND INVESTMENT CORPORATION",
+   "swiftCode": "CAVPPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "ABACUS CAPITAL AND INVESTMENT CORPORATION",
+   "swiftCode": "ACICPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "ABACUS SECURITIES CORPORATION",
+   "swiftCode": "ABAEPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "ABOITIZ EQUITY VENTURES INC.",
+   "swiftCode": "ABTZPH21"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "AGJ SECURITIES CORP.",
+   "swiftCode": "AGJSPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "AIG PHILAM SAVINGS BANK INC",
+   "swiftCode": "PHSAPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "AL AMANAH ISLAMIC INVESTMENT BANK OF THE PHILIPPINES",
+   "swiftCode": "AIIPPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "ALL ASIA SECURITIES MANAGEMENT CORP.",
+   "swiftCode": "AASSPHM10MM"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "ALLIED BANKING CORPORATION",
+   "swiftCode": "ABCMPHMM"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "ALLIED SAVINGS BANK",
+   "swiftCode": "ALSGPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "ALPHA SECURITIES CORP.",
+   "swiftCode": "ALPCPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "AMETHYST SECURITIES CORP.",
+   "swiftCode": "AMECPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "AMON SECURITIES CORP.",
+   "swiftCode": "AMONPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "ANGPING AND ASSOCIATES",
+   "swiftCode": "ANGPPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "ANSALDO GODINEZ AND COMPANY INC.",
+   "swiftCode": "ANSGPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "ANSCOR HAGEDORN SECURITIES INC.",
+   "swiftCode": "ANSCPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "ARMSTRONG SECURITIES INC.",
+   "swiftCode": "ARMEPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "ASI SECURITIES INC.",
+   "swiftCode": "ASISPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "ASIA PACIFIC CAPITAL EQUITIES AND SEC. CORP.",
+   "swiftCode": "APCEPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "ASIA UNITED BANK CORPORATION",
+   "swiftCode": "AUBKPHMM"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "ASIAN DEVELOPMENT BANK",
+   "swiftCode": "ASDBPHMM"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "ASIAN OCEANIC MERIT SECURITIES INC.",
+   "swiftCode": "AOMSPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "ASIASEC EQUITIES INC.",
+   "swiftCode": "ASESPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "ASIATRUST BANK",
+   "swiftCode": "ATDBPHM10MF"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "ASIATRUST DEVELOPMENT BANK",
+   "swiftCode": "ASDVPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "ASTRA SECURITIES CORP.",
+   "swiftCode": "ASTSPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "ATC SECURITIES INC.",
+   "swiftCode": "ATCSPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "ATR KIM ENG SECURITIES INC",
+   "swiftCode": "ATSCPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "AURORA SECURITIES INC.",
+   "swiftCode": "AURSPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
+   "swiftCode": "ANZBPHMX"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "B. H. CHUA SECURITIES CORPORATION",
+   "swiftCode": "BHCHPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "BA SECURITIES INC.",
+   "swiftCode": "BATTPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "BALANGA RURAL BANK INC.",
+   "swiftCode": "BRULPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "BANCO FILIPINO SAVINGS AND MORTGAGE BANK",
+   "swiftCode": "FIAOPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "BANGKO MABUHAY (RURAL BANK OF TANZA (CAVITE) INC.",
+   "swiftCode": "MRTCPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "BANGKO NUESTRA SENORA DEL PILAR INC. (A RURAL BANK)",
+   "swiftCode": "NSPRPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "BANGKO RURAL NG PASACAO (CS) INCORPORATED",
+   "swiftCode": "RUPIPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "BANGKO SENTRAL NG PILIPINAS",
+   "swiftCode": "PHCBPHMM"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "BANGKOK BANK PUBLIC COMPANY LIMITED MANILA BRANCH",
+   "swiftCode": "BKKBPHMM"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "BANK DAGANG NASIONAL INDONESIA",
+   "swiftCode": "DANIPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "BANK DHARMALA",
+   "swiftCode": "BADAPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "BANK OF AMERICA N.A. MANILA",
+   "swiftCode": "BOFAPH2X"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "BANK OF CHINA MANILA BRANCH",
+   "swiftCode": "BKCHPHMM"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "BANK OF COMMERCE",
+   "swiftCode": "PABIPHMM"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "BANK OF FLORIDA INC. (A RURAL BANK)",
+   "swiftCode": "FLRUPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "BANK OF LUBAO (A RURAL BANK) INC.",
+   "swiftCode": "LURUPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "BANK OF MAKATI (A RURAL BANK) INC.",
+   "swiftCode": "MKRUPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "BANK OF THE PHILIPPINE ISLANDS",
+   "swiftCode": "BOPIPHMMTRY"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "BANK OF TOKYO MITSUBISHI UFJ LTD. THE",
+   "swiftCode": "BOTKPHMM"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "BANK ONE SAVINGS AND TRUST CORPORATION",
+   "swiftCode": "ONSTPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "BARCELON ROXAS SECURITIES INC.",
+   "swiftCode": "BROXPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "BDO ELITE SAVINGS BANK INC.",
+   "swiftCode": "BDESPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "BDO PRIVATE BANK INC.",
+   "swiftCode": "BOPBPHMM"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "BDO UNIBANK INC.",
+   "swiftCode": "BNORPHMM"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "BELSON SECURITIES INC.",
+   "swiftCode": "BELCPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "BENJAMIN CO CA AND CO INC.",
+   "swiftCode": "BENJPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "BERNAD SECURITIES INC.",
+   "swiftCode": "BEREPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "BFE FINANCIAL SVCS. AND CONSULTANCY INC.",
+   "swiftCode": "BFSCPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "BNP PARIBAS MANILA OFFSHORE BRANCH",
+   "swiftCode": "BNPAPHMM"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "BNP PARIBAS PEREGRINE SECURITIES INC",
+   "swiftCode": "BPPSPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "BPI CAPITAL CORP.",
+   "swiftCode": "BPAPPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "BPI CARD FINANCE",
+   "swiftCode": "BPCNPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "BPI DIRECT",
+   "swiftCode": "BPDIPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "BPI FAMILY BANK",
+   "swiftCode": "BPFFPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "BPI FAMILY SAVINGS BANK",
+   "swiftCode": "BPFSPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "BPI GLOBE BANKO INC.",
+   "swiftCode": "BPGOPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "BPI LEASING CORPORATION",
+   "swiftCode": "BPLIPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "BPI SECURITIES CORP.",
+   "swiftCode": "BPISPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "BT BROKERAGE (PHILS) INC",
+   "swiftCode": "BRKPPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "BUREAU OF THE TREASURY",
+   "swiftCode": "BUTRPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "BZW (ASIA) LTD",
+   "swiftCode": "BWWAPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "CAMPOS LANUZA AND CO. INC.",
+   "swiftCode": "CALAPHM10M2"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "CATHAY SECURITIES INC.",
+   "swiftCode": "CATSPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "CENTURY SAVINGS BANK CORPORATION",
+   "swiftCode": "CESNPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "CENTURY SECURITIES CORP.",
+   "swiftCode": "CENEPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "CHINA BANK SAVINGS INC.",
+   "swiftCode": "CHSVPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "CHINA BANKING CORPORATION",
+   "swiftCode": "CHBKPHMM"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "CHINATRUST (PHILS.) COMMERCIAL BANK MANILA",
+   "swiftCode": "CTCBPHMM"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "CITIBANK N.A. MANILA BRANCH",
+   "swiftCode": "CITIPHMX"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "CITIBANK SAVINGS INC.",
+   "swiftCode": "CITIPH2X"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "CITIBANK SECURITIES INC.",
+   "swiftCode": "CIVPPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "CITISECURITIES INC.",
+   "swiftCode": "CITSPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "CITY SAVINGS BANK",
+   "swiftCode": "CIVAPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "CITYSTATE SAVINGS BANK INC.",
+   "swiftCode": "CIVVPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "CITYTRUST SECURITIES CORP.",
+   "swiftCode": "CITRPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "COMMERCIAL BANK OF MANILA",
+   "swiftCode": "COBMPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "COMMONWEALTH BANK/SAVINGS AND LOAN",
+   "swiftCode": "CBSLPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "CONNELL SECURITIES INC.",
+   "swiftCode": "COSCPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "CORINTHIAN SECURITIES INC.",
+   "swiftCode": "CORCPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "COUNTRY BUILDERS BANK INC. (A RURAL BANK)",
+   "swiftCode": "COUKPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "COYIUTO SECURITIES INC.",
+   "swiftCode": "COYIPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "CREDIT LYONNAIS SECURITIES PHILIPPINES INC",
+   "swiftCode": "CLSAPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "CREDIT MANILA INC.",
+   "swiftCode": "CMANPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "CREDIT SUISSE SECURITIES (PHILIPPINES) INC.",
+   "swiftCode": "CRESPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "CROSBY SECURITIES (PHILS) INC.",
+   "swiftCode": "CRSEPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "CUALOPING SECURITIES CORP",
+   "swiftCode": "CUASPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "DAO HENG BANK INC.",
+   "swiftCode": "DHBIPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "DAVID GO SECURITIES CORP",
+   "swiftCode": "DAVSPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "DBP DAIWA CAPITAL MARKETS PHILIPPINES INC.",
+   "swiftCode": "DBSHPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "DBP DAIWA SECURITIES (PHILS.) INC.",
+   "swiftCode": "DSPHPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "DBS SECURITIES (PHILS) INC",
+   "swiftCode": "DBSPPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "DEUTSCHE BANK AG",
+   "swiftCode": "DEUTPHMMGMO"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "DEUTSCHE REGIS PARTNERS INC.",
+   "swiftCode": "TWENPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "DEVELOPMENT BANK OF THE PHILIPPINES",
+   "swiftCode": "DBPHPHMM"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "DHARMALA SECURITIES (PHILS) INC",
+   "swiftCode": "DHSPPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "DIVERSIFIED SECURITIES INC",
+   "swiftCode": "DIVSPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "DUMAGUETE CITY DEVELOPMENT BANK INC",
+   "swiftCode": "DCDEPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "DUNGGANON BANK (A MICROFINANCE THRIFT BANK) INC.",
+   "swiftCode": "DUMTPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "E. CHUA CHIACO SECURITIES INC.",
+   "swiftCode": "CHCSPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "EAST COAST RURAL BANK OF HAGONOY INC.",
+   "swiftCode": "ECRHPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "EAST WEST BANKING CORPORATION",
+   "swiftCode": "EWBCPHMM"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "EAST WEST CAPITAL CORP",
+   "swiftCode": "EAWCPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "EASTERN SECURITIES DEVELOPMENT CORPORATION",
+   "swiftCode": "EASDPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "EIB SECURITIES INC.",
+   "swiftCode": "EISEPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "ENTERPRISE BANK INC. (A THRIFT BANK)",
+   "swiftCode": "ENTHPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "ENTREPRENEUR RURAL BANK INC.",
+   "swiftCode": "ENRUPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "EQUICOM SAVINGS BANK INC.",
+   "swiftCode": "EQSNPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "EQUITABLE SECURITIES (PHILS.) INC.",
+   "swiftCode": "EQSPPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "EQUITIWORLD SECURITIES INC.",
+   "swiftCode": "EQUSPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "EVERGREEN STOCK BROKERAGE AND SECURITIES INC.",
+   "swiftCode": "ESBEPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "F. YAP SECURITIES INC",
+   "swiftCode": "YAPSPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "FAR EAST BANK AND TRUST CO FOREIGN CURRENCY DEPOSIT UNIT (FCDU)",
+   "swiftCode": "FEBTPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "FINVEST SECURITIES CO INC",
+   "swiftCode": "FINUPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "FIRST CONSOLIDATED BANK",
+   "swiftCode": "FIOOPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "FIRST INTEGRATED CAPITAL SECURITIES INC.",
+   "swiftCode": "FICEPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "FIRST METRO INVESTMENT CORPORATION",
+   "swiftCode": "FMICPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "FIRST METRO SECURITIES BROKERAGE CORPORATION",
+   "swiftCode": "FMSOPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "FIRST ORIENT SECURITIES INC",
+   "swiftCode": "FIOSPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "FIRST PACIFIC BANCORP LLC",
+   "swiftCode": "FPBCPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "FIRST PENINSULA SECURITIES CORP",
+   "swiftCode": "FIPSPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "FIRST RESSOURCES MANAGEMENT AND SECURITIES CORPORATION THE",
+   "swiftCode": "FIRRPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "FORTUNE SECURITIES INC.",
+   "swiftCode": "FOTRPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "FPB ASIA LIMITED",
+   "swiftCode": "FPASPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "FRANCISCO ORTIGAS SECURITIES INC",
+   "swiftCode": "FROEPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "G AND L SECURITIES CO. INC.",
+   "swiftCode": "SERTPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "G.D. TAN AND CO INC",
+   "swiftCode": "TANNPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "G.K. GOH SECURITIES (PHILIPPINES) INC.",
+   "swiftCode": "GKGSPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "GE MONEY BANK INC. (A SAVINGS BANK)",
+   "swiftCode": "GEMPPH21"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "GENESIS GLOBAL SECURITIES INC.",
+   "swiftCode": "GEGSPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "GLOBAL BUSINESS HOLDINGS INC.",
+   "swiftCode": "PCBAPHM10MS"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "GLOBALINKS SECURITIES AND STOCKS INC",
+   "swiftCode": "GLSTPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "GOLDSTAR SECURITIES INC",
+   "swiftCode": "GOLCPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "GSIS FAMILY BANK",
+   "swiftCode": "GSFAPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "GUILD SECURITIES INC",
+   "swiftCode": "GUISPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "GUOCO SECURITIES (PHILS) INC",
+   "swiftCode": "GUSPPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "H.E. BENNETT SECURITIES INC.",
+   "swiftCode": "BENCPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "HANG TSUN SECURITIES (PHILS)",
+   "swiftCode": "HTSPPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "HDI SECURITIES INC",
+   "swiftCode": "HDISPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "HIGHLAND SECURITIES PHILS. INC.",
+   "swiftCode": "HISHPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "HIYAS BANKING CORPORATION",
+   "swiftCode": "HIYCPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "HK SECURITIES INC.",
+   "swiftCode": "SEREPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "HOME SAVINGS BANK AND TRUST CO.",
+   "swiftCode": "HSBTPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED THE",
+   "swiftCode": "HSBCPHMM"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "HSBC SAVINGS BANK (PHILIPINES) INC.",
+   "swiftCode": "HBPHPHMM"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "I. ACKERMAN AND CO INC",
+   "swiftCode": "ACKEPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "I.B. GIMENEZ SECURITIES INC.",
+   "swiftCode": "GIMSPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "IGC SECURITIES INC.",
+   "swiftCode": "IGCSPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "IMPERIAL DE GUZMAN ABALOS AND CO INC.",
+   "swiftCode": "IMGAPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "INDOSUEZ W.I. CARR SECURITIES (PHILIPPINES) INC.",
+   "swiftCode": "WICAPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "ING BANK N.V.",
+   "swiftCode": "INGBPHMM"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "INSULAR LIFE SAVINGS AND TRUST CO.",
+   "swiftCode": "ILSTPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "INTRA INVEST SECURITIES INC",
+   "swiftCode": "INIEPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "INVESTORS SECURITIES INC",
+   "swiftCode": "INVUPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "ISLA BANK (A THRIFT BANK) INC.",
+   "swiftCode": "ISTHPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "J.M. BARCELON AND CO INC",
+   "swiftCode": "BARNPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "J.P. MORGAN SECURITIES PHILIPPINES INC.",
+   "swiftCode": "CHASPHS1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "JANIUAY RURAL BANK INC.",
+   "swiftCode": "JARUPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "JARDINE FLEMING",
+   "swiftCode": "JFLEPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "JENN WOEI SECURITIES INC",
+   "swiftCode": "JEWSPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "JPMORGAN CHASE BANK N.A. MANILA BRANCH",
+   "swiftCode": "CHASPHMMOBU"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "KEPPEL BANK PHILIPPINES INC.",
+   "swiftCode": "KEPHPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "KEPPEL SECURITIES PHILIPPINES INC",
+   "swiftCode": "KESPPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "KERRY SECURITIES (PHILS) INC.",
+   "swiftCode": "KERSPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "KEY SECURITIES INC",
+   "swiftCode": "KEYSPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "KIM ENG SECURITIES PHILIPPINES INC.",
+   "swiftCode": "KMESPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "KOREA EXCHANGE BANK",
+   "swiftCode": "KOEXPHMM"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "L.M. GARCIA AND ASSOCIATES INC.",
+   "swiftCode": "GARSPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "LAND BANK OF THE PHILIPPINES",
+   "swiftCode": "TLBPPHM10MQ"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "LARRGO SECURITIES CO INC",
+   "swiftCode": "LARCPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "LEGAZPI SAVINGS BANK",
+   "swiftCode": "LESIPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "LIPA BANK INC. A RURAL BANK",
+   "swiftCode": "LIRUPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "LITONJUA SECURITIES INC",
+   "swiftCode": "LITSPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "LOPEZ LOCSIN LEDESMA AND CO INC",
+   "swiftCode": "LOLLPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "LUCKY SECURITIES INC",
+   "swiftCode": "LUCSPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "LUYS SECURITIES CO INC",
+   "swiftCode": "LUYSPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "LUZON DEVELOPMENT BANK",
+   "swiftCode": "LUDVPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "M.D. BONDOC AND CO INC",
+   "swiftCode": "BONOPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "MACQUARIE CAPITAL SECURITIES (PHILIPPINES) INC.",
+   "swiftCode": "INBLPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "MALAYAN BANK SAVINGS AND MORTGAGE BANK",
+   "swiftCode": "MAARPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "MANDARIN SECURITIES CORP",
+   "swiftCode": "MANUPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "MANILA BANKING CORP.",
+   "swiftCode": "MABCPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "MARIAN SECURITIES INC",
+   "swiftCode": "MAIEPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "MARK SECURITIES CORP",
+   "swiftCode": "MAKCPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "MARKET CAPITAL AND SECURITIES INC",
+   "swiftCode": "MACCPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "MAYBANK PHILIPPINES INC",
+   "swiftCode": "MBBEPHMM"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "MDR SECURITIES INC",
+   "swiftCode": "MDRSPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "MEGA INTERNATIONAL COMMERCIAL BANK CO. LTD. MANILA BRANCH",
+   "swiftCode": "ICBCPHMM"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "MERCANTILE SECURITIES CORP",
+   "swiftCode": "MERUPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "MERCHANTS SAVINGS AND LOAN ASSOCIATION INC.",
+   "swiftCode": "MSLSPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "MERIDIAN SECURITIES INC",
+   "swiftCode": "MERTPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "MERRILL LYNCH SECURITIES PHILIPPINES INC.",
+   "swiftCode": "MLSPPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "METROBANK CARD CORPORATION (A FINANCE CO.)",
+   "swiftCode": "MCCEPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "METROPOLITAN BANK AND TRUST CO.",
+   "swiftCode": "MBTCPHMM"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "MICROFINANCE MAXIMUM SAVINGS BANK INC.",
+   "swiftCode": "MIMVPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "MIZUHO BANK LTD. MANILA BRANCH",
+   "swiftCode": "MHCBPHMM"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "MORGAN GRENFELL PHILS SEC. INC.",
+   "swiftCode": "MGPSPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "MOUNT PEAK SECURITIES INC",
+   "swiftCode": "MOPSPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "MULTINATIONAL INVESTMENT BANCORPORATION",
+   "swiftCode": "MUIAPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "MUNICIPAL RURAL BANK OF LIBMANAN (CS) INC.",
+   "swiftCode": "MURLPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "NESTLE BUSINESS SERVICES AOA INC",
+   "swiftCode": "NESNPHMN"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "NEW WORLD SECURITIES INC",
+   "swiftCode": "NEWCPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "NIEVES SANCHEZ INC.",
+   "swiftCode": "NIESPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "OCBC SECURITIES (PHILIPPINES) INC.",
+   "swiftCode": "OSPNPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "ONE NETWORK BANK INC. (A RURAL BANK)",
+   "swiftCode": "ONNRPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "OPTIMUM DEVELOPEMENT BANK. INC",
+   "swiftCode": "OPDVPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "OPTIMUM SECURITIES CORP.",
+   "swiftCode": "OPTMPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "ORIENTRADE SECURITIES INC.",
+   "swiftCode": "ORIEPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "ORIX METRO LEASING AND FINANCE CORPORATION",
+   "swiftCode": "OMLFPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "OVERSEAS UNION BANK LIMITED MANILA BRANCH",
+   "swiftCode": "OUBKPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "PACIFIC BASIN SEC. CO. INC.",
+   "swiftCode": "PACAPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "PAN ASIA SECURITIES CORPORATION",
+   "swiftCode": "PANIPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "PAPA SECURITIES CORP.",
+   "swiftCode": "PAPSPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "PARTNER RURAL BANK (COTABATO) INC.",
+   "swiftCode": "PRTOPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "PDCP DEVELOPMENT BANK",
+   "swiftCode": "PRBPPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "PEREGRINE SECURITIES PHILS INC.",
+   "swiftCode": "PESPPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "PHILIPPINE BANK OF COMMUNICATIONS",
+   "swiftCode": "CPHIPHMM"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "PHILIPPINE BUSINESS BANK",
+   "swiftCode": "PPBUPHMM"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "PHILIPPINE COMMERCIAL CAPITAL INC.",
+   "swiftCode": "PHCCPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "PHILIPPINE DEPOSITORY TRUST CORP",
+   "swiftCode": "PHCDPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "PHILIPPINE EQUITY PARTNERS INC.",
+   "swiftCode": "PEQPPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "PHILIPPINE NATIONAL BANK",
+   "swiftCode": "PNBMPHMMTOD"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "PHILIPPINE POSTAL CORPORATION",
+   "swiftCode": "PPOSPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "PHILIPPINE POSTAL SAVINGS BANK INC",
+   "swiftCode": "PHSVPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "PHILIPPINE SAVINGS BANK",
+   "swiftCode": "PHSBPHMM"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "PHILIPPINE STOCK EXCHANGE INC.",
+   "swiftCode": "XPHSPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "PHILIPPINE VETERANS BANK",
+   "swiftCode": "PHVBPHMM"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "PHILIPPINES ASIA EQUITY SEC. INC.",
+   "swiftCode": "PAESPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "PHILTRUST BANK (PHILIPPINE TRUST COMPANY)",
+   "swiftCode": "PHTBPHMM"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "PIERCE INTERLINK SEC. INC.",
+   "swiftCode": "PIEIPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "PLANBANK RURAL BANK OF CANLUBANG PLANTERS INC.",
+   "swiftCode": "PRNPPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "PLANTERS DEVELOPMENT BANK",
+   "swiftCode": "PLDEPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "PLATINUM SECURITIES INC.",
+   "swiftCode": "PLAIPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "PNB REPUBLIC BANK",
+   "swiftCode": "RPBAPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "PNB SECURITIES INC.",
+   "swiftCode": "PNBBPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "PREMIERE DEVELOPMENT BANK",
+   "swiftCode": "PRDEPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "PREMIUM SECURITIES CORP.",
+   "swiftCode": "PREMPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "PROBITY SECURITIES MANAGEMENT CORP.",
+   "swiftCode": "PROTPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "PRODUCERS SAVINGS BANK CORPORATION ONE SAN MIGUEL AVENUE",
+   "swiftCode": "PSCOPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "QUALITY INVESTMENT AND SECURITIES CORP.",
+   "swiftCode": "QUISPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "QUEEN CITY DEVELOPMENT BANK",
+   "swiftCode": "QCDFPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "QUEZON CAPITAL RURAL BANK INCORPORATED",
+   "swiftCode": "QCRIPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "R AND L INVESTMENTS INC",
+   "swiftCode": "RLINPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "R. NUBLA SECURITIES INC.",
+   "swiftCode": "NUBLPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "R.S. LIM AND CO. INC.",
+   "swiftCode": "LIMSPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "RASHIND HUSSAIN SECURITIES (PHILIPPINES) INC",
+   "swiftCode": "RAHSPHM"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "RBS ASIA SECURITIES INC.",
+   "swiftCode": "HGASPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "RCBC CAPITAL CORPORATION",
+   "swiftCode": "RCCOPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "RCBC SAVINGS BANK INC.",
+   "swiftCode": "RCSAPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "REGINA CAPITAL DEVELOPMENT CORP.",
+   "swiftCode": "REGIPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "RFM CAPITAL LIMITED",
+   "swiftCode": "RFCAPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "RIZAL COMMERCIAL BANKING CORPORATION",
+   "swiftCode": "RCBCPH21"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "ROBINSONS BANK CORPORATION",
+   "swiftCode": "ROBPPHMQ"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "RTG AND CO. INC.",
+   "swiftCode": "RTGCPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "RURAL BANK OF CAMALIG (ALBAY) INC.",
+   "swiftCode": "RUCAPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "RURAL BANK OF GUINOBATAN INC.",
+   "swiftCode": "RUGUPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "RURAL BANK OF JAEN INC.",
+   "swiftCode": "RUJAPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "RURAL BANK OF LILOY (ZN) INC",
+   "swiftCode": "LILOPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "RURAL BANK OF MABALACAT INC.",
+   "swiftCode": "RUMAPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "RURAL BANK OF NEW WASHINGTON (AKLAN) INC.",
+   "swiftCode": "RNWAPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "RURAL BANK OF ODIONGAN INC",
+   "swiftCode": "RUODPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "RURAL BANK OF PAGBILAO INC.",
+   "swiftCode": "RUPAPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "RURAL BANK OF PANDI (BULACAN) INC.",
+   "swiftCode": "RPBUPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "RURAL BANK OF SAN JOSE (CAMARINES SUR) INC.",
+   "swiftCode": "RSJCPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "RURAL BANK OF SAN LUIS (BATANGAS)",
+   "swiftCode": "RSLSPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "RURAL BANK OF STA. IGNACIA INC.",
+   "swiftCode": "RUSGPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "S.J. ROXAS AND COMPANY INC.",
+   "swiftCode": "SJROPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "SALISBURY BKT SECURITIES CORPORATION (FORMERLY: PUBLIC SECURITIES CORPORATION)",
+   "swiftCode": "PUBLPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "SAMSUNG ELECTRONICS PHILIPPINES CORP.",
+   "swiftCode": "SECTPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "SAPPHIRE SECURITIES INC.",
+   "swiftCode": "SAPPPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "SAVIOUR RURAL BANK INC.",
+   "swiftCode": "SAUAPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "SB EQUITIES INCORPORATED",
+   "swiftCode": "EQICPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "SECURED BANK INC.",
+   "swiftCode": "SBRBPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "SECURITIES SPECIALISTS INC.",
+   "swiftCode": "SECLPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "SECURITY BANK CORPORATION",
+   "swiftCode": "SETCPHMM"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "SG SECURITIES (PHILIPPINES) INC.",
+   "swiftCode": "SGSEPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "SOLAR SECURITIES INC.",
+   "swiftCode": "SOLRPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "SQUIRE SECURITIES INC.",
+   "swiftCode": "SUIRPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "SSI SYSTEMS STANDARDS INCORPORATED",
+   "swiftCode": "SSSTPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "STANDARD CHARTERED BANK",
+   "swiftCode": "SCBLPHMMEQI"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "STANDARD SECURITIES CORPORATION",
+   "swiftCode": "STACPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "STATE INVESTMENT TRUST INC.",
+   "swiftCode": "STIUPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "STERLING BANK OF ASIA INC.",
+   "swiftCode": "STLAPH21"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "SUMMA INTERNATIONAL BANK LTD.",
+   "swiftCode": "ILBSPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "SUMMIT RURAL BANK OF LIPA CITY INC",
+   "swiftCode": "SRLCPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "SUMMIT SECURITIES INC.",
+   "swiftCode": "SUMMPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "SUN SAVINGS BANK",
+   "swiftCode": "SUSVPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "SUPREME STOCKBROKER INC.",
+   "swiftCode": "SUPMPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "TA BANK OF THE PHILIPPINES INC.",
+   "swiftCode": "PHIIPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "TAIWAN COOPERATIVE BANK MANILA OFFSHORE BANKING BRANCH",
+   "swiftCode": "TACBPHMM"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "TANSENGCO AND COMPANY INC.",
+   "swiftCode": "TANGPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "THE REAL BANK (A THRIFT BANK) INC.",
+   "swiftCode": "RETHPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "TONG YANG SAVINGS BANK INC.",
+   "swiftCode": "TYBKPHMM"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "TOWER SECURITIES INC.",
+   "swiftCode": "TOWRPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "TOYOTA FINANCIAL SERVICES PHILIPPINES CORP.",
+   "swiftCode": "TFSHPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "TRADERS ROYAL BANK",
+   "swiftCode": "TRBFPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "TRANS ASIA SECURITIES INC.",
+   "swiftCode": "TRAAPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "TRANSNATIONAL SECURITIES INC",
+   "swiftCode": "TRAOPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "TRENDLINE SECURITIES CORP.",
+   "swiftCode": "TRENPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "TRI STATE SECURITIES INC.",
+   "swiftCode": "TRITPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "UBP SECURITIES INC.",
+   "swiftCode": "UBPPPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "UBS SECURITIES PHILIPPINES INC",
+   "swiftCode": "SWDEPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "UCPB SAVINGS BANK INC.",
+   "swiftCode": "UCSVPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "UCPB SECURITIES INC.",
+   "swiftCode": "CPBBPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "UNICAPITAL SECURITIES INC.",
+   "swiftCode": "UCSEPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "UNION BANK OF THE PHILIPPINES",
+   "swiftCode": "UBPHPHMM"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "UNITED COCONUT PLANTERS BANK",
+   "swiftCode": "UCPBPHMM"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "UNITED OVERSEAS BANK PHILIPPINES",
+   "swiftCode": "UOVBPHMM"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "UOB KAY HIAN SECURITIES (PHILIPPINES) INC.",
+   "swiftCode": "UKHCPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "UY TIOCO AND CO. INC.",
+   "swiftCode": "TIOCPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "VALIANT BANK INC. ( A RURAL BANK)",
+   "swiftCode": "VARUPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "VENTURE SECURITIES INC.",
+   "swiftCode": "VENTPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "VICENTE GOQUIOLAY AND CO. INC.",
+   "swiftCode": "VICGPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "VICSAL SECURITIES AND STOCKBROKERAGE INC.",
+   "swiftCode": "VICAPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "WEALTH SECURITIES INC",
+   "swiftCode": "WEASPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "WESTIN SECURITIES CORP.",
+   "swiftCode": "WESNPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "WOLFF AND CO. INC.",
+   "swiftCode": "WOLFPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "WONG SECURITIES CORP.",
+   "swiftCode": "WONGPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "WORLDSEC INTERNATIONAL SECURITIES PHILIPPINES INC",
+   "swiftCode": "WISPPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "YAO AND ZIALCITA INC.",
+   "swiftCode": "YAOZPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "YAPTINCHAY SEC. INC.",
+   "swiftCode": "YAPTPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "YU AND COMPANY INC.",
+   "swiftCode": "YUOYPHM1"
+ },
+ {
+   "f_company_code": "PH",
+   "bankName": "YU HENG SECURITIES INC.",
+   "swiftCode": "HENEPHM1"
+ },
+ {
+   "f_company_code": "MY",
+   "bankName": "PREGO CASH CARD",
+   "swiftCode": "PAY2GO"
+ },
+ {
+   "f_company_code": "SG",
+   "bankName": "PREGO CASH CARD",
+   "swiftCode": "PAY2GO"
+ },
+ {
+   "f_company_code": "BN",
+   "bankName": "PREGO CASH CARD",
+   "swiftCode": "PAY2GO"
+ },
+ {
+   "f_company_code": "MY",
+   "bankName": "HSBC BANK MALAYSIA BERHAD",
+   "swiftCode": "HBMBMYKL"
+ },
+ {
+   "f_company_code": "IBN",
+   "bankName": "BAIDURI BANK BERHAD",
+   "swiftCode": "BBB"
+ },
+ {
+   "f_company_code": "IBN",
+   "bankName": "BANK ISLAM BRUNEI DARUSSALAM BERHAD",
+   "swiftCode": "BIBD"
+ },
+ {
+   "f_company_code": "IBN",
+   "bankName": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
+   "swiftCode": "HSBC"
+ },
+ {
+   "f_company_code": "IBN",
+   "bankName": "MALAYAN BANKING BERHAD",
+   "swiftCode": "MBB"
+ },
+ {
+   "f_company_code": "IBN",
+   "bankName": "PERBADANAN TABUNG AMANAH ISLAM BRUNEI",
+   "swiftCode": "TAIB"
+ },
+ {
+   "f_company_code": "IBN",
+   "bankName": "STANDARD CHARTERED BANK - BRUNEI",
+   "swiftCode": "SCB"
+ },
+ {
+   "f_company_code": "IBN",
+   "bankName": "PREGO CASH CARD",
+   "swiftCode": "PAY2GO"
+ },
+ {
+   "f_company_code": "MY",
+   "bankName": "HSBC BANK MALAYSIA",
+   "swiftCode": "HBMBMYKL"
+ },
+ {
+   "f_company_code": "MY",
+   "bankName": "PUBLIC BANK BHD",
+   "swiftCode": "PBBEMYKL"
+ },
+ {
+   "f_company_code": "KH",
+   "bankName": "ACLEDA Bank Plc",
+   "swiftCode": "ACLBKHPPXXX-041001"
+ },
+ {
+   "f_company_code": "KH",
+   "bankName": "Advanced Bank of Asia",
+   "swiftCode": "ABAAKHPPXXX-036100"
+ },
+ {
+   "f_company_code": "KH",
+   "bankName": "ANZ Royal Bank HQ",
+   "swiftCode": "ANZBKHPPXXX-044011"
+ },
+ {
+   "f_company_code": "KH",
+   "bankName": "Bangkok Bank Public Co Ltd",
+   "swiftCode": "BKKBKHPPXXX-082001"
+ },
+ {
+   "f_company_code": "KH",
+   "bankName": "Bank for Investment and Development of Cambodia",
+   "swiftCode": "IDBCKHPPXXX-068001"
+ },
+ {
+   "f_company_code": "KH",
+   "bankName": "Bank of China Limited",
+   "swiftCode": "BKCHKHPPXXX-071001"
+ },
+ {
+   "f_company_code": "KH",
+   "bankName": "Bank of India",
+   "swiftCode": "BKIDSGSGXXX-065091"
+ },
+ {
+   "f_company_code": "KH",
+   "bankName": "Booyoung Khmer Bank",
+   "swiftCode": "BKBCKHPPXXX-061111"
+ },
+ {
+   "f_company_code": "KH",
+   "bankName": "Cambodia Asia Bank",
+   "swiftCode": "CABCKHPPXXX-016010"
+ },
+ {
+   "f_company_code": "KH",
+   "bankName": "Cambodia Mekong Bank Public Limited",
+   "swiftCode": "MKGBKHPPXXX-032101"
+ },
+ {
+   "f_company_code": "KH",
+   "bankName": "Cambodia Post Bank Plc",
+   "swiftCode": "CPBPKHP1XXX-079001"
+ },
+ {
+   "f_company_code": "KH",
+   "bankName": "Cambodian Commercial Bank Ltd",
+   "swiftCode": "SICOKHPPXXX-003001"
+ },
+ {
+   "f_company_code": "KH",
+   "bankName": "Cambodian Public Bank Ltd",
+   "swiftCode": "CPBLKHPPXXX-004010"
+ },
+ {
+   "f_company_code": "KH",
+   "bankName": "Canadia Bank Plc",
+   "swiftCode": "CADIKHPPXXX-005001"
+ },
+ {
+   "f_company_code": "KH",
+   "bankName": "Cathay United Bank Cambodia Co Ltd",
+   "swiftCode": "CSBCKHPPXXX-080011"
+ },
+ {
+   "f_company_code": "KH",
+   "bankName": "CIMB Bank Cambodia Plc",
+   "swiftCode": "CIBBKHPPXXX-072121"
+ },
+ {
+   "f_company_code": "KH",
+   "bankName": "First Commercial Bank",
+   "swiftCode": "FCBKKHPPXXX-040001"
+ },
+ {
+   "f_company_code": "KH",
+   "bankName": "Foreign Trade Bank of Cambodia",
+   "swiftCode": "FTCCKHPPXXX-001010"
+ },
+ {
+   "f_company_code": "KH",
+   "bankName": "Hong Leong Bank Cambodia PLC",
+   "swiftCode": "HLBBKHPPXXX-077001"
+ },
+ {
+   "f_company_code": "KH",
+   "bankName": "ICBC Limited Phnom Penh Branch",
+   "swiftCode": "ICBKKHPPXXX-069001"
+ },
+ {
+   "f_company_code": "KH",
+   "bankName": "Kookmin Bank Cambodia Plc",
+   "swiftCode": "CZNBKHPPXXX-066001"
+ },
+ {
+   "f_company_code": "KH",
+   "bankName": "Krung Thai Bank Public Co Ltd",
+   "swiftCode": "KRTHTHBKXXX-009999"
+ },
+ {
+   "f_company_code": "KH",
+   "bankName": "Maruhan Japan Bank Plc",
+   "swiftCode": "MJBKKHPPXXX-056111"
+ },
+ {
+   "f_company_code": "KH",
+   "bankName": "May Bank Phnom Penh Branch Plc",
+   "swiftCode": "MBBEKHPPXXX-020001"
+ },
+ {
+   "f_company_code": "KH",
+   "bankName": "MB Bank Plc",
+   "swiftCode": "MSCBVAVXXXX-074001"
+ },
+ {
+   "f_company_code": "KH",
+   "bankName": "Mega International Commercial Bank",
+   "swiftCode": "ICBCKHPPXXX-073001"
+ },
+ {
+   "f_company_code": "KH",
+   "bankName": "National Bank of Cambodia",
+   "swiftCode": "NCAMKHPPXXX-100001"
+ },
+ {
+   "f_company_code": "KH",
+   "bankName": "Phillip Bank Plc",
+   "swiftCode": "HDSBKHPPXXX-081001"
+ },
+ {
+   "f_company_code": "KH",
+   "bankName": "Phnom Penh Commercial Bank",
+   "swiftCode": "PPCBKHPPXXX-058111"
+ },
+ {
+   "f_company_code": "KH",
+   "bankName": "RHB Indochina Bank Limited",
+   "swiftCode": "OSKIKHPPXXX-078002"
+ },
+ {
+   "f_company_code": "KH",
+   "bankName": "Rural Development Bank",
+   "swiftCode": "RUDBKHPPXXX-038001"
+ },
+ {
+   "f_company_code": "KH",
+   "bankName": "Saigon Thuong Tin Commercial Joint Stock Bank (Sacombank Cambodia PLC)",
+   "swiftCode": "SGTTVNVXXXX-064001"
+ },
+ {
+   "f_company_code": "KH",
+   "bankName": "SHB Plc",
+   "swiftCode": "SHBAKHPPXXX-075100"
+ },
+ {
+   "f_company_code": "KH",
+   "bankName": "Shinhan Khmer Bank Plc",
+   "swiftCode": "SHBKKHPPXXX-053001"
+ },
+ {
+   "f_company_code": "KH",
+   "bankName": "Taiwan Cooperative Bank",
+   "swiftCode": "TACBKHPPXXX-076001"
+ },
+ {
+   "f_company_code": "KH",
+   "bankName": "Union Commercial Bank Plc",
+   "swiftCode": "UCBPKHPPXXX-026100"
+ },
+ {
+   "f_company_code": "KH",
+   "bankName": "Vattanac Bank HQ",
+   "swiftCode": "VBLCKHPPXXX-043010"
+ },
+ {
+   "f_company_code": "KH",
+   "bankName": "Vietnam Bank for Agriculture and Rural Development Cambodia Bank",
+   "swiftCode": "VBAAKHPPXXX-070333"
+ },
+ {
+   "f_company_code": "MY",
+   "bankName": "MAYBANK EZYPAY",
+   "swiftCode": "MBBEMYKL"
+ },
+ {
+   "f_company_code": "KH",
+   "bankName": "Wing (Cambodia) Limited Specialised Bank",
+   "swiftCode": "000000"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "新北市新莊區農會",
+   "swiftCode": "9040085"
+ },
+ {
+   "f_company_code": "MY",
+   "bankName": "ManagePay Innovation Sdn Bhd (MPAY)",
+   "swiftCode": "MPAY"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "板信商業銀行",
+   "swiftCode": "1180747"
+ },
+ {
+   "f_company_code": "MY",
+   "bankName": "HONG LEONG BANK BHD",
+   "swiftCode": "HLBBMYKL"
+ },
+ {
+   "f_company_code": "TH",
+   "bankName": "BANGKOK BANK",
+   "swiftCode": "BKKBTHBK-002"
+ },
+ {
+   "f_company_code": "TH",
+   "bankName": "K BANK",
+   "swiftCode": "KASITHBK-004"
+ },
+ {
+   "f_company_code": "TH",
+   "bankName": "CITIBANK",
+   "swiftCode": "CITITHBX-017"
+ },
+ {
+   "f_company_code": "TH",
+   "bankName": "KRUNGSRI BANK",
+   "swiftCode": "AYUDTHBK-025"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "玉山商業銀行",
+   "swiftCode": "8080875"
+ },
+ {
+   "f_company_code": "MY",
+   "bankName": "BANK RAKYAT",
+   "swiftCode": "BKRMMYKL"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "ANDARA",
+   "swiftCode": "RIPAIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "ANGLOMAS INTERNATIONAL ",
+   "swiftCode": "LOMAIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "ANZ INDONESIA",
+   "swiftCode": "ANZBIDJX"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "ARTHA GRAHA INTERNASIONAL TBK",
+   "swiftCode": "ARTGIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "ARTOS INDONESIA",
+   "swiftCode": "ATOSIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANGKOK  BANK PCL",
+   "swiftCode": "BKKBIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK AGRIS",
+   "swiftCode": "FINBIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK AGRONIAGA ",
+   "swiftCode": "AGTBIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK ANTAR DAERAH",
+   "swiftCode": "ANTDIDJD"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK BUKOPIN",
+   "swiftCode": "BBUKIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK BUKOPIN SYARIAH",
+   "swiftCode": "SDOBIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK BUMI ARTA",
+   "swiftCode": "BBAIIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK CAPITAL INDONESIA",
+   "swiftCode": "CRLYIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK CENTRAL ASIA SYARIAH",
+   "swiftCode": "SYCAIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK CIMB NIAGA SYARIAH",
+   "swiftCode": "SYNAIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK CIMB NIAGA TBK",
+   "swiftCode": "BNIAIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK DANAMON INDONESIA",
+   "swiftCode": "BDINIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK DANAMON INDONESIA SYARIAH",
+   "swiftCode": "SYBDIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK EKONOMI RAHARJA",
+   "swiftCode": "EKONIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK FAMA INTERNATIONAL",
+   "swiftCode": "FAMAIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK GANESHA",
+   "swiftCode": "GNESIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK HANA",
+   "swiftCode": "HNBNIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK HARDA INTERNASIONAL",
+   "swiftCode": "HRDAIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK HS 1906",
+   "swiftCode": "BSDRIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK INDONESIA",
+   "swiftCode": "INDOIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK INTERNASIONAL INDONESIA",
+   "swiftCode": "IBBKIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK INTERNASIONAL INDONESIA SYARIAH",
+   "swiftCode": "SYBKIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK MANDIRI",
+   "swiftCode": "BMRIIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK MANDIRI SYARIAH",
+   "swiftCode": "BSMDIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK MAYAPADA",
+   "swiftCode": "MAYAIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK MAYORA INDONESIA",
+   "swiftCode": "MAYOIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK MEGA",
+   "swiftCode": "MEGAIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK MEGA SYARIAH INDONESIA",
+   "swiftCode": "BUTGIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK MUAMALAT INDONESIA",
+   "swiftCode": "MUABIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK MUTIARA",
+   "swiftCode": "CICTIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK NAGARI",
+   "swiftCode": "BNADIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK NEGARA INDONESIA 1946",
+   "swiftCode": "BNINIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK NEGARA INDONESIA BNI SYARIAH",
+   "swiftCode": "SYNIIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK OF AMERICA NA",
+   "swiftCode": "BOFAID2X"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK OF CHINA LIMITED",
+   "swiftCode": "BKCHIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK OF TOKYO MITSUBISHI UFJ LTD.",
+   "swiftCode": "BOTKIDJX"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK PERMATA",
+   "swiftCode": "BBBAIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK PERMATA SYARIAH",
+   "swiftCode": "SYBBIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK RAKYAT INDONESIA",
+   "swiftCode": "BRINIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK RAKYAT INDONESIA SYARIAH",
+   "swiftCode": "BRISIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK SINAR HARAPAN BALI",
+   "swiftCode": "SIHBIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK SINARMAS",
+   "swiftCode": "SBJKIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK SULSELBAR",
+   "swiftCode": "PDWSIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK SULSELBAR SYARIAH",
+   "swiftCode": "PDWSIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK SWADESI",
+   "swiftCode": "SWBAIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK TABUNGAN NEGARA",
+   "swiftCode": "BTANIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK TABUNGAN NEGARA SYARIAH",
+   "swiftCode": "SYBTIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BISNIS INTERNATIONAL",
+   "swiftCode": "BUSTIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BNP PARIBAS INDONESIA",
+   "swiftCode": "BNPAIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BPD BALI",
+   "swiftCode": "ABALIDBS"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BPD BENGKULU",
+   "swiftCode": "PDBKIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BPD DAERAH ISTIMEWA ACEH",
+   "swiftCode": "PDACIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BPD DIY",
+   "swiftCode": "PDYKIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BPD DIY SYARIAH",
+   "swiftCode": "SYDKIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BPD DKI JAKARTA",
+   "swiftCode": "BDKIIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BPD DKI JAKARTA SYARIAH",
+   "swiftCode": "SYDKIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BPD ISTIMEWA ACEH SYARIAH",
+   "swiftCode": "SYACIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BPD JABAR BANTEN SYARIAH",
+   "swiftCode": "SYJBIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BPD JABAR DAN BANTEN",
+   "swiftCode": "PDJBIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BPD JAMBI",
+   "swiftCode": "PDJMIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BPD JATENG",
+   "swiftCode": "PDJGIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BPD JATENG SYARIAH",
+   "swiftCode": "SYJGIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BPD JATIM",
+   "swiftCode": "BPDNIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BPD JATIM SYARIAH",
+   "swiftCode": "SYJTIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BPD KALIMANTAN BARAT",
+   "swiftCode": "PDKBIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BPD KALIMANTAN BARAT SYARIAH",
+   "swiftCode": "SYKBIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BPD KALIMANTAN SELATAN",
+   "swiftCode": "PDKSIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BPD KALIMANTAN SELATAN SYARIAH",
+   "swiftCode": "SYKSIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BPD KALTENG",
+   "swiftCode": "PDKGIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BPD KALTIM",
+   "swiftCode": "PDKTIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BPD KALTIM SYARIAH",
+   "swiftCode": "SYKTIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BPD LAMPUNG",
+   "swiftCode": "PDLPIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BPD MALUKU",
+   "swiftCode": "PDMLIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BPD NTB",
+   "swiftCode": "PDNBIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BPD NUSA TENGGARA TIMUR",
+   "swiftCode": "PDNTIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BPD PAPUA",
+   "swiftCode": "PDIJIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BPD RIAU",
+   "swiftCode": "PDRIIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BPD SULAWESI TENGAH",
+   "swiftCode": "PDWGIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BPD SULAWESI TENGGARA",
+   "swiftCode": "PDWRIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BPD SULUT",
+   "swiftCode": "PDWUIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BPD SUMATERA BARAT",
+   "swiftCode": "PDSBIDSP"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BPD SUMSEL DAN BABEL",
+   "swiftCode": "BSSPIDSP"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BPD SUMSEL DAN BABEL SYARIAH",
+   "swiftCode": "SYSSIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BPD SUMUT",
+   "swiftCode": "PDSUIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BPD SUMUT SYARIAH",
+   "swiftCode": "SYSUIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BTPN",
+   "swiftCode": "TAPEIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BTPN SYARIAH",
+   "swiftCode": "SYTPIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "CENTRATAMA NASIONAL ",
+   "swiftCode": "CNBAIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "CHINATRUST INDONESIA",
+   "swiftCode": "CTCBIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "CITI NA",
+   "swiftCode": "CITIIDJX"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "COMMONWEALTH BANK",
+   "swiftCode": "BICNIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "DBS INDONESIA",
+   "swiftCode": "DBSBIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "DEUTSCHE AG",
+   "swiftCode": "DEUTIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "ICB BUMIPUTERA",
+   "swiftCode": "BUMIIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "ICBC INDONESIA",
+   "swiftCode": "ICBKIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "INA PERDANA",
+   "swiftCode": "INPBIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "INDEX SELINDO",
+   "swiftCode": "BIDXIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "JASA JAKARTA",
+   "swiftCode": "JSABIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "JPMORGAN CHASE NA",
+   "swiftCode": "CHASIDJX"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "KEB INDONESIA",
+   "swiftCode": "KOEXIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "KESEJAHTERAAN EKONOMI",
+   "swiftCode": "KSEBIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "LIMAN INTERNATIONAL",
+   "swiftCode": "LMANIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "MASPION INDONESIA",
+   "swiftCode": "MASDIDJ5"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "MAYBANK SYARIAH INDONESIA",
+   "swiftCode": "MBBEIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "MESTIKA DHARMA",
+   "swiftCode": "BMDMIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "METRO EKSPRESS",
+   "swiftCode": "MEEKIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "MITRANIAGA",
+   "swiftCode": "MGABIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "MIZUHO INDONESIA",
+   "swiftCode": "MHCCIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "MULTIARTA SENTOSA",
+   "swiftCode": "MASBIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "NATIONAL NOBU",
+   "swiftCode": "NOBUIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "NUSANTARA PARAHYANGAN",
+   "swiftCode": "NUPAIDJ6"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "OCBC NISP",
+   "swiftCode": "NISPIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "OCBC NISP SYARIAH",
+   "swiftCode": "SYONIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK PANIN",
+   "swiftCode": "PINBIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "PANIN SYARIAH",
+   "swiftCode": "BDABCDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "PRIMA MASTER ",
+   "swiftCode": "PMASIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "PUNDI INDONESIA TBK",
+   "swiftCode": "EKSTIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "QNB KESAWAN",
+   "swiftCode": "AWANIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "RABO INTERNATIONAL INDONESIA",
+   "swiftCode": "RABOIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "RESONA PERDANIA",
+   "swiftCode": "BPIAIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "ROYAL INDONESIA",
+   "swiftCode": "ROYBIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "SAHABAT PURBA DANARTA",
+   "swiftCode": "PUBAIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "SAHABAT SAMPOERNA",
+   "swiftCode": "BDIPIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "SBI INDONESIA",
+   "swiftCode": "IDMOIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "STANDARD CHARTERED BANK",
+   "swiftCode": "SCBLIDJX"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "SUMITOMO MITSUI INDONESIA",
+   "swiftCode": "SUNIIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "THE ROYAL BANK OF SCOTLAND N.V.",
+   "swiftCode": "ABNAIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "UOB INDONESIA",
+   "swiftCode": "BBIJIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "VICTORIA INTERNATIONAL",
+   "swiftCode": "BVICIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "VICTORIA SYARIAH",
+   "swiftCode": "SWAGIDJ1"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "WINDU KENTJANA INTERNATIONAL TBK",
+   "swiftCode": "BWKIIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "WOORI INDONESIA",
+   "swiftCode": "HVBKIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "YUDHA BHAKTI",
+   "swiftCode": "YUDBIDJ1"
+ },
+ {
+   "f_company_code": "KH",
+   "bankName": "Sathapana Bank Plc",
+   "swiftCode": "MJBKKHPPXXX-056099"
+ },
+ {
+   "f_company_code": "KH",
+   "bankName": "BRED Bank (Cambodia) Plc",
+   "swiftCode": " BREDKHP2XXX-092001"
+ },
+ {
+   "f_company_code": "KH",
+   "bankName": " Kasikorn Bank",
+   "swiftCode": "KASITHBKXXX-091002"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "CIMB NIAGA",
+   "swiftCode": "BNIAIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "MANDIRI",
+   "swiftCode": "BMRIIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK CENTRAL ASIA",
+   "swiftCode": "CENAIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "BANK NEGARA INDONESIA",
+   "swiftCode": "BNINIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "DANAMON",
+   "swiftCode": "BDINIDJA"
+ },
+ {
+   "f_company_code": "ID",
+   "bankName": "HSBC",
+   "swiftCode": "HSBCIDJA"
+ },
+ {
+   "f_company_code": "TH",
+   "bankName": "CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK",
+   "swiftCode": "BKKBTHBK-028"
+ },
+ {
+   "f_company_code": "TH",
+   "bankName": "THE GOVERNMENT HOUSING BANK\t",
+   "swiftCode": "BKKBTHBK-033"
+ },
+ {
+   "f_company_code": "TH",
+   "bankName": "TISCO BANK PUBLIC COMPANY LIMITED",
+   "swiftCode": "BKKBTHBK-067"
+ },
+ {
+   "f_company_code": "TH",
+   "bankName": "KIATNAKIN BANK PUBLIC COMPANY LIMITED\t",
+   "swiftCode": "BKKBTHBK-069"
+ },
+ {
+   "f_company_code": "TH",
+   "bankName": "THE THAI CREDIT RETAIL BANK PUBLIC COMPANY LIMITED",
+   "swiftCode": "BKKBTHBK-071"
+ },
+ {
+   "f_company_code": "TH",
+   "bankName": "LAND AND HOUSES PUBLIC COMPANY LIMITED",
+   "swiftCode": "BKKBTHBK-073"
+ },
+ {
+   "f_company_code": "TH",
+   "bankName": "ANZ BANK (THAI) PUBLIC COMPANY LIMITED",
+   "swiftCode": "BKKBTHBK-079"
+ },
+ {
+   "f_company_code": "TH",
+   "bankName": "SUMITOMO MITSUI TRUST BANK (THAI) PUBLIC COMPANY LIMITED",
+   "swiftCode": "BKKBTHBK-080"
+ },
+ {
+   "f_company_code": "MY",
+   "bankName": "MAYBANK AMERICAN EXPRESS EZYPAY",
+   "swiftCode": "MBBEMYKLA"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "中國信託商業銀行",
+   "swiftCode": "822-2248"
+ },
+ {
+   "f_company_code": "TW",
+   "bankName": "合作金庫商業銀行",
+   "swiftCode": "006-3591"
+ }
+]

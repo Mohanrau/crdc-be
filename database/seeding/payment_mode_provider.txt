@@ -1,0 +1,110 @@
+[
+    {
+        "master_data_title": "cash",
+        "code": "cash",
+        "name": "Cash",
+        "is_stockist_payment_verification" : 1
+    },
+    {
+        "master_data_title": "stockist card (cash)",
+        "code": "stockist_card_cash",
+        "name": "Stockist Card (Cash)",
+        "is_stockist_payment_verification" : 1
+    },
+    {
+        "master_data_title": "online payment gateway",
+        "code": "ipay88",
+        "name": "Ipay88",
+        "is_stockist_payment_verification" : 0
+    },
+    {
+        "master_data_title": "online payment gateway",
+        "code": "enets",
+        "name": "ENETS",
+        "is_stockist_payment_verification" : 0
+    },
+    {
+        "master_data_title": "online payment gateway",
+        "code": "baiduri",
+        "name": "Baiduri Bank",
+        "is_stockist_payment_verification" : 0
+    },
+    {
+        "master_data_title": "online payment gateway",
+        "code": "ips",
+        "name": "IPS Hong Kong",
+        "is_stockist_payment_verification" : 0
+    },
+    {
+        "master_data_title": "online payment gateway",
+        "code": "ctbc",
+        "name": "CTBC",
+        "is_stockist_payment_verification" : 0
+    },
+    {
+        "master_data_title": "aeon",
+        "code": "aeon",
+        "name": "Aeon",
+        "is_stockist_payment_verification" : 0
+    },
+    {
+        "master_data_title": "epp (online)",
+        "code": "epp_online_ipay88",
+        "name": "EPP Online Ipay88",
+        "is_stockist_payment_verification" : 0
+    },
+    {
+        "master_data_title": "epp (terminal)",
+        "code": "epp_terminal",
+        "name": "EPP (Terminal)",
+        "is_stockist_payment_verification" : 0
+    },
+    {
+        "master_data_title": "epp (moto)",
+        "code": "epp_moto",
+        "name": "EPP (Moto)",
+        "is_stockist_payment_verification" : 0
+    },
+    {
+        "master_data_title": "credit card",
+        "code": "credit_card_mega",
+        "name": "Credit Card (Mega)",
+        "is_stockist_payment_verification" : 0
+    },
+    {
+        "master_data_title": "credit card",
+        "code": "credit_card",
+        "name": "Credit Card",
+        "is_stockist_payment_verification" : 0
+    },
+    {
+        "master_data_title": "mpos",
+        "code": "mpos",
+        "name": "MPOS",
+        "is_stockist_payment_verification" : 0
+    },
+    {
+        "master_data_title": "discount voucher",
+        "code": "discount_voucher",
+        "name": "Discount Voucher",
+        "is_stockist_payment_verification" : 1
+    },
+    {
+        "master_data_title": "direct banking",
+        "code": "direct_banking",
+        "name": "Direct Banking",
+        "is_stockist_payment_verification" : 1
+    },
+    {
+        "master_data_title": "house cheque",
+        "code": "house_cheque",
+        "name": "House Cheque",
+        "is_stockist_payment_verification" : 1
+    },
+    {
+        "master_data_title": "e-wallet",
+        "code": "e-wallet",
+        "name": "E-Wallet",
+        "is_stockist_payment_verification" : 0
+    }
+]

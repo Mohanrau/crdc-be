@@ -1,0 +1,1 @@
+{"same_day_cancellation": "SC001","cooling_off_cancellation": "SC002","buy_back_cancellation": "SC003","same_day_cancellation_with_refund": "SC004"}

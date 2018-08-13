@@ -1,0 +1,27 @@
+[
+    {
+        "country_code": "MY",
+        "master_data_code": "round to nearest 5-cent",
+        "status": 1
+    },
+    {
+        "country_code": "SG",
+        "master_data_code": "round to nearest 5-cent",
+        "status": 1
+    },
+    {
+        "country_code": "BN",
+        "master_data_code": "round to nearest 5-cent",
+        "status": 1
+    },
+    {
+        "country_code": "TW",
+        "master_data_code": "round-up to dollar",
+        "status": 1
+    },
+    {
+        "country_code": "ID",
+        "master_data_code": "round-up to nearest rp",
+        "status": 1
+    }
+]

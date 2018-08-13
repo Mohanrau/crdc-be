@@ -1,0 +1,65 @@
+[
+ {
+   "country_code": "MY",
+   "code": "SR",
+   "rate": 0,
+   "default": 1,
+   "active": 1
+ },
+ {
+   "country_code": "TH",
+   "code": "SR",
+   "rate": 7,
+   "default": 1,
+   "active": 1
+ },
+ {
+   "country_code": "BN",
+   "code": "SR",
+   "rate": 0,
+   "default": 1,
+   "active": 1
+ },
+ {
+   "country_code": "SG",
+   "code": "SR",
+   "rate": 7,
+   "default": 1,
+   "active": 1
+ },
+ {
+   "country_code": "TW",
+   "code": "SR",
+   "rate": 5,
+   "default": 1,
+   "active": 1
+ },
+ {
+   "country_code": "HK",
+   "code": "SR",
+   "rate": 0,
+   "default": 1,
+   "active": 1
+ },
+ {
+   "country_code": "KH",
+   "code": "SR",
+   "rate": 10,
+   "default": 1,
+   "active": 1
+ },
+ {
+   "country_code": "PH",
+   "code": "SR",
+   "rate": 12,
+   "default": 1,
+   "active": 1
+ },
+ {
+   "country_code": "ID",
+   "code": "SR",
+   "rate": 10,
+   "default": 1,
+   "active": 1
+ }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "title" : "BA",
+        "info" : "
+            <ul>
+                <li>Eligible for Bonus payment</li>
+                <li>Entitled to sponser and bulid network business</li>
+                <li>Purchase products at member price</li>
+                <li>iElken Business Manual -A file which explains the iElken Compensation Plan, detailing the business.
+                model and its Five Bonus Programme, glossary of terms and members\ Rules & Regulations.</li>
+                <li>iElken Product Catalogue - A file that contains a list of all the products available under iElken.
+                Each line of the product catalogue contains a description of each product, including its code,
+                name, category, price, picture and other attributes</li>
+                <li>iElken Corporate Brochure</li>
+                <li>iElken Corporate Video</li>
+                <li>iElken Business Suite (IBS for membership activation)</li>
+                <li>Comprehensive Back office management - membership module, sales reporting, genealogy monitoring,
+                e-commerce module, e-wallet management and campaign module</li>
+                <li>Interactive personalised website</li>
+            </ul>
+        ",
+        "active" : 1
+    },
+
+    {
+        "title" : "Peremium Member",
+        "info" : "
+            <ul>
+                <li>Eligible for Bonus payment</li>
+                <li>Entitled to sponser and bulid network business</li>
+                <li>Purchase products at member price</li>
+                <li>iElken Business Manual -A file which explains the iElken Compensation Plan, detailing the business.
+                model and its Five Bonus Programme, glossary of terms and members\ Rules & Regulations.</li>
+                <li>iElken Product Catalogue - A file that contains a list of all the products available under iElken.
+                Each line of the product catalogue contains a description of each product, including its code,
+                name, category, price, picture and other attributes</li>
+                <li>iElken Corporate Brochure</li>
+                <li>iElken Corporate Video</li>
+                <li>iElken Business Suite (IBS for membership activation)</li>
+                <li>Comprehensive Back office management - membership module, sales reporting, genealogy monitoring,
+                e-commerce module, e-wallet management and campaign module</li>
+                <li>Interactive personalised website</li>
+            </ul>
+        ",
+        "active" : 1
+    },
+
+    {
+        "title" : "Member",
+        "info" : "
+            <ul>
+                <li>Eligible for Bonus payment</li>
+                <li>Entitled to sponser and bulid network business</li>
+                <li>Purchase products at member price</li>
+                <li>iElken Business Manual -A file which explains the iElken Compensation Plan, detailing the business.
+                model and its Five Bonus Programme, glossary of terms and members\ Rules & Regulations.</li>
+                <li>iElken Product Catalogue - A file that contains a list of all the products available under iElken.
+                Each line of the product catalogue contains a description of each product, including its code,
+                name, category, price, picture and other attributes</li>
+                <li>iElken Corporate Brochure</li>
+                <li>iElken Corporate Video</li>
+                <li>iElken Business Suite (IBS for membership activation)</li>
+                <li>Comprehensive Back office management - membership module, sales reporting, genealogy monitoring,
+                e-commerce module, e-wallet management and campaign module</li>
+                <li>Interactive personalised website</li>
+            </ul>
+        ",
+        "active" : 1
+    }
+]
+
