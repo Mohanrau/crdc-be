@@ -55,7 +55,7 @@ class UserController extends Controller
      */
     public function register(UserRegisterRequest $request)
     {
-        $this->authorize('create', [$this->authorizedModel]);
+        // $this->authorize('create', [$this->authorizedModel]);
 
         $userData = $request->all();
 
