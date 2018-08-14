@@ -5,24 +5,15 @@ use App\Interfaces\{
     Authorizations\RoleGroupInterface,
     Authorizations\RoleInterface,
     Dashboard\DashboardInterface,
-    Locations\EntityInterface,
-    Locations\LocationInterface,
     Masters\MasterDataInterface,
     Masters\MasterInterface,
     Modules\ModuleInterface,
     Staff\StaffInterface,
     Uploader\UploaderInterface,
     Users\UserInterface,
-    Locations\CountryInterface,
-    Locations\StateInterface,
-    Locations\CityInterface,
     Currency\CurrencyInterface,
     Languages\LanguageInterface,
-    Members\MemberTreeInterface,
-    Members\MemberInterface,
-    General\CwSchedulesInterface,
     Settings\SettingsInterface,
-    Locations\ZoneInterface
 };
 use App\Repositories\{
     Authorizations\RoleGroupRepository,
@@ -40,7 +31,6 @@ use App\Repositories\{
     Locations\StateRepository,
     Locations\CityRepository,
     Languages\LanguageRepository,
-    Sales\SaleRepository,
     Settings\SettingsRepository,
     Locations\ZoneRepository
 };

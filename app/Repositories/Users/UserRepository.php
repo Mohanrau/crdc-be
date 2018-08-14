@@ -10,8 +10,6 @@ use App\{
     Models\Locations\Country,
     Models\Users\Guest,
     Models\Locations\Entity,
-    Models\Sales\Sale,
-    Models\Stockists\StockistCommission,
     Models\Users\User,
     Models\Users\UserType,
     Notifications\Users\WelcomeNotification,
@@ -64,7 +62,6 @@ class UserRepository extends BaseRepository implements UserInterface
      * @param AuthorizationServer $server
      * @param Guest $guestModel
      * @param Entity $entity
-     * @param Sale $sale
      * @param CWSchedule $cwSchedule
      * @param CwSchedulesInterface $cwScheduleInterface
      * @param StockistCommission $stockistCommission
@@ -77,7 +74,6 @@ class UserRepository extends BaseRepository implements UserInterface
         AuthorizationServer $server,
         Guest $guestModel,
         Entity $entity,
-        Sale $sale,
         CWSchedule $cwSchedule,
         CwSchedulesInterface $cwScheduleInterface,
         StockistCommission $stockistCommission
@@ -94,8 +90,6 @@ class UserRepository extends BaseRepository implements UserInterface
         $this->authorizationServer = $server;
 
         $this->guestModel = $guestModel;
-
-        $this->saleObj = $sale;
 
         $this->entityObj = $entity;
 
