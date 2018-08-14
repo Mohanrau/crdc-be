@@ -3,10 +3,8 @@ namespace App\Repositories\Users;
 
 use App\{
     Helpers\Traits\ResourceRepository,
-    Interfaces\General\CwSchedulesInterface,
     Interfaces\Users\UserInterface,
     Models\Authorizations\Role,
-    Models\General\CWSchedule,
     Models\Locations\Country,
     Models\Users\Guest,
     Models\Locations\Entity,
@@ -45,11 +43,7 @@ class UserRepository extends BaseRepository implements UserInterface
         $with = null,
         $authorizationServer,
         $guestModel,
-        $entityObj,
-        $saleObj,
-        $cwScheduleModelObj,
-        $cwScheduleObj,
-        $stockistCommissionObj
+        $entityObj
     ;
 
     /**
@@ -73,10 +67,7 @@ class UserRepository extends BaseRepository implements UserInterface
         Country $country,
         AuthorizationServer $server,
         Guest $guestModel,
-        Entity $entity,
-        CWSchedule $cwSchedule,
-        CwSchedulesInterface $cwScheduleInterface,
-        StockistCommission $stockistCommission
+        Entity $entity
     )
     {
         parent::__construct($model);
@@ -92,12 +83,6 @@ class UserRepository extends BaseRepository implements UserInterface
         $this->guestModel = $guestModel;
 
         $this->entityObj = $entity;
-
-        $this->cwScheduleModelObj = $cwSchedule;
-
-        $this->cwScheduleObj = $cwScheduleInterface;
-
-        $this->stockistCommissionObj = $stockistCommission;
 
     }
 
