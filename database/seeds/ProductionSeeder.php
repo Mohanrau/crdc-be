@@ -21,13 +21,6 @@ class ProductionSeeder extends Seeder
             //master data ----------------------------------------------------------------------------------------------
             MasterSeeder::class,
 
-            //Cw data---------------------------------------------------------------------------------------------------
-            CWScheduleSeeder::class,
-            CWDividendSeeder::class,
-
-            TeamBonusRankSeeder::class,
-            EnrollmentRankSeeder::class,
-
             //location data---------------------------------------------------------------------------------------------
             CurrencySeeder::class,
             LocationTypesSeeder::class,
@@ -42,24 +35,6 @@ class ProductionSeeder extends Seeder
 
             SettingSeeder::class,
             RunningNumberSeeder::class,
-            PaymentModeSeeder::class,
-
-            //Enrollments seeders---------------------------------------------------------------------------------------
-            EnrollmentTypesSeeder::class,
-            EnrollmentCountriesSeeder::class,
-
-            //Workflow seeders---------------------------------------------------------------------------------------
-            WorkflowMasterSeeder::class,
-
-            //Enrollments seeders---------------------------------------------------------------------------------------
-            EnrollmentTypesSeeder::class,
-            EnrollmentCountriesSeeder::class,
-
-            //default roles seeder--------------------------------------------------------------------------------------
-            MemberRoleSeeder::class,
-            StockistRoleSeeder::class,
-
-            //
         ]);
     }
 }

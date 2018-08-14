@@ -1,8 +1,6 @@
 <?php
 
 use Illuminate\Database\Seeder;
-use App\Models\Members\MemberTree;
-use App\Models\Members\Member;
 
 class StagingSeeder extends Seeder
 {
@@ -24,13 +22,6 @@ class StagingSeeder extends Seeder
             //master data ----------------------------------------------------------------------------------------------
             MasterSeeder::class,
 
-            //Cw data---------------------------------------------------------------------------------------------------
-            CWScheduleSeeder::class,
-            CWDividendSeeder::class,
-
-            TeamBonusRankSeeder::class,
-            EnrollmentRankSeeder::class,
-
             //location data---------------------------------------------------------------------------------------------
             CurrencySeeder::class,
             LocationTypesSeeder::class,
@@ -41,32 +32,6 @@ class StagingSeeder extends Seeder
             SettingSeeder::class,
             RunningNumberSeeder::class,
             PaymentModeSeeder::class,
-
-            //Products data --------------------------------------------------------------------------------------------
-            ProductCategorySeeder::class,
-            ProductSeeder::class,
-            ProductPriceSeeder::class,
-
-            //member tree data------------------------------------------------------------------------------------------
-            MemberTreeSeeder::class,
-            MemberTreePyramidAlgoritmSeeder::class,
-            MemberSeeder::class,
-            TeamBonusSeeder::class,
-            MemberRankTransactionSeeder::class,
-            StockLocationSeeder::class,
-            LocationStockLocationSeeder::class,
-            StockLocationCitySeeder::class,
-
-            //workflow data---------------------------------------------------------------------------------------------
-            WorkflowMasterSeeder::class,
-
-            //Enrollments seeders---------------------------------------------------------------------------------------
-            EnrollmentTypesSeeder::class,
-            EnrollmentCountriesSeeder::class,
-
-            //default roles seeder--------------------------------------------------------------------------------------
-            MemberRoleSeeder::class,
-            StockistRoleSeeder::class,
         ]);
     }
 }
